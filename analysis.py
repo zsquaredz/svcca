@@ -1,0 +1,58 @@
+from json.tool import main
+import os, sys
+from matplotlib import pyplot as plt
+# matplotlib inline
+import numpy as np
+import pickle
+import pandas
+import gzip
+import argparse
+import cca_core
+
+def SVCCA(file1, file2):
+    acts1 = np.load(file1)
+    acts2 = np.load(file2)
+    print('file loaded')
+    acts1 = acts1.T
+    acts2 = acts2.T
+    # print(acts1.shape) # need to be (number of neurons, number of test data points)
+    # print(acts2.shape)
+
+    # Mean subtract activations
+    cacts1 = acts1 - np.mean(acts1, axis=1, keepdims=True)
+    cacts2 = acts2 - np.mean(acts2, axis=1, keepdims=True)
+
+    print('starting to perform SVD')
+    # Perform SVD
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+
+    print("Fraction of variance explained by 20 singular vectors", np.sum(s1[:20])/np.sum(s1))
+    print("Fraction of variance explained by 50 singular vectors", np.sum(s1[:50])/np.sum(s1))
+    print("Fraction of variance explained by 100 singular vectors", np.sum(s1[:100])/np.sum(s1))
+
+    svacts1 = np.dot(s1[:20]*np.eye(20), V1[:20])
+    # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
+    svacts2 = np.dot(s2[:20]*np.eye(20), V2[:20])
+    # can also compute as svacts1 = np.dot(U2.T[:20], cacts2)
+    print('SVD done')
+
+    print('starting to perform CCA')
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+    print("result", np.mean(svcca_results["cca_coef1"]))
+
+    plt.plot(svcca_results["cca_coef1"], lw=2.0, label="MNIST")
+    plt.xlabel("Sorted CCA Correlation Coeff Idx")
+    plt.ylabel("CCA Correlation Coefficient Value")
+    plt.legend(loc="best")
+    plt.grid()
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="data")
+    parser.add_argument("--category1", type=str, default='Books', help="category")
+    parser.add_argument("--data_dir1", type=str, default='./data/', help="Directory of data")
+    parser.add_argument("--category2", type=str, default='Books', help="category")
+    parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
+    args = parser.parse_args()
+    
+    SVCCA(args.data_dir1, args.data_dir2)
