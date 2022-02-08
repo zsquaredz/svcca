@@ -12,7 +12,7 @@ MODEL_CAT2=Books
 DATA_CATEGORY2=Books
 seed2=1
 
-layer=1
+layer=2
 
 epoch=0
 echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
