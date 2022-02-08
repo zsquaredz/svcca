@@ -12,7 +12,7 @@ import cca_core
 def SVCCA(file1, file2):
     acts1 = np.load(file1)
     acts2 = np.load(file2)
-    print('file loaded')
+    # print('file loaded')
     acts1 = acts1.T
     acts2 = acts2.T
     # print(acts1.shape) # need to be (number of neurons, number of test data points)
@@ -39,7 +39,7 @@ def SVCCA(file1, file2):
 
     svacts1, svacts2 = acts1, acts2
 
-    print('starting to perform CCA')
+    # print('starting to perform CCA')
     svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
     print("result", np.mean(svcca_results["cca_coef1"]))
 
