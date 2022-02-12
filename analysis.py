@@ -34,6 +34,9 @@ def SVCCA(file1, file2):
     print("Fraction of variance explained by 500 singular vectors", np.sum(s1[:500])/np.sum(s1))
     print("Fraction of variance explained by 600 singular vectors", np.sum(s1[:600])/np.sum(s1))
     print("Fraction of variance explained by 700 singular vectors", np.sum(s1[:700])/np.sum(s1))
+    print("Fraction of variance explained by 730 singular vectors", np.sum(s1[:730])/np.sum(s1))
+    print("Fraction of variance explained by 750 singular vectors", np.sum(s1[:750])/np.sum(s1))
+    print("Fraction of variance explained by 760 singular vectors", np.sum(s1[:760])/np.sum(s1))
 
     svacts1 = np.dot(s1[:20]*np.eye(20), V1[:20])
     # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
@@ -41,7 +44,7 @@ def SVCCA(file1, file2):
     # can also compute as svacts1 = np.dot(U2.T[:20], cacts2)
     print('SVD done')
 
-    svacts1, svacts2 = acts1, acts2
+    # svacts1, svacts2 = acts1, acts2
 
     # print('starting to perform CCA')
     svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
