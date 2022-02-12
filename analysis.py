@@ -50,6 +50,24 @@ def SVCCA(file1, file2):
     svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
     print("result", np.mean(svcca_results["cca_coef1"]))
 
+    svacts1 = np.dot(s1[:200]*np.eye(200), V1[:200])
+    # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
+    svacts2 = np.dot(s2[:200]*np.eye(200), V2[:200])
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+    print("result for 20", np.mean(svcca_results["cca_coef1"]))
+
+    svacts1 = np.dot(s1[:500]*np.eye(500), V1[:500])
+    # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
+    svacts2 = np.dot(s2[:500]*np.eye(500), V2[:500])
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+    print("result for 20", np.mean(svcca_results["cca_coef1"]))
+
+    svacts1 = np.dot(s1[:750]*np.eye(750), V1[:750])
+    # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
+    svacts2 = np.dot(s2[:750]*np.eye(750), V2[:750])
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+    print("result for 20", np.mean(svcca_results["cca_coef1"]))
+
     # plt.plot(svcca_results["cca_coef1"], lw=2.0, label="MNIST")
     # plt.xlabel("Sorted CCA Correlation Coeff Idx")
     # plt.ylabel("CCA Correlation Coefficient Value")
