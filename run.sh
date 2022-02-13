@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/.bashrc
+source /disk/ocean/zheng/.bashrc
 conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
