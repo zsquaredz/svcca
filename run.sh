@@ -10,7 +10,7 @@ seed1=1
 
 MODEL_CAT2=Books
 DATA_CATEGORY2=Books
-seed2=2
+seed2=1
 
 #layer=8
 for layer in {0..12}
