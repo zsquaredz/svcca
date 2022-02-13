@@ -4,7 +4,7 @@ source ~/.bashrc
 conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
-MODEL_CAT1=top5
+MODEL_CAT1=Books
 DATA_CATEGORY1=Books
 seed1=1
 
