@@ -1,5 +1,7 @@
 from json.tool import main
 import os, sys
+os.environ['HOME'] = '/disk/ocean/zheng/'
+os.environ['MPLCONFIGDIR'] = "/disk/ocean/zheng/.config/matplotlib/"
 from matplotlib import pyplot as plt
 # matplotlib inline
 import numpy as np
