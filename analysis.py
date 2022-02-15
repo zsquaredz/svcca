@@ -1,7 +1,7 @@
 from json.tool import main
 import os, sys
-os.environ['HOME'] = '/disk/ocean/zheng/'
-os.environ['MPLCONFIGDIR'] = "/disk/ocean/zheng/.config/matplotlib/"
+os.environ['HOME'] = '/disk/ocean/zheng/' # for server only
+os.environ['MPLCONFIGDIR'] = "/disk/ocean/zheng/.config/matplotlib/" # for server only
 from matplotlib import pyplot as plt
 # matplotlib inline
 import numpy as np
