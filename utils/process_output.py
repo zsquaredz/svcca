@@ -22,5 +22,5 @@ def read_out_file(file, csv_file):
             writer.writerow(layer_row)
 
 if __name__ == '__main__':
-    read_out_file('out/svcca_top5_seed1_book_seed1_all_layers.txt',
-                    'out/svcca_top5_seed1_book_seed1_all_layers.csv')
+    read_out_file('out/svcca_book_seed1_book_seed2_all_layers.txt',
+                    'out/svcca_book_seed1_book_seed2_all_layers.csv')
