@@ -76,6 +76,14 @@ def SVCCA(file1, file2):
     # plt.legend(loc="best")
     # plt.grid()
 
+def Corr(file1, file2):
+    attentions1 = np.load(file1)
+    attentions2 = np.load(file2)
+    corr = np.corrcoef(attentions1, attentions2)
+    print("Corr result", corr[0][1])
+
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="data")
     parser.add_argument("--category1", type=str, default='Books', help="category")
@@ -84,4 +92,5 @@ if __name__ == '__main__':
     parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
     args = parser.parse_args()
     
-    SVCCA(args.data_dir1, args.data_dir2)
+    # SVCCA(args.data_dir1, args.data_dir2)
+    Corr(args.data_dir1, args.data_dir2)
