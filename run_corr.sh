@@ -26,7 +26,7 @@ do
 
   for epoch in {1..202..10}
   do
-    for for head in {1..12}
+    for head in {1..12}
     do
       echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}-head-${head}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}-head-${head}"
       python analysis.py \
