@@ -5,13 +5,13 @@ conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
 
-EXP_NAME=50_data
+EXP_NAME=10_data
 
 MODEL_CAT1=top5
 DATA_CATEGORY1=Books
 seed1=1
 
-MODEL_CAT2=top5
+MODEL_CAT2=Books
 DATA_CATEGORY2=Books
 seed2=1
 
