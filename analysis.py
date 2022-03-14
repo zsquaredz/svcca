@@ -90,7 +90,12 @@ if __name__ == '__main__':
     parser.add_argument("--data_dir1", type=str, default='./data/', help="Directory of data")
     parser.add_argument("--category2", type=str, default='Books', help="category")
     parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
+    parser.add_argument("--do_svcca", action='store_true', help="Whether to do SVCCA")
+    parser.add_argument("--do_corr", action='store_true', help="Whether to do correlation")
     args = parser.parse_args()
     
-    SVCCA(args.data_dir1, args.data_dir2)
-    # Corr(args.data_dir1, args.data_dir2)
+    if args.do_svcca:
+        SVCCA(args.data_dir1, args.data_dir2)
+    elif args.do_corr:
+        Corr(args.data_dir1, args.data_dir2)
+    
