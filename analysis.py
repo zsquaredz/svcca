@@ -92,5 +92,5 @@ if __name__ == '__main__':
     parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
     args = parser.parse_args()
     
-    # SVCCA(args.data_dir1, args.data_dir2)
-    Corr(args.data_dir1, args.data_dir2)
+    SVCCA(args.data_dir1, args.data_dir2)
+    # Corr(args.data_dir1, args.data_dir2)
