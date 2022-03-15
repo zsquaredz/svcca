@@ -1,0 +1,3380 @@
+currently doing epoch 0, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99172115
+SVD done
+result 0.9999999879924123
+currently doing epoch 1, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9917197
+SVD done
+result 0.9998945160070085
+currently doing epoch 11, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9916766
+SVD done
+result 0.9989017118775234
+currently doing epoch 21, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9916252
+SVD done
+result 0.9976358793673343
+currently doing epoch 31, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.991594
+SVD done
+result 0.9956593426098627
+currently doing epoch 41, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99157476
+SVD done
+result 0.9933114192856207
+currently doing epoch 51, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9915641
+SVD done
+result 0.9910552333056427
+currently doing epoch 61, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99156076
+SVD done
+result 0.9886657903100027
+currently doing epoch 71, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9915617
+SVD done
+result 0.9862239473744535
+currently doing epoch 81, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9915674
+SVD done
+result 0.9837374865891021
+currently doing epoch 91, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99157465
+SVD done
+result 0.9811408415760091
+currently doing epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9915879
+SVD done
+result 0.9785680287668747
+currently doing epoch 111, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99160355
+SVD done
+result 0.9760511195407686
+currently doing epoch 121, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9916217
+SVD done
+result 0.973505731617622
+currently doing epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.991644
+SVD done
+result 0.970721876492953
+currently doing epoch 141, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9916688
+SVD done
+result 0.9680220865949763
+currently doing epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9916911
+SVD done
+result 0.9653730397564366
+currently doing epoch 161, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9917107
+SVD done
+result 0.96272519909248
+currently doing epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9917292
+SVD done
+result 0.9603035247996476
+currently doing epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.991749
+SVD done
+result 0.9579236603356907
+currently doing epoch 191, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9917677
+SVD done
+result 0.9555094900789888
+currently doing epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99178255
+SVD done
+result 0.9532969349906956
+currently doing epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9917981
+SVD done
+result 0.9512392893985874
+currently doing epoch 221, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9918104
+SVD done
+result 0.94920982623849
+currently doing epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9918211
+SVD done
+result 0.9473467887226826
+currently doing epoch 241, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99183273
+SVD done
+result 0.945547053420587
+currently doing epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9918429
+SVD done
+result 0.9438525845945196
+currently doing epoch 261, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99185306
+SVD done
+result 0.9422075293448894
+currently doing epoch 271, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99186224
+SVD done
+result 0.9406932749255842
+currently doing epoch 281, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99187183
+SVD done
+result 0.9392142479444983
+currently doing epoch 291, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.991881
+SVD done
+result 0.9378207351695971
+currently doing epoch 301, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99188995
+SVD done
+result 0.9365064093223564
+currently doing epoch 311, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99189854
+SVD done
+result 0.9352955475819523
+currently doing epoch 321, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99190587
+SVD done
+result 0.9341520480752367
+currently doing epoch 331, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99191386
+SVD done
+result 0.9331070791076812
+currently doing epoch 341, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919211
+SVD done
+result 0.9321182668995192
+currently doing epoch 351, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99192816
+SVD done
+result 0.9312451439268048
+currently doing epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99193466
+SVD done
+result 0.9303964361556526
+currently doing epoch 371, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919406
+SVD done
+result 0.9296073072493323
+currently doing epoch 381, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99194634
+SVD done
+result 0.9287990356172475
+currently doing epoch 391, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919512
+SVD done
+result 0.9281311329853789
+currently doing epoch 401, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919555
+SVD done
+result 0.9274882621864766
+currently doing epoch 411, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919595
+SVD done
+result 0.9269299138382845
+currently doing epoch 421, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99196315
+SVD done
+result 0.9264671173698406
+currently doing epoch 431, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919665
+SVD done
+result 0.9260372752616964
+currently doing epoch 441, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919691
+SVD done
+result 0.9256749628039931
+currently doing epoch 451, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919712
+SVD done
+result 0.9253661935533113
+currently doing epoch 461, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99197304
+SVD done
+result 0.9251206447592962
+currently doing epoch 471, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919746
+SVD done
+result 0.9249247592118087
+currently doing epoch 481, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919757
+SVD done
+result 0.9247884773894776
+currently doing epoch 491, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99197626
+SVD done
+result 0.9247099484799701
+currently doing epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9919765
+SVD done
+result 0.9246873606181152
+currently doing epoch 0, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928798
+SVD done
+result 0.9999999855677673
+currently doing epoch 1, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928995
+SVD done
+result 0.999811006975399
+currently doing epoch 11, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928151
+SVD done
+result 0.9980977647046265
+currently doing epoch 21, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927747
+SVD done
+result 0.9964877666366473
+currently doing epoch 31, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927344
+SVD done
+result 0.9940453505576204
+currently doing epoch 41, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99269885
+SVD done
+result 0.9911461989976409
+currently doing epoch 51, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9926604
+SVD done
+result 0.9878859361116777
+currently doing epoch 61, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9926351
+SVD done
+result 0.9840527928488739
+currently doing epoch 71, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99261546
+SVD done
+result 0.980284312208677
+currently doing epoch 81, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99259037
+SVD done
+result 0.9765045674741747
+currently doing epoch 91, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.992567
+SVD done
+result 0.9730943209180429
+currently doing epoch 101, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9925546
+SVD done
+result 0.9693756982338646
+currently doing epoch 111, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9925469
+SVD done
+result 0.9656259370941718
+currently doing epoch 121, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99255574
+SVD done
+result 0.961812308113175
+currently doing epoch 131, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9925656
+SVD done
+result 0.9575841603598134
+currently doing epoch 141, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99258244
+SVD done
+result 0.9537664300685472
+currently doing epoch 151, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9925945
+SVD done
+result 0.9501479355003996
+currently doing epoch 161, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9926038
+SVD done
+result 0.9465611868662196
+currently doing epoch 171, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99261165
+SVD done
+result 0.9433530135299858
+currently doing epoch 181, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99263275
+SVD done
+result 0.9397208510560916
+currently doing epoch 191, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99264634
+SVD done
+result 0.936483050524144
+currently doing epoch 201, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99265987
+SVD done
+result 0.9336403094415564
+currently doing epoch 211, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9926645
+SVD done
+result 0.9306509640168779
+currently doing epoch 221, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9926781
+SVD done
+result 0.9280030910408078
+currently doing epoch 231, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.992684
+SVD done
+result 0.9253019284090788
+currently doing epoch 241, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99269295
+SVD done
+result 0.9228502079212847
+currently doing epoch 251, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99270356
+SVD done
+result 0.9202459679327496
+currently doing epoch 261, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927099
+SVD done
+result 0.9179374938577651
+currently doing epoch 271, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99271876
+SVD done
+result 0.9157312364591443
+currently doing epoch 281, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99273014
+SVD done
+result 0.9135658619931749
+currently doing epoch 291, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99273723
+SVD done
+result 0.9117866066923731
+currently doing epoch 301, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99274904
+SVD done
+result 0.9099853570695462
+currently doing epoch 311, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99275696
+SVD done
+result 0.908304399243234
+currently doing epoch 321, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927662
+SVD done
+result 0.9068389229651727
+currently doing epoch 331, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99277604
+SVD done
+result 0.9053000757374643
+currently doing epoch 341, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927831
+SVD done
+result 0.9039582319303734
+currently doing epoch 351, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927906
+SVD done
+result 0.9026598063014671
+currently doing epoch 361, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9927993
+SVD done
+result 0.9014692421593199
+currently doing epoch 371, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.992807
+SVD done
+result 0.9004381076561881
+currently doing epoch 381, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928147
+SVD done
+result 0.8994574638703526
+currently doing epoch 391, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928216
+SVD done
+result 0.8985832269183226
+currently doing epoch 401, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99282634
+SVD done
+result 0.8977647401061913
+currently doing epoch 411, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99283296
+SVD done
+result 0.8970562679694734
+currently doing epoch 421, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928364
+SVD done
+result 0.8963716536463876
+currently doing epoch 431, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928401
+SVD done
+result 0.8958219192363195
+currently doing epoch 441, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928443
+SVD done
+result 0.8952955977152182
+currently doing epoch 451, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99284697
+SVD done
+result 0.8949022451736184
+currently doing epoch 461, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99284935
+SVD done
+result 0.8946070212763101
+currently doing epoch 471, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928518
+SVD done
+result 0.8943409414498755
+currently doing epoch 481, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928539
+SVD done
+result 0.8941560382237559
+currently doing epoch 491, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99285495
+SVD done
+result 0.8940535243136652
+currently doing epoch 501, seed-1-Model-top5-layer-1, and seed-1-Model-Books-layer-1
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9928549
+SVD done
+result 0.8940281859929858
+currently doing epoch 0, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99366456
+SVD done
+result 0.9999999836544436
+currently doing epoch 1, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938105
+SVD done
+result 0.9992683338706169
+currently doing epoch 11, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934083
+SVD done
+result 0.9974951401208159
+currently doing epoch 21, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933682
+SVD done
+result 0.9942614428617675
+currently doing epoch 31, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933551
+SVD done
+result 0.9906846337847073
+currently doing epoch 41, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99335706
+SVD done
+result 0.9862452300970064
+currently doing epoch 51, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99335057
+SVD done
+result 0.9813020328655375
+currently doing epoch 61, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933469
+SVD done
+result 0.9762779889988307
+currently doing epoch 71, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99334383
+SVD done
+result 0.9712305270307109
+currently doing epoch 81, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99333835
+SVD done
+result 0.9658964968949563
+currently doing epoch 91, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99331355
+SVD done
+result 0.960763054956438
+currently doing epoch 101, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933046
+SVD done
+result 0.9552598638720028
+currently doing epoch 111, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99329627
+SVD done
+result 0.950322318826856
+currently doing epoch 121, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99330276
+SVD done
+result 0.9449222352904116
+currently doing epoch 131, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993312
+SVD done
+result 0.9393949118591146
+currently doing epoch 141, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933281
+SVD done
+result 0.9337483500830005
+currently doing epoch 151, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99333996
+SVD done
+result 0.9279904820044654
+currently doing epoch 161, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99334556
+SVD done
+result 0.9231333504553432
+currently doing epoch 171, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9933532
+SVD done
+result 0.9184467180872338
+currently doing epoch 181, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99337476
+SVD done
+result 0.9139248355225188
+currently doing epoch 191, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99339384
+SVD done
+result 0.9095551665243066
+currently doing epoch 201, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934071
+SVD done
+result 0.9051267673140553
+currently doing epoch 211, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934035
+SVD done
+result 0.9010416530657244
+currently doing epoch 221, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934175
+SVD done
+result 0.8972057766216867
+currently doing epoch 231, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934216
+SVD done
+result 0.8936368130988177
+currently doing epoch 241, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934264
+SVD done
+result 0.8899715125188031
+currently doing epoch 251, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934343
+SVD done
+result 0.8866110518924417
+currently doing epoch 261, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993439
+SVD done
+result 0.8835046109079502
+currently doing epoch 271, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934461
+SVD done
+result 0.8805787415684123
+currently doing epoch 281, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934531
+SVD done
+result 0.877780770639046
+currently doing epoch 291, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934595
+SVD done
+result 0.8752645594602992
+currently doing epoch 301, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934699
+SVD done
+result 0.8729021671517179
+currently doing epoch 311, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934767
+SVD done
+result 0.8707320170929089
+currently doing epoch 321, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99348444
+SVD done
+result 0.8689197353982263
+currently doing epoch 331, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99349046
+SVD done
+result 0.866833449552058
+currently doing epoch 341, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99349344
+SVD done
+result 0.8648980122606303
+currently doing epoch 351, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934957
+SVD done
+result 0.8631656083128388
+currently doing epoch 361, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993503
+SVD done
+result 0.8617465593829859
+currently doing epoch 371, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99350786
+SVD done
+result 0.860401187885085
+currently doing epoch 381, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935132
+SVD done
+result 0.8589810024018868
+currently doing epoch 391, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99351823
+SVD done
+result 0.8578412765975022
+currently doing epoch 401, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935215
+SVD done
+result 0.8567837517702286
+currently doing epoch 411, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935278
+SVD done
+result 0.85587543330379
+currently doing epoch 421, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99352795
+SVD done
+result 0.8550081688762454
+currently doing epoch 431, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935308
+SVD done
+result 0.8542682682968754
+currently doing epoch 441, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935341
+SVD done
+result 0.8536133968470924
+currently doing epoch 451, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935359
+SVD done
+result 0.853111635173325
+currently doing epoch 461, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935382
+SVD done
+result 0.8527245266959254
+currently doing epoch 471, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935399
+SVD done
+result 0.8524040215585384
+currently doing epoch 481, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935421
+SVD done
+result 0.8521670048419255
+currently doing epoch 491, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935432
+SVD done
+result 0.8520316297527758
+currently doing epoch 501, seed-1-Model-top5-layer-2, and seed-1-Model-Books-layer-2
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99354327
+SVD done
+result 0.8519845983225093
+currently doing epoch 0, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941595
+SVD done
+result 0.9999999806852866
+currently doing epoch 1, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945241
+SVD done
+result 0.9994335414136466
+currently doing epoch 11, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937103
+SVD done
+result 0.995350836287448
+currently doing epoch 21, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99372196
+SVD done
+result 0.9895488582999479
+currently doing epoch 31, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937624
+SVD done
+result 0.9849356972359529
+currently doing epoch 41, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99381083
+SVD done
+result 0.9787994124928752
+currently doing epoch 51, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938339
+SVD done
+result 0.9719559081949789
+currently doing epoch 61, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938526
+SVD done
+result 0.9652001980126121
+currently doing epoch 71, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99387324
+SVD done
+result 0.9585196446886509
+currently doing epoch 81, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99388105
+SVD done
+result 0.9510100954071997
+currently doing epoch 91, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938625
+SVD done
+result 0.9438023747350098
+currently doing epoch 101, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938575
+SVD done
+result 0.9368055546359753
+currently doing epoch 111, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938457
+SVD done
+result 0.929394449032852
+currently doing epoch 121, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938419
+SVD done
+result 0.9210018885816599
+currently doing epoch 131, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938336
+SVD done
+result 0.9124376711634118
+currently doing epoch 141, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938315
+SVD done
+result 0.9019935141764466
+currently doing epoch 151, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938293
+SVD done
+result 0.8928568668341529
+currently doing epoch 161, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99381995
+SVD done
+result 0.8854538626466738
+currently doing epoch 171, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99382204
+SVD done
+result 0.8787671543444792
+currently doing epoch 181, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938308
+SVD done
+result 0.8721208672006896
+currently doing epoch 191, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383867
+SVD done
+result 0.8658982809339908
+currently doing epoch 201, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384004
+SVD done
+result 0.85992353009493
+currently doing epoch 211, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383336
+SVD done
+result 0.8544291177262294
+currently doing epoch 221, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938433
+SVD done
+result 0.8496230213833548
+currently doing epoch 231, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938353
+SVD done
+result 0.8447674028990687
+currently doing epoch 241, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383396
+SVD done
+result 0.8401671696603555
+currently doing epoch 251, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938372
+SVD done
+result 0.835887138526451
+currently doing epoch 261, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938329
+SVD done
+result 0.832026306790977
+currently doing epoch 271, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383515
+SVD done
+result 0.8284871901234014
+currently doing epoch 281, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993836
+SVD done
+result 0.8249832258993679
+currently doing epoch 291, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383664
+SVD done
+result 0.8216692126834587
+currently doing epoch 301, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99383986
+SVD done
+result 0.8188808586198982
+currently doing epoch 311, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938407
+SVD done
+result 0.8162673666531094
+currently doing epoch 321, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993842
+SVD done
+result 0.8138437259199012
+currently doing epoch 331, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384475
+SVD done
+result 0.8114492342561769
+currently doing epoch 341, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938426
+SVD done
+result 0.8093488365229947
+currently doing epoch 351, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384433
+SVD done
+result 0.8071575168314657
+currently doing epoch 361, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384683
+SVD done
+result 0.805337018455843
+currently doing epoch 371, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384785
+SVD done
+result 0.8038065841713514
+currently doing epoch 381, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99385184
+SVD done
+result 0.8021218748974466
+currently doing epoch 391, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938528
+SVD done
+result 0.8007815498976675
+currently doing epoch 401, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938547
+SVD done
+result 0.7995793068589638
+currently doing epoch 411, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938585
+SVD done
+result 0.7983994713164823
+currently doing epoch 421, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99385554
+SVD done
+result 0.797452118595741
+currently doing epoch 431, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938568
+SVD done
+result 0.7965997400266397
+currently doing epoch 441, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938603
+SVD done
+result 0.795793150897585
+currently doing epoch 451, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938602
+SVD done
+result 0.7951517903818203
+currently doing epoch 461, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99386114
+SVD done
+result 0.7946986123222296
+currently doing epoch 471, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938617
+SVD done
+result 0.7943436869796763
+currently doing epoch 481, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938635
+SVD done
+result 0.7940461548726112
+currently doing epoch 491, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99386454
+SVD done
+result 0.7938939829233956
+currently doing epoch 501, seed-1-Model-top5-layer-3, and seed-1-Model-Books-layer-3
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938642
+SVD done
+result 0.7938519500131365
+currently doing epoch 0, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99455065
+SVD done
+result 0.9999999781991049
+currently doing epoch 1, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9951999
+SVD done
+result 0.998962595171799
+currently doing epoch 11, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99393857
+SVD done
+result 0.9927442081767612
+currently doing epoch 21, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939885
+SVD done
+result 0.9850891428449207
+currently doing epoch 31, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940603
+SVD done
+result 0.976407849140321
+currently doing epoch 41, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99414754
+SVD done
+result 0.9676992986007299
+currently doing epoch 51, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99419785
+SVD done
+result 0.9586538454302012
+currently doing epoch 61, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99423695
+SVD done
+result 0.9495116695487268
+currently doing epoch 71, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99426395
+SVD done
+result 0.9402758029163665
+currently doing epoch 81, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99427444
+SVD done
+result 0.9307024299533477
+currently doing epoch 91, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942529
+SVD done
+result 0.9214508854093993
+currently doing epoch 101, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99423724
+SVD done
+result 0.9119120680983287
+currently doing epoch 111, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99421674
+SVD done
+result 0.9016443589749193
+currently doing epoch 121, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99420124
+SVD done
+result 0.8896788802555611
+currently doing epoch 131, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941796
+SVD done
+result 0.8776650292714345
+currently doing epoch 141, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941749
+SVD done
+result 0.8639768437173051
+currently doing epoch 151, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941635
+SVD done
+result 0.8523793070817856
+currently doing epoch 161, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99415094
+SVD done
+result 0.8428177909141168
+currently doing epoch 171, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99415016
+SVD done
+result 0.8348336085729319
+currently doing epoch 181, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99414676
+SVD done
+result 0.8266423711921025
+currently doing epoch 191, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941528
+SVD done
+result 0.8191284524767913
+currently doing epoch 201, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941406
+SVD done
+result 0.8120481604655961
+currently doing epoch 211, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941274
+SVD done
+result 0.80552399508897
+currently doing epoch 221, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941302
+SVD done
+result 0.7994286814612058
+currently doing epoch 231, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99411935
+SVD done
+result 0.793676456534016
+currently doing epoch 241, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941136
+SVD done
+result 0.7884247094111242
+currently doing epoch 251, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941106
+SVD done
+result 0.7831317254191129
+currently doing epoch 261, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941004
+SVD done
+result 0.7784524412003176
+currently doing epoch 271, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99410146
+SVD done
+result 0.7744883054541915
+currently doing epoch 281, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99409395
+SVD done
+result 0.7704766899310799
+currently doing epoch 291, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940944
+SVD done
+result 0.7664165672886329
+currently doing epoch 301, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99408853
+SVD done
+result 0.7632500504327557
+currently doing epoch 311, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940833
+SVD done
+result 0.7602993878272791
+currently doing epoch 321, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99408275
+SVD done
+result 0.7574690819219561
+currently doing epoch 331, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99407977
+SVD done
+result 0.7549428426292932
+currently doing epoch 341, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940733
+SVD done
+result 0.7527354604946194
+currently doing epoch 351, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940726
+SVD done
+result 0.7502564223840591
+currently doing epoch 361, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99407023
+SVD done
+result 0.7481859371206253
+currently doing epoch 371, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940701
+SVD done
+result 0.7465801181193574
+currently doing epoch 381, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940699
+SVD done
+result 0.7445914511096511
+currently doing epoch 391, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940668
+SVD done
+result 0.7430509919628017
+currently doing epoch 401, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940681
+SVD done
+result 0.7418510573139462
+currently doing epoch 411, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406826
+SVD done
+result 0.7405472250917227
+currently doing epoch 421, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940638
+SVD done
+result 0.7395746641626679
+currently doing epoch 431, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940632
+SVD done
+result 0.7386840606811441
+currently doing epoch 441, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940658
+SVD done
+result 0.7377637113457113
+currently doing epoch 451, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406326
+SVD done
+result 0.7371249609068586
+currently doing epoch 461, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940633
+SVD done
+result 0.7366274065247571
+currently doing epoch 471, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940634
+SVD done
+result 0.7362672398784095
+currently doing epoch 481, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406487
+SVD done
+result 0.735939834035655
+currently doing epoch 491, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406534
+SVD done
+result 0.7357942521150984
+currently doing epoch 501, seed-1-Model-top5-layer-4, and seed-1-Model-Books-layer-4
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406505
+SVD done
+result 0.7357540336729713
+currently doing epoch 0, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948195
+SVD done
+result 0.9999999748014482
+currently doing epoch 1, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.995813
+SVD done
+result 0.9981331118990526
+currently doing epoch 11, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941017
+SVD done
+result 0.9899511982989666
+currently doing epoch 21, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99420506
+SVD done
+result 0.976607262309768
+currently doing epoch 31, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99430203
+SVD done
+result 0.9652853300933766
+currently doing epoch 41, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944105
+SVD done
+result 0.953213652114687
+currently doing epoch 51, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944554
+SVD done
+result 0.9408666597643591
+currently doing epoch 61, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945029
+SVD done
+result 0.9285648829522066
+currently doing epoch 71, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99452406
+SVD done
+result 0.9167867717863429
+currently doing epoch 81, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945237
+SVD done
+result 0.9044125523739305
+currently doing epoch 91, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944892
+SVD done
+result 0.8925065471852957
+currently doing epoch 101, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99445677
+SVD done
+result 0.8792138423730164
+currently doing epoch 111, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944343
+SVD done
+result 0.866033293829887
+currently doing epoch 121, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944176
+SVD done
+result 0.8505331409088727
+currently doing epoch 131, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943816
+SVD done
+result 0.8347592128261979
+currently doing epoch 141, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943715
+SVD done
+result 0.8181198316021329
+currently doing epoch 151, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943617
+SVD done
+result 0.8042870029238057
+currently doing epoch 161, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943464
+SVD done
+result 0.793089309494519
+currently doing epoch 171, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99433833
+SVD done
+result 0.783630838027642
+currently doing epoch 181, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994318
+SVD done
+result 0.7746007015320556
+currently doing epoch 191, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99431473
+SVD done
+result 0.76562777334063
+currently doing epoch 201, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99430525
+SVD done
+result 0.7573267463727907
+currently doing epoch 211, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99428046
+SVD done
+result 0.7494817125622609
+currently doing epoch 221, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942824
+SVD done
+result 0.7427999287765314
+currently doing epoch 231, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942648
+SVD done
+result 0.7361326218496549
+currently doing epoch 241, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942615
+SVD done
+result 0.7300965541861909
+currently doing epoch 251, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942559
+SVD done
+result 0.724446777029204
+currently doing epoch 261, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99424213
+SVD done
+result 0.7194159194998915
+currently doing epoch 271, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99423563
+SVD done
+result 0.715124818295489
+currently doing epoch 281, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942295
+SVD done
+result 0.7110606463948378
+currently doing epoch 291, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942273
+SVD done
+result 0.7065979446780214
+currently doing epoch 301, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942188
+SVD done
+result 0.7032362543877283
+currently doing epoch 311, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942133
+SVD done
+result 0.700137675102266
+currently doing epoch 321, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99420774
+SVD done
+result 0.6972566332427326
+currently doing epoch 331, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942002
+SVD done
+result 0.6946152679656312
+currently doing epoch 341, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941956
+SVD done
+result 0.6923617712945696
+currently doing epoch 351, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941928
+SVD done
+result 0.6897517621797582
+currently doing epoch 361, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418324
+SVD done
+result 0.6876516647116893
+currently doing epoch 371, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941806
+SVD done
+result 0.6860841676479752
+currently doing epoch 381, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418116
+SVD done
+result 0.6840433996086646
+currently doing epoch 391, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941741
+SVD done
+result 0.6824474081191331
+currently doing epoch 401, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994176
+SVD done
+result 0.6812185191632015
+currently doing epoch 411, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941705
+SVD done
+result 0.6798136351640844
+currently doing epoch 421, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941643
+SVD done
+result 0.6789163828832667
+currently doing epoch 431, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941624
+SVD done
+result 0.6780219734989317
+currently doing epoch 441, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99416226
+SVD done
+result 0.6771243246961253
+currently doing epoch 451, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941598
+SVD done
+result 0.6765302834038718
+currently doing epoch 461, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941598
+SVD done
+result 0.6760173748547765
+currently doing epoch 471, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941584
+SVD done
+result 0.6756062539861724
+currently doing epoch 481, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99415904
+SVD done
+result 0.6752798648907524
+currently doing epoch 491, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99415994
+SVD done
+result 0.6751443537217565
+currently doing epoch 501, seed-1-Model-top5-layer-5, and seed-1-Model-Books-layer-5
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941597
+SVD done
+result 0.6751122662911928
+currently doing epoch 0, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950603
+SVD done
+result 0.9999999712085651
+currently doing epoch 1, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9963857
+SVD done
+result 0.9982506743770917
+currently doing epoch 11, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942357
+SVD done
+result 0.9849828454979652
+currently doing epoch 21, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943729
+SVD done
+result 0.9667709417362694
+currently doing epoch 31, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99449384
+SVD done
+result 0.9511141695591756
+currently doing epoch 41, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946175
+SVD done
+result 0.934976676582135
+currently doing epoch 51, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946765
+SVD done
+result 0.9195764023454138
+currently doing epoch 61, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947272
+SVD done
+result 0.903796358244795
+currently doing epoch 71, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99474925
+SVD done
+result 0.8890589570031082
+currently doing epoch 81, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947564
+SVD done
+result 0.8730209618663739
+currently doing epoch 91, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99471635
+SVD done
+result 0.8583838928395632
+currently doing epoch 101, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99467945
+SVD done
+result 0.8417601509005392
+currently doing epoch 111, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99464995
+SVD done
+result 0.826166504762204
+currently doing epoch 121, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99462265
+SVD done
+result 0.8066117101814413
+currently doing epoch 131, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945747
+SVD done
+result 0.7870771742291159
+currently doing epoch 141, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945492
+SVD done
+result 0.7677359753713968
+currently doing epoch 151, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99453616
+SVD done
+result 0.7520859900020413
+currently doing epoch 161, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99450403
+SVD done
+result 0.7396299412656409
+currently doing epoch 171, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99448895
+SVD done
+result 0.7294649478911333
+currently doing epoch 181, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99445736
+SVD done
+result 0.719585701393183
+currently doing epoch 191, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99444777
+SVD done
+result 0.709832695784237
+currently doing epoch 201, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944306
+SVD done
+result 0.700298799830953
+currently doing epoch 211, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943942
+SVD done
+result 0.6920953574729062
+currently doing epoch 221, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99439186
+SVD done
+result 0.6846968240705076
+currently doing epoch 231, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943663
+SVD done
+result 0.677757313105796
+currently doing epoch 241, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943571
+SVD done
+result 0.6714130970463119
+currently doing epoch 251, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994345
+SVD done
+result 0.6657289253398255
+currently doing epoch 261, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99432755
+SVD done
+result 0.6606902310552665
+currently doing epoch 271, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943089
+SVD done
+result 0.656028152940069
+currently doing epoch 281, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99429244
+SVD done
+result 0.6520122681944069
+currently doing epoch 291, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942885
+SVD done
+result 0.6473443970538425
+currently doing epoch 301, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942764
+SVD done
+result 0.6438485026617706
+currently doing epoch 311, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994271
+SVD done
+result 0.6408682353002966
+currently doing epoch 321, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99426526
+SVD done
+result 0.6381205912922804
+currently doing epoch 331, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942556
+SVD done
+result 0.6354427913110325
+currently doing epoch 341, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994246
+SVD done
+result 0.6333641482588359
+currently doing epoch 351, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942402
+SVD done
+result 0.6306836728878343
+currently doing epoch 361, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99422896
+SVD done
+result 0.6286912487261413
+currently doing epoch 371, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99422383
+SVD done
+result 0.6271506364625101
+currently doing epoch 381, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942196
+SVD done
+result 0.6252446571129918
+currently doing epoch 391, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942113
+SVD done
+result 0.6237246441302791
+currently doing epoch 401, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99421227
+SVD done
+result 0.6226978512404925
+currently doing epoch 411, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994204
+SVD done
+result 0.6213261775058044
+currently doing epoch 421, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941965
+SVD done
+result 0.6205017369814497
+currently doing epoch 431, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99419457
+SVD done
+result 0.6196461229179655
+currently doing epoch 441, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99419254
+SVD done
+result 0.6187577365747555
+currently doing epoch 451, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941888
+SVD done
+result 0.6182728971829387
+currently doing epoch 461, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941888
+SVD done
+result 0.6177850813115205
+currently doing epoch 471, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941866
+SVD done
+result 0.6173864560230582
+currently doing epoch 481, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418646
+SVD done
+result 0.6170760303825688
+currently doing epoch 491, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418724
+SVD done
+result 0.6169756887282204
+currently doing epoch 501, seed-1-Model-top5-layer-6, and seed-1-Model-Books-layer-6
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941868
+SVD done
+result 0.6169513156817431
+currently doing epoch 0, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9952556
+SVD done
+result 0.9999999679393856
+currently doing epoch 1, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.996874
+SVD done
+result 0.9978207089559734
+currently doing epoch 11, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99436116
+SVD done
+result 0.9790183224335105
+currently doing epoch 21, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99454564
+SVD done
+result 0.9543402245612779
+currently doing epoch 31, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99466383
+SVD done
+result 0.9345735802710172
+currently doing epoch 41, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948018
+SVD done
+result 0.9128417342891607
+currently doing epoch 51, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99484736
+SVD done
+result 0.8926041147535234
+currently doing epoch 61, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99487484
+SVD done
+result 0.872503730078672
+currently doing epoch 71, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948753
+SVD done
+result 0.854318568283069
+currently doing epoch 81, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948659
+SVD done
+result 0.835026128450925
+currently doing epoch 91, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948219
+SVD done
+result 0.8176890824928249
+currently doing epoch 101, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947669
+SVD done
+result 0.7995532383782474
+currently doing epoch 111, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994737
+SVD done
+result 0.7811682232880436
+currently doing epoch 121, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99470896
+SVD done
+result 0.7590194247832004
+currently doing epoch 131, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946398
+SVD done
+result 0.7371784454049499
+currently doing epoch 141, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946073
+SVD done
+result 0.7166335556519811
+currently doing epoch 151, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945893
+SVD done
+result 0.7006592839223093
+currently doing epoch 161, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99454623
+SVD done
+result 0.6878169002052167
+currently doing epoch 171, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99453354
+SVD done
+result 0.6776636533420056
+currently doing epoch 181, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944863
+SVD done
+result 0.6672086282861186
+currently doing epoch 191, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944755
+SVD done
+result 0.6575156874423844
+currently doing epoch 201, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944498
+SVD done
+result 0.6480072928363836
+currently doing epoch 211, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99440384
+SVD done
+result 0.6399857100351384
+currently doing epoch 221, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943912
+SVD done
+result 0.6329489144435809
+currently doing epoch 231, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99436265
+SVD done
+result 0.6261461951946632
+currently doing epoch 241, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943538
+SVD done
+result 0.6199394662433863
+currently doing epoch 251, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943393
+SVD done
+result 0.6146203669136658
+currently doing epoch 261, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99431753
+SVD done
+result 0.6096881038489668
+currently doing epoch 271, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994294
+SVD done
+result 0.6051494443930387
+currently doing epoch 281, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99427944
+SVD done
+result 0.6015127153244448
+currently doing epoch 291, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942651
+SVD done
+result 0.5970357356583185
+currently doing epoch 301, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99425393
+SVD done
+result 0.5936498623684983
+currently doing epoch 311, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994242
+SVD done
+result 0.5909433181270171
+currently doing epoch 321, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99423194
+SVD done
+result 0.5883741768918566
+currently doing epoch 331, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994221
+SVD done
+result 0.5859720464451685
+currently doing epoch 341, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942092
+SVD done
+result 0.5840867071734144
+currently doing epoch 351, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941974
+SVD done
+result 0.5814857646801375
+currently doing epoch 361, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418527
+SVD done
+result 0.5798306610651734
+currently doing epoch 371, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99418026
+SVD done
+result 0.5783539479014863
+currently doing epoch 381, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994178
+SVD done
+result 0.5765938337409912
+currently doing epoch 391, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941691
+SVD done
+result 0.5752188741146572
+currently doing epoch 401, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99417055
+SVD done
+result 0.5743377386151381
+currently doing epoch 411, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99416107
+SVD done
+result 0.5730675419244153
+currently doing epoch 421, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941533
+SVD done
+result 0.5723385767816466
+currently doing epoch 431, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99415195
+SVD done
+result 0.5715056139818343
+currently doing epoch 441, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941488
+SVD done
+result 0.5707339155406911
+currently doing epoch 451, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941454
+SVD done
+result 0.5702996418463736
+currently doing epoch 461, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941443
+SVD done
+result 0.5699055220948379
+currently doing epoch 471, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941403
+SVD done
+result 0.5695257431237604
+currently doing epoch 481, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99413997
+SVD done
+result 0.5692461173253683
+currently doing epoch 491, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99414045
+SVD done
+result 0.5691785869740162
+currently doing epoch 501, seed-1-Model-top5-layer-7, and seed-1-Model-Books-layer-7
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99413997
+SVD done
+result 0.5691515560913342
+currently doing epoch 0, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9954219
+SVD done
+result 0.9999999640580602
+currently doing epoch 1, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99730223
+SVD done
+result 0.9978402622378455
+currently doing epoch 11, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99448735
+SVD done
+result 0.9708109597604322
+currently doing epoch 21, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994693
+SVD done
+result 0.9393708253508837
+currently doing epoch 31, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99482495
+SVD done
+result 0.9147787442148814
+currently doing epoch 41, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99494886
+SVD done
+result 0.887690547914397
+currently doing epoch 51, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9949669
+SVD done
+result 0.8626577485547358
+currently doing epoch 61, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99499804
+SVD done
+result 0.837890587132374
+currently doing epoch 71, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9949786
+SVD done
+result 0.8151229319693711
+currently doing epoch 81, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9949509
+SVD done
+result 0.7928565887870157
+currently doing epoch 91, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99490595
+SVD done
+result 0.7735448822285731
+currently doing epoch 101, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948492
+SVD done
+result 0.7534620733203512
+currently doing epoch 111, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948037
+SVD done
+result 0.7332914925328733
+currently doing epoch 121, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947648
+SVD done
+result 0.7090965277979697
+currently doing epoch 131, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946796
+SVD done
+result 0.6858808561672778
+currently doing epoch 141, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946418
+SVD done
+result 0.6654110206869429
+currently doing epoch 151, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99461067
+SVD done
+result 0.6500212269923524
+currently doing epoch 161, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99456567
+SVD done
+result 0.6372880491616771
+currently doing epoch 171, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945428
+SVD done
+result 0.6276507884039702
+currently doing epoch 181, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99449414
+SVD done
+result 0.6177122504137561
+currently doing epoch 191, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99447495
+SVD done
+result 0.6084485327855615
+currently doing epoch 201, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99444884
+SVD done
+result 0.5991198295780858
+currently doing epoch 211, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943982
+SVD done
+result 0.5919354669122268
+currently doing epoch 221, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99438316
+SVD done
+result 0.585167289877754
+currently doing epoch 231, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943492
+SVD done
+result 0.5788710181890052
+currently doing epoch 241, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943377
+SVD done
+result 0.5730172493691016
+currently doing epoch 251, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99431866
+SVD done
+result 0.5680289875409977
+currently doing epoch 261, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99429065
+SVD done
+result 0.5633555280208287
+currently doing epoch 271, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99426425
+SVD done
+result 0.5590943200404611
+currently doing epoch 281, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942401
+SVD done
+result 0.5556966301875063
+currently doing epoch 291, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99422646
+SVD done
+result 0.5515723782047228
+currently doing epoch 301, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99421257
+SVD done
+result 0.5484868488618313
+currently doing epoch 311, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99419415
+SVD done
+result 0.5459591221720231
+currently doing epoch 321, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99417806
+SVD done
+result 0.5437838104462052
+currently doing epoch 331, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941663
+SVD done
+result 0.5418240390514659
+currently doing epoch 341, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941498
+SVD done
+result 0.5402279346111506
+currently doing epoch 351, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99413246
+SVD done
+result 0.5379943295039135
+currently doing epoch 361, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99411374
+SVD done
+result 0.5366638049160544
+currently doing epoch 371, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941058
+SVD done
+result 0.5353876205740733
+currently doing epoch 381, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941002
+SVD done
+result 0.5338233136698692
+currently doing epoch 391, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940902
+SVD done
+result 0.5326668932268702
+currently doing epoch 401, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940894
+SVD done
+result 0.5319168279063387
+currently doing epoch 411, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99407846
+SVD done
+result 0.5308400313134666
+currently doing epoch 421, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406904
+SVD done
+result 0.5303180648791856
+currently doing epoch 431, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940641
+SVD done
+result 0.5296246505813001
+currently doing epoch 441, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99406165
+SVD done
+result 0.5289523653991375
+currently doing epoch 451, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99405754
+SVD done
+result 0.5286634086574964
+currently doing epoch 461, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940552
+SVD done
+result 0.528367249011422
+currently doing epoch 471, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99405015
+SVD done
+result 0.5280293273070306
+currently doing epoch 481, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940515
+SVD done
+result 0.5277881062558959
+currently doing epoch 491, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940514
+SVD done
+result 0.527765695789701
+currently doing epoch 501, seed-1-Model-top5-layer-8, and seed-1-Model-Books-layer-8
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940508
+SVD done
+result 0.5277436773460695
+currently doing epoch 0, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99552375
+SVD done
+result 0.9999999598039986
+currently doing epoch 1, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99765843
+SVD done
+result 0.9979988055934716
+currently doing epoch 11, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99459255
+SVD done
+result 0.9621669869717329
+currently doing epoch 21, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994821
+SVD done
+result 0.9241806900584905
+currently doing epoch 31, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99496263
+SVD done
+result 0.893373888275403
+currently doing epoch 41, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99507433
+SVD done
+result 0.8610965480321523
+currently doing epoch 51, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99508256
+SVD done
+result 0.8326636812710508
+currently doing epoch 61, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950879
+SVD done
+result 0.8048996578715187
+currently doing epoch 71, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950454
+SVD done
+result 0.7806778132588973
+currently doing epoch 81, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950049
+SVD done
+result 0.7568397829983435
+currently doing epoch 91, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99495775
+SVD done
+result 0.7372924364368618
+currently doing epoch 101, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948869
+SVD done
+result 0.7160786068712418
+currently doing epoch 111, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99483955
+SVD done
+result 0.6957461958233849
+currently doing epoch 121, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947897
+SVD done
+result 0.6704520041427847
+currently doing epoch 131, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99468774
+SVD done
+result 0.6465120555539321
+currently doing epoch 141, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946433
+SVD done
+result 0.6266865495571958
+currently doing epoch 151, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946064
+SVD done
+result 0.6117373365445061
+currently doing epoch 161, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945478
+SVD done
+result 0.5991715597715475
+currently doing epoch 171, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945083
+SVD done
+result 0.5900604884198656
+currently doing epoch 181, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944453
+SVD done
+result 0.5804759588832358
+currently doing epoch 191, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99442583
+SVD done
+result 0.5715018088611543
+currently doing epoch 201, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943836
+SVD done
+result 0.5625185088240163
+currently doing epoch 211, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99433666
+SVD done
+result 0.5557789029908446
+currently doing epoch 221, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943092
+SVD done
+result 0.5494831914160049
+currently doing epoch 231, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99427354
+SVD done
+result 0.5435599412713862
+currently doing epoch 241, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942518
+SVD done
+result 0.5380366089360655
+currently doing epoch 251, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99422514
+SVD done
+result 0.5332816648440144
+currently doing epoch 261, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941906
+SVD done
+result 0.5288281539872901
+currently doing epoch 271, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99416167
+SVD done
+result 0.5247396712098739
+currently doing epoch 281, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941301
+SVD done
+result 0.521555743960549
+currently doing epoch 291, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941077
+SVD done
+result 0.5175446770661347
+currently doing epoch 301, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99409246
+SVD done
+result 0.5145813469957176
+currently doing epoch 311, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99407226
+SVD done
+result 0.5121527146840092
+currently doing epoch 321, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99404913
+SVD done
+result 0.5101404872864604
+currently doing epoch 331, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940316
+SVD done
+result 0.5084248240053046
+currently doing epoch 341, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99401766
+SVD done
+result 0.5069769471438179
+currently doing epoch 351, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939982
+SVD done
+result 0.5047739333115392
+currently doing epoch 361, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99397886
+SVD done
+result 0.5036836211751785
+currently doing epoch 371, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99397045
+SVD done
+result 0.5024108249075673
+currently doing epoch 381, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939662
+SVD done
+result 0.5009166647246247
+currently doing epoch 391, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99395454
+SVD done
+result 0.49988505220965535
+currently doing epoch 401, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939485
+SVD done
+result 0.49913382602755973
+currently doing epoch 411, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99393344
+SVD done
+result 0.49812376475926257
+currently doing epoch 421, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939253
+SVD done
+result 0.4976492221399128
+currently doing epoch 431, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939211
+SVD done
+result 0.49707201916479893
+currently doing epoch 441, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99391836
+SVD done
+result 0.49639627475178033
+currently doing epoch 451, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99391294
+SVD done
+result 0.49620983550759806
+currently doing epoch 461, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99390787
+SVD done
+result 0.49592348700035965
+currently doing epoch 471, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99390215
+SVD done
+result 0.4956253654671795
+currently doing epoch 481, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99390113
+SVD done
+result 0.49540283557359893
+currently doing epoch 491, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939016
+SVD done
+result 0.4953908677013744
+currently doing epoch 501, seed-1-Model-top5-layer-9, and seed-1-Model-Books-layer-9
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939011
+SVD done
+result 0.4953720418174873
+currently doing epoch 0, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99566627
+SVD done
+result 0.9999999574127653
+currently doing epoch 1, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9979666
+SVD done
+result 0.9974090172398162
+currently doing epoch 11, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99472463
+SVD done
+result 0.9522007605558483
+currently doing epoch 21, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994923
+SVD done
+result 0.9048120329334766
+currently doing epoch 31, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950674
+SVD done
+result 0.8703241470091118
+currently doing epoch 41, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99515295
+SVD done
+result 0.8342985722574664
+currently doing epoch 51, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99515224
+SVD done
+result 0.8022246869472992
+currently doing epoch 61, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9951505
+SVD done
+result 0.7712354589750922
+currently doing epoch 71, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950973
+SVD done
+result 0.7469754983690089
+currently doing epoch 81, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99504775
+SVD done
+result 0.7225950207697861
+currently doing epoch 91, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9949932
+SVD done
+result 0.702287784848341
+currently doing epoch 101, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99491984
+SVD done
+result 0.6811917680362047
+currently doing epoch 111, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948648
+SVD done
+result 0.6607515031350251
+currently doing epoch 121, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99479777
+SVD done
+result 0.6357363301444763
+currently doing epoch 131, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99469286
+SVD done
+result 0.6128137873707418
+currently doing epoch 141, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9946466
+SVD done
+result 0.594203182294613
+currently doing epoch 151, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99460554
+SVD done
+result 0.5799045895084056
+currently doing epoch 161, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945325
+SVD done
+result 0.5678630209182334
+currently doing epoch 171, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944925
+SVD done
+result 0.5593614097283242
+currently doing epoch 181, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944195
+SVD done
+result 0.5502040865661353
+currently doing epoch 191, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99438393
+SVD done
+result 0.5419995498883262
+currently doing epoch 201, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994333
+SVD done
+result 0.5333113848487824
+currently doing epoch 211, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99427783
+SVD done
+result 0.526850523643001
+currently doing epoch 221, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99425024
+SVD done
+result 0.5209515281489727
+currently doing epoch 231, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942068
+SVD done
+result 0.5152045740301547
+currently doing epoch 241, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941744
+SVD done
+result 0.509766696100462
+currently doing epoch 251, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99414307
+SVD done
+result 0.5052028551814752
+currently doing epoch 261, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99409544
+SVD done
+result 0.5008910184731628
+currently doing epoch 271, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940666
+SVD done
+result 0.49695332329727987
+currently doing epoch 281, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940226
+SVD done
+result 0.49394435897384575
+currently doing epoch 291, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939982
+SVD done
+result 0.48999295813928195
+currently doing epoch 301, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939759
+SVD done
+result 0.48712937767092884
+currently doing epoch 311, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99395293
+SVD done
+result 0.48481939642380917
+currently doing epoch 321, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939253
+SVD done
+result 0.48288375136911693
+currently doing epoch 331, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939075
+SVD done
+result 0.4811275410288375
+currently doing epoch 341, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938868
+SVD done
+result 0.479640571031513
+currently doing epoch 351, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99386126
+SVD done
+result 0.477607983216603
+currently doing epoch 361, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99384433
+SVD done
+result 0.47652573720603497
+currently doing epoch 371, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99382305
+SVD done
+result 0.47521219233993295
+currently doing epoch 381, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938177
+SVD done
+result 0.4739281641368118
+currently doing epoch 391, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938009
+SVD done
+result 0.47280303581382166
+currently doing epoch 401, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937966
+SVD done
+result 0.47217367280260647
+currently doing epoch 411, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937809
+SVD done
+result 0.471228609210065
+currently doing epoch 421, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937701
+SVD done
+result 0.47073632086134587
+currently doing epoch 431, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937646
+SVD done
+result 0.4701926888932212
+currently doing epoch 441, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99375975
+SVD done
+result 0.46958178656824134
+currently doing epoch 451, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937541
+SVD done
+result 0.4694068869866927
+currently doing epoch 461, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99374485
+SVD done
+result 0.46914959382838917
+currently doing epoch 471, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937381
+SVD done
+result 0.46884328727568464
+currently doing epoch 481, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99373716
+SVD done
+result 0.46861307672965086
+currently doing epoch 491, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99373823
+SVD done
+result 0.46860714617300103
+currently doing epoch 501, seed-1-Model-top5-layer-10, and seed-1-Model-Books-layer-10
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937372
+SVD done
+result 0.46859144025358457
+currently doing epoch 0, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9957402
+SVD done
+result 0.9999999536128396
+currently doing epoch 1, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99821246
+SVD done
+result 0.9961683203031407
+currently doing epoch 11, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948517
+SVD done
+result 0.9412871366950895
+currently doing epoch 21, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99503964
+SVD done
+result 0.8894547127814644
+currently doing epoch 31, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9951535
+SVD done
+result 0.8513960807058181
+currently doing epoch 41, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9952171
+SVD done
+result 0.8122036753116438
+currently doing epoch 51, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9951964
+SVD done
+result 0.7771874530651949
+currently doing epoch 61, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99517334
+SVD done
+result 0.7442027990070067
+currently doing epoch 71, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99511296
+SVD done
+result 0.7178370495682369
+currently doing epoch 81, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950449
+SVD done
+result 0.6925478132396738
+currently doing epoch 91, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99498093
+SVD done
+result 0.6722489457845371
+currently doing epoch 101, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948944
+SVD done
+result 0.6506036589412346
+currently doing epoch 111, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9948166
+SVD done
+result 0.6305288172217844
+currently doing epoch 121, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947551
+SVD done
+result 0.6061974357435118
+currently doing epoch 131, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99464136
+SVD done
+result 0.5842202224285699
+currently doing epoch 141, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99457616
+SVD done
+result 0.5663082544910629
+currently doing epoch 151, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99454087
+SVD done
+result 0.553016825707661
+currently doing epoch 161, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99446
+SVD done
+result 0.5411971582565475
+currently doing epoch 171, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9944144
+SVD done
+result 0.533069622564027
+currently doing epoch 181, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994329
+SVD done
+result 0.5241369239422384
+currently doing epoch 191, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99428374
+SVD done
+result 0.516210570732152
+currently doing epoch 201, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942377
+SVD done
+result 0.5078504078510669
+currently doing epoch 211, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941691
+SVD done
+result 0.5017858314291016
+currently doing epoch 221, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99414
+SVD done
+result 0.495994352679709
+currently doing epoch 231, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940989
+SVD done
+result 0.49054690387987254
+currently doing epoch 241, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940566
+SVD done
+result 0.4852305441337407
+currently doing epoch 251, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940195
+SVD done
+result 0.4808057566662692
+currently doing epoch 261, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99396795
+SVD done
+result 0.4766225721778459
+currently doing epoch 271, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939372
+SVD done
+result 0.4727659850846704
+currently doing epoch 281, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99388343
+SVD done
+result 0.46982590281379094
+currently doing epoch 291, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99386543
+SVD done
+result 0.4660800893474158
+currently doing epoch 301, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938344
+SVD done
+result 0.4632548896120097
+currently doing epoch 311, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938054
+SVD done
+result 0.46097039559318415
+currently doing epoch 321, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99377626
+SVD done
+result 0.4591087526951779
+currently doing epoch 331, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937544
+SVD done
+result 0.45741796904405807
+currently doing epoch 341, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937295
+SVD done
+result 0.45597077917011164
+currently doing epoch 351, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937047
+SVD done
+result 0.4541408658077336
+currently doing epoch 361, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936846
+SVD done
+result 0.453010848427773
+currently doing epoch 371, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936636
+SVD done
+result 0.45172277178841286
+currently doing epoch 381, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936542
+SVD done
+result 0.4505013062584048
+currently doing epoch 391, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936392
+SVD done
+result 0.4493818109898586
+currently doing epoch 401, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99363095
+SVD done
+result 0.4487617918674345
+currently doing epoch 411, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99361956
+SVD done
+result 0.447809846963805
+currently doing epoch 421, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936045
+SVD done
+result 0.4472410867724764
+currently doing epoch 431, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99359864
+SVD done
+result 0.4467395601104347
+currently doing epoch 441, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99359405
+SVD done
+result 0.4461301131039637
+currently doing epoch 451, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935847
+SVD done
+result 0.44597272897143264
+currently doing epoch 461, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99357635
+SVD done
+result 0.44566966306988387
+currently doing epoch 471, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99356973
+SVD done
+result 0.4453473776890139
+currently doing epoch 481, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935675
+SVD done
+result 0.44513889103191756
+currently doing epoch 491, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99356914
+SVD done
+result 0.44513595738405715
+currently doing epoch 501, seed-1-Model-top5-layer-11, and seed-1-Model-Books-layer-11
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935677
+SVD done
+result 0.4451171726448124
+currently doing epoch 0, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9958195
+SVD done
+result 0.9999999490015508
+currently doing epoch 1, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99842006
+SVD done
+result 0.9967948231615974
+currently doing epoch 11, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.995045
+SVD done
+result 0.9306981309460113
+currently doing epoch 21, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9951614
+SVD done
+result 0.8753079252906468
+currently doing epoch 31, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9952745
+SVD done
+result 0.8338952584249318
+currently doing epoch 41, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99532944
+SVD done
+result 0.7924705213185386
+currently doing epoch 51, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9952926
+SVD done
+result 0.7564198095438788
+currently doing epoch 61, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9952271
+SVD done
+result 0.7226484456819717
+currently doing epoch 71, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99514294
+SVD done
+result 0.6957879092141023
+currently doing epoch 81, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9950672
+SVD done
+result 0.6701926775056601
+currently doing epoch 91, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99496096
+SVD done
+result 0.6493029560649914
+currently doing epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99486685
+SVD done
+result 0.6277586362768814
+currently doing epoch 111, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9947777
+SVD done
+result 0.6078857535724729
+currently doing epoch 121, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99469787
+SVD done
+result 0.5837780664849196
+currently doing epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945975
+SVD done
+result 0.5626170539335312
+currently doing epoch 141, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9945127
+SVD done
+result 0.5455667480269167
+currently doing epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.994459
+SVD done
+result 0.5326026939132746
+currently doing epoch 161, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943726
+SVD done
+result 0.520986273456926
+currently doing epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9943156
+SVD done
+result 0.5134077380492514
+currently doing epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9942347
+SVD done
+result 0.50476637828974
+currently doing epoch 191, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9941806
+SVD done
+result 0.4971709588423781
+currently doing epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99412817
+SVD done
+result 0.4891027358693594
+currently doing epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99405193
+SVD done
+result 0.4829486608659988
+currently doing epoch 221, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9940235
+SVD done
+result 0.4775569474730525
+currently doing epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993975
+SVD done
+result 0.47207842127443517
+currently doing epoch 241, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9939268
+SVD done
+result 0.4669163768526728
+currently doing epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99388814
+SVD done
+result 0.4625762488857008
+currently doing epoch 261, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938365
+SVD done
+result 0.4583543856392672
+currently doing epoch 271, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9938052
+SVD done
+result 0.45465405526397307
+currently doing epoch 281, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99375373
+SVD done
+result 0.45166313334291674
+currently doing epoch 291, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99372923
+SVD done
+result 0.4480672948209965
+currently doing epoch 301, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9937017
+SVD done
+result 0.44520501479831776
+currently doing epoch 311, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99367076
+SVD done
+result 0.4430493101641202
+currently doing epoch 321, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9936453
+SVD done
+result 0.44110844511142855
+currently doing epoch 331, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993619
+SVD done
+result 0.4394140617729838
+currently doing epoch 341, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993595
+SVD done
+result 0.4379140115333151
+currently doing epoch 351, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935632
+SVD done
+result 0.43607281500907563
+currently doing epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9935371
+SVD done
+result 0.4350006477630782
+currently doing epoch 371, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99352413
+SVD done
+result 0.43375751276631413
+currently doing epoch 381, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99351305
+SVD done
+result 0.43257632559012715
+currently doing epoch 391, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99349535
+SVD done
+result 0.43143031689320865
+currently doing epoch 401, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934869
+SVD done
+result 0.43067985177347456
+currently doing epoch 411, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99347246
+SVD done
+result 0.42980839707223567
+currently doing epoch 421, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99345887
+SVD done
+result 0.4292609483299988
+currently doing epoch 431, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99345195
+SVD done
+result 0.42873413803997806
+currently doing epoch 441, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.99344605
+SVD done
+result 0.42813373321550396
+currently doing epoch 451, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934371
+SVD done
+result 0.427955280402889
+currently doing epoch 461, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993431
+SVD done
+result 0.42762245760768997
+currently doing epoch 471, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934238
+SVD done
+result 0.42731425511390747
+currently doing epoch 481, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.993421
+SVD done
+result 0.42707984049433373
+currently doing epoch 491, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934235
+SVD done
+result 0.42707080725430085
+currently doing epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 750 singular vectors 0.9934223
+SVD done
+result 0.42706094685964596
