@@ -14,6 +14,8 @@ import cca_core
 def SVCCA(file1, file2):
     acts1 = np.load(file1)
     acts2 = np.load(file2)
+    acts1 = np.float32(acts1)
+    acts2 = np.float32(acts2)
     # print('file loaded')
     acts1 = acts1.T
     acts2 = acts2.T
