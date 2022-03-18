@@ -11,7 +11,7 @@ import gzip
 import argparse
 import cca_core
 
-def SVCCA(file1, file2):
+def SVCCA(file1, file2, dim_to_keep):
     acts1 = np.load(file1)
     acts2 = np.load(file2)
     acts1 = np.float32(acts1)
@@ -39,9 +39,9 @@ def SVCCA(file1, file2):
     # print("Fraction of variance explained by 600 singular vectors", np.sum(s1[:600])/np.sum(s1))
     # print("Fraction of variance explained by 700 singular vectors", np.sum(s1[:700])/np.sum(s1))
     # print("Fraction of variance explained by 730 singular vectors", np.sum(s1[:730])/np.sum(s1))
-    print("Fraction of variance explained by 750 singular vectors", np.sum(s1[:750])/np.sum(s1))
+    print("Fraction of variance explained by", dim_to_keep ,"singular vectors", np.sum(s1[:750])/np.sum(s1))
     # print("Fraction of variance explained by 760 singular vectors", np.sum(s1[:760])/np.sum(s1))
-    dim_to_keep = 750
+    
     svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
     # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
     svacts2 = np.dot(s2[:dim_to_keep]*np.eye(dim_to_keep), V2[:dim_to_keep])
@@ -94,10 +94,11 @@ if __name__ == '__main__':
     parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
     parser.add_argument("--do_svcca", action='store_true', help="Whether to do SVCCA")
     parser.add_argument("--do_corr", action='store_true', help="Whether to do correlation")
+    parser.add_argument("--svd_dim", type=int, default=750, help="Dimensions to keep after SVD")
     args = parser.parse_args()
     
     if args.do_svcca:
-        SVCCA(args.data_dir1, args.data_dir2)
+        SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
     elif args.do_corr:
         Corr(args.data_dir1, args.data_dir2)
     

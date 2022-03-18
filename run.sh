@@ -15,6 +15,8 @@ MODEL_CAT2=Books
 DATA_CATEGORY2=Books
 seed2=1
 
+SVD_DIM=375
+
 #layer=8
 for layer in {0..6}
 do
@@ -23,7 +25,8 @@ do
   python analysis.py \
     --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
     --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
-    --do_svcca
+    --do_svcca \
+    --svd_dim $SVD_DIM
 
   for epoch in {1..202..10}
   do
@@ -31,6 +34,7 @@ do
     python analysis.py \
       --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
       --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
-      --do_svcca
+      --do_svcca \
+      --svd_dim $SVD_DIM
   done
 done
