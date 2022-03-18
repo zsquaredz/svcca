@@ -5,7 +5,7 @@ conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
 
-EXP_NAME=200_data
+EXP_NAME=50_model
 
 MODEL_CAT1=top5
 DATA_CATEGORY1=Books
@@ -16,7 +16,7 @@ DATA_CATEGORY2=Books
 seed2=1
 
 #layer=8
-for layer in {0..12}
+for layer in {0..6}
 do
   epoch=0
   echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
