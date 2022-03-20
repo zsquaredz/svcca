@@ -8,14 +8,14 @@ cd /disk/ocean/zheng/svcca/
 EXP_NAME=50_model
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Books
+DATA_CATEGORY1=Electronics
 seed1=1
 
-MODEL_CAT2=Books
-DATA_CATEGORY2=Books
+MODEL_CAT2=Electronics
+DATA_CATEGORY2=Electronics
 seed2=1
 
-SVD_DIM=375
+SVD_DIM=350
 
 #layer=8
 for layer in {0..6}
@@ -28,7 +28,7 @@ do
     --do_svcca \
     --svd_dim $SVD_DIM
 
-  for epoch in {1..202..10}
+  for epoch in {1..502..10}
   do
     echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
     python analysis.py \
