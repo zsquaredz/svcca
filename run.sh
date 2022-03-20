@@ -18,7 +18,7 @@ seed2=1
 SVD_DIM=350
 
 #layer=8
-for layer in {0..6}
+for layer in {0..12}
 do
   epoch=0
   echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
