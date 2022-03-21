@@ -8,11 +8,11 @@ cd /disk/ocean/zheng/svcca/
 EXP_NAME=50_model
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Electronics
+DATA_CATEGORY1=Books
 seed1=1
 
-MODEL_CAT2=Electronics
-DATA_CATEGORY2=Electronics
+MODEL_CAT2=Books
+DATA_CATEGORY2=Books
 seed2=1
 
 SVD_DIM=350
