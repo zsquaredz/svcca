@@ -1,0 +1,3380 @@
+currently doing epoch 0, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999945548275
+currently doing epoch 1, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9972074581613765
+currently doing epoch 11, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9769607262259331
+currently doing epoch 21, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.951029523491464
+currently doing epoch 31, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9296100553492638
+currently doing epoch 41, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9134149937137389
+currently doing epoch 51, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.89792503976785
+currently doing epoch 61, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8855945347385846
+currently doing epoch 71, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8738672058905321
+currently doing epoch 81, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8627940828965178
+currently doing epoch 91, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8515631196797082
+currently doing epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8417152267321101
+currently doing epoch 111, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8322042918525112
+currently doing epoch 121, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8233062580476673
+currently doing epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8145896028218151
+currently doing epoch 141, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8066708046497627
+currently doing epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7990795363512885
+currently doing epoch 161, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.791976768401129
+currently doing epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7854816353846363
+currently doing epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7793155754436514
+currently doing epoch 191, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7735528747105825
+currently doing epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7682590800097641
+currently doing epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7631117180340113
+currently doing epoch 221, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7580057577915196
+currently doing epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7535019408929202
+currently doing epoch 241, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7496640806363439
+currently doing epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7457675851862425
+currently doing epoch 261, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7422431353490996
+currently doing epoch 271, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7387094971506986
+currently doing epoch 281, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7355119571076463
+currently doing epoch 291, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7324353733031684
+currently doing epoch 301, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7297237520615802
+currently doing epoch 311, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7271579644045972
+currently doing epoch 321, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7248387833015952
+currently doing epoch 331, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7226829036936998
+currently doing epoch 341, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7208367972075219
+currently doing epoch 351, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7191917861280792
+currently doing epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7175554413983156
+currently doing epoch 371, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7159449297090373
+currently doing epoch 381, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7145553526144368
+currently doing epoch 391, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7132617309179284
+currently doing epoch 401, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7121453205194452
+currently doing epoch 411, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7111727110979077
+currently doing epoch 421, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7102055976409991
+currently doing epoch 431, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7093978496642903
+currently doing epoch 441, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7087121243694878
+currently doing epoch 451, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7081324778861181
+currently doing epoch 461, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.707681324083424
+currently doing epoch 471, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7073446577919813
+currently doing epoch 481, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7071167392367309
+currently doing epoch 491, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7069765932602207
+currently doing epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7069374716559773
+currently doing epoch 0, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999943701491
+currently doing epoch 1, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9982928876765753
+currently doing epoch 11, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9722881009810058
+currently doing epoch 21, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9364753253023101
+currently doing epoch 31, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9099804230237298
+currently doing epoch 41, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8927923386622623
+currently doing epoch 51, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8777100189324318
+currently doing epoch 61, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8651876688246232
+currently doing epoch 71, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8530694695519303
+currently doing epoch 81, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8419023647556235
+currently doing epoch 91, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8309310297387699
+currently doing epoch 101, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8201382320319843
+currently doing epoch 111, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.810227790807685
+currently doing epoch 121, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8011762426239449
+currently doing epoch 131, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7922095111907649
+currently doing epoch 141, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7841145222318743
+currently doing epoch 151, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.776163521799459
+currently doing epoch 161, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7686432006264957
+currently doing epoch 171, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7619503904074707
+currently doing epoch 181, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7561712746890089
+currently doing epoch 191, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7499960593935163
+currently doing epoch 201, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7445886248299198
+currently doing epoch 211, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7393678047502316
+currently doing epoch 221, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7344648166962778
+currently doing epoch 231, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7298988645928901
+currently doing epoch 241, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7258651121404711
+currently doing epoch 251, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7217741654953476
+currently doing epoch 261, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7181618461079913
+currently doing epoch 271, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.714631327417637
+currently doing epoch 281, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7112508023638444
+currently doing epoch 291, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7084243844586604
+currently doing epoch 301, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.705790015348405
+currently doing epoch 311, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7030935845834202
+currently doing epoch 321, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7007270720863052
+currently doing epoch 331, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6985677589417691
+currently doing epoch 341, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.696352023131402
+currently doing epoch 351, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6945572463555494
+currently doing epoch 361, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6928059749917383
+currently doing epoch 371, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6912336030265662
+currently doing epoch 381, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6897186590661475
+currently doing epoch 391, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6884136542399303
+currently doing epoch 401, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6871007240053945
+currently doing epoch 411, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6860888242466049
+currently doing epoch 421, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.68508345897743
+currently doing epoch 431, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6842855866437781
+currently doing epoch 441, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6836259202284628
+currently doing epoch 451, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6830214306176081
+currently doing epoch 461, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.682508635337624
+currently doing epoch 471, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6821476986126834
+currently doing epoch 481, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6818918572566065
+currently doing epoch 491, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.681736428201055
+currently doing epoch 501, seed-1-Model-top5-layer-1, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6816938221383781
+currently doing epoch 0, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999941684937
+currently doing epoch 1, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9978953048866034
+currently doing epoch 11, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9653061231268832
+currently doing epoch 21, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9208839592868535
+currently doing epoch 31, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8904120589274921
+currently doing epoch 41, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8711690243732736
+currently doing epoch 51, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8540682501926848
+currently doing epoch 61, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.840191063183227
+currently doing epoch 71, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8276752288991581
+currently doing epoch 81, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8147538095122796
+currently doing epoch 91, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8027256260131532
+currently doing epoch 101, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7914610725524114
+currently doing epoch 111, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7808322610946298
+currently doing epoch 121, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7707615101849392
+currently doing epoch 131, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7609941983441086
+currently doing epoch 141, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7522171535437218
+currently doing epoch 151, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7441867453320531
+currently doing epoch 161, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7365472196804913
+currently doing epoch 171, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.729646482757749
+currently doing epoch 181, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7229283539527426
+currently doing epoch 191, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7170132356763426
+currently doing epoch 201, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7117589169527683
+currently doing epoch 211, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7063078743743278
+currently doing epoch 221, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7016665109365126
+currently doing epoch 231, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.697247109985666
+currently doing epoch 241, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6931767071144691
+currently doing epoch 251, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6889710689271653
+currently doing epoch 261, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6853960433091539
+currently doing epoch 271, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.681985188135435
+currently doing epoch 281, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6786760816959947
+currently doing epoch 291, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6757397469829182
+currently doing epoch 301, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6731170776441222
+currently doing epoch 311, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6706515916775416
+currently doing epoch 321, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6682126876932798
+currently doing epoch 331, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6659864250568456
+currently doing epoch 341, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6640331431600349
+currently doing epoch 351, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6621323790687946
+currently doing epoch 361, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6602086694855153
+currently doing epoch 371, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.658771761760052
+currently doing epoch 381, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6572211515652978
+currently doing epoch 391, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6558354463530801
+currently doing epoch 401, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6546875479363874
+currently doing epoch 411, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6537382990782227
+currently doing epoch 421, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.652660618767629
+currently doing epoch 431, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6518806970711036
+currently doing epoch 441, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6511221077262339
+currently doing epoch 451, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6505293381821509
+currently doing epoch 461, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.650005698686904
+currently doing epoch 471, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.649644114709487
+currently doing epoch 481, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6493805018465988
+currently doing epoch 491, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6492050788909058
+currently doing epoch 501, seed-1-Model-top5-layer-2, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6491602753372617
+currently doing epoch 0, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999938786237
+currently doing epoch 1, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9971739037528856
+currently doing epoch 11, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.958714438685963
+currently doing epoch 21, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9048028619900481
+currently doing epoch 31, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8701176983618821
+currently doing epoch 41, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8483704018519925
+currently doing epoch 51, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8310969084273454
+currently doing epoch 61, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8161378858469454
+currently doing epoch 71, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8025932273595274
+currently doing epoch 81, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7896314790004447
+currently doing epoch 91, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7774938276446616
+currently doing epoch 101, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7656902752575306
+currently doing epoch 111, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7551339942371424
+currently doing epoch 121, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7452014987227543
+currently doing epoch 131, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7358448615998636
+currently doing epoch 141, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7268428634965037
+currently doing epoch 151, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7190407891939932
+currently doing epoch 161, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7115891068541226
+currently doing epoch 171, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7046286628637043
+currently doing epoch 181, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6980705488840224
+currently doing epoch 191, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.691892381655546
+currently doing epoch 201, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.686754545732356
+currently doing epoch 211, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6815897083407922
+currently doing epoch 221, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6767295078602196
+currently doing epoch 231, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6720571735912252
+currently doing epoch 241, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6683217235038927
+currently doing epoch 251, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6640800552945586
+currently doing epoch 261, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6607534774475939
+currently doing epoch 271, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6576598124697014
+currently doing epoch 281, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6542722390509318
+currently doing epoch 291, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6514598907789318
+currently doing epoch 301, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6488758502353799
+currently doing epoch 311, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6465593857145964
+currently doing epoch 321, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.644303028835312
+currently doing epoch 331, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6423752888343357
+currently doing epoch 341, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6404133029382395
+currently doing epoch 351, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6387823893655541
+currently doing epoch 361, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6369039268958127
+currently doing epoch 371, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6355253837796381
+currently doing epoch 381, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6341068650232834
+currently doing epoch 391, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6328470576049111
+currently doing epoch 401, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.631680864435447
+currently doing epoch 411, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.630794118687915
+currently doing epoch 421, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6297316703383818
+currently doing epoch 431, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6289626173440807
+currently doing epoch 441, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.628360060145403
+currently doing epoch 451, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6278326617085037
+currently doing epoch 461, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.627301798746397
+currently doing epoch 471, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6269055089765752
+currently doing epoch 481, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6266483739566215
+currently doing epoch 491, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6265360159403673
+currently doing epoch 501, seed-1-Model-top5-layer-3, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6265170428787413
+currently doing epoch 0, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999936632847
+currently doing epoch 1, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9965053788795931
+currently doing epoch 11, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9460650166057586
+currently doing epoch 21, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8820428148214362
+currently doing epoch 31, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.845007155061161
+currently doing epoch 41, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8215433303008925
+currently doing epoch 51, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.802309590639569
+currently doing epoch 61, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7865033212546668
+currently doing epoch 71, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7715045643855022
+currently doing epoch 81, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7587356914122955
+currently doing epoch 91, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7464866594682441
+currently doing epoch 101, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7350631186381298
+currently doing epoch 111, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7245881221744228
+currently doing epoch 121, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7148868598889394
+currently doing epoch 131, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.705694227953829
+currently doing epoch 141, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6970264390265029
+currently doing epoch 151, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6893018991077127
+currently doing epoch 161, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6817270657505266
+currently doing epoch 171, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6753169279110695
+currently doing epoch 181, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6686048302393746
+currently doing epoch 191, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6628153946910553
+currently doing epoch 201, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6580607013632244
+currently doing epoch 211, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6531216808748599
+currently doing epoch 221, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6484247250640895
+currently doing epoch 231, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6442479252778105
+currently doing epoch 241, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6408531214101262
+currently doing epoch 251, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.636847619602083
+currently doing epoch 261, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6335769969396131
+currently doing epoch 271, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6307623249392134
+currently doing epoch 281, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6276874800471118
+currently doing epoch 291, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6249951087960454
+currently doing epoch 301, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.622592722211758
+currently doing epoch 311, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6204977415661477
+currently doing epoch 321, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6186234592793368
+currently doing epoch 331, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6165733999086919
+currently doing epoch 341, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6149842840481106
+currently doing epoch 351, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6134968922785045
+currently doing epoch 361, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6117586023683201
+currently doing epoch 371, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6103490671704234
+currently doing epoch 381, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.609004381908026
+currently doing epoch 391, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6080505850996292
+currently doing epoch 401, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6067487342707155
+currently doing epoch 411, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.60610292434452
+currently doing epoch 421, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6051712343628827
+currently doing epoch 431, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6044855019928993
+currently doing epoch 441, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6039650245113425
+currently doing epoch 451, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6034092416330491
+currently doing epoch 461, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6030003373700666
+currently doing epoch 471, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6026593888005445
+currently doing epoch 481, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6024834243542859
+currently doing epoch 491, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6023025200263693
+currently doing epoch 501, seed-1-Model-top5-layer-4, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6022850608258744
+currently doing epoch 0, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999933652722
+currently doing epoch 1, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9948628459627558
+currently doing epoch 11, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9299527756326433
+currently doing epoch 21, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8509602206800957
+currently doing epoch 31, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.811073730349901
+currently doing epoch 41, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7836962554919326
+currently doing epoch 51, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7632892867135538
+currently doing epoch 61, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7470463758688454
+currently doing epoch 71, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7314599225435544
+currently doing epoch 81, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7173919790499708
+currently doing epoch 91, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7045111644117229
+currently doing epoch 101, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6924908980301164
+currently doing epoch 111, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6814050031735182
+currently doing epoch 121, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6715549490213082
+currently doing epoch 131, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6624565688298744
+currently doing epoch 141, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6540515763637657
+currently doing epoch 151, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6470110455302439
+currently doing epoch 161, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6400846948698732
+currently doing epoch 171, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6343041633071134
+currently doing epoch 181, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6278523749388086
+currently doing epoch 191, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6227575539890495
+currently doing epoch 201, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6182462097844327
+currently doing epoch 211, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.613961055620207
+currently doing epoch 221, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6100137832545335
+currently doing epoch 231, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6062162118135904
+currently doing epoch 241, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6034230209746391
+currently doing epoch 251, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6000695846250562
+currently doing epoch 261, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5970175215886595
+currently doing epoch 271, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5946798186435396
+currently doing epoch 281, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.592191246046589
+currently doing epoch 291, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5898132557183681
+currently doing epoch 301, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5880578560337376
+currently doing epoch 311, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5860488769818682
+currently doing epoch 321, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5842966227078542
+currently doing epoch 331, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5825882900557149
+currently doing epoch 341, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5812823539098159
+currently doing epoch 351, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5801793327335731
+currently doing epoch 361, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5787736608501449
+currently doing epoch 371, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5778141969179448
+currently doing epoch 381, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.576547911985219
+currently doing epoch 391, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5758127912072076
+currently doing epoch 401, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5747791823091135
+currently doing epoch 411, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5742026647319525
+currently doing epoch 421, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5733368453433523
+currently doing epoch 431, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5727365550008277
+currently doing epoch 441, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5724684303153705
+currently doing epoch 451, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.572024049283914
+currently doing epoch 461, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5717433365158457
+currently doing epoch 471, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5713921781897187
+currently doing epoch 481, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5712962891742318
+currently doing epoch 491, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5711440096221714
+currently doing epoch 501, seed-1-Model-top5-layer-5, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5711326017418534
+currently doing epoch 0, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999932159629
+currently doing epoch 1, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9915875628543827
+currently doing epoch 11, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9107098628565446
+currently doing epoch 21, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8193516551284216
+currently doing epoch 31, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7772860451817243
+currently doing epoch 41, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7504442700970677
+currently doing epoch 51, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7299125158097428
+currently doing epoch 61, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7128964092982539
+currently doing epoch 71, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6985359613881749
+currently doing epoch 81, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6853381923989106
+currently doing epoch 91, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6732462797197151
+currently doing epoch 101, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6626610576411707
+currently doing epoch 111, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6538379441324261
+currently doing epoch 121, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6460832308021127
+currently doing epoch 131, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6394398364697179
+currently doing epoch 141, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6334181981940382
+currently doing epoch 151, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6279335210457208
+currently doing epoch 161, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6220380558148265
+currently doing epoch 171, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6177274459893242
+currently doing epoch 181, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6129661647184342
+currently doing epoch 191, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6091174335991817
+currently doing epoch 201, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.606071382083811
+currently doing epoch 211, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6032359470713321
+currently doing epoch 221, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6000848487120003
+currently doing epoch 231, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5972248122283065
+currently doing epoch 241, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5953640031217995
+currently doing epoch 251, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.592840646732352
+currently doing epoch 261, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5905379447220537
+currently doing epoch 271, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5893286488571783
+currently doing epoch 281, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5873390138756871
+currently doing epoch 291, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5857998462957555
+currently doing epoch 301, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5844781726900061
+currently doing epoch 311, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5828289523654611
+currently doing epoch 321, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5817963719447865
+currently doing epoch 331, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5806700723182043
+currently doing epoch 341, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.57967378851801
+currently doing epoch 351, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5791299609001199
+currently doing epoch 361, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5778792747394764
+currently doing epoch 371, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5772407962579087
+currently doing epoch 381, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.576269365740426
+currently doing epoch 391, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5757930956920373
+currently doing epoch 401, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5749686070541761
+currently doing epoch 411, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5745073899574507
+currently doing epoch 421, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5738861005570194
+currently doing epoch 431, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5736601632395425
+currently doing epoch 441, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5733806498965125
+currently doing epoch 451, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5730078966999657
+currently doing epoch 461, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5727677057097477
+currently doing epoch 471, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5726152589196295
+currently doing epoch 481, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5725369794169279
+currently doing epoch 491, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5723911201532002
+currently doing epoch 501, seed-1-Model-top5-layer-6, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.572399196115178
+currently doing epoch 0, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999928708121
+currently doing epoch 1, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9914297930388141
+currently doing epoch 11, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8905356961127593
+currently doing epoch 21, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7909571937058115
+currently doing epoch 31, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.739642141088241
+currently doing epoch 41, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7127362180593225
+currently doing epoch 51, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6940123733848091
+currently doing epoch 61, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6781498595370213
+currently doing epoch 71, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6654645039994268
+currently doing epoch 81, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6544262735060602
+currently doing epoch 91, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6445578639953987
+currently doing epoch 101, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6357955629864237
+currently doing epoch 111, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.628976597253354
+currently doing epoch 121, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6225211838911764
+currently doing epoch 131, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6172284140432246
+currently doing epoch 141, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6125420788060314
+currently doing epoch 151, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6086264310516314
+currently doing epoch 161, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6043409611593495
+currently doing epoch 171, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.60118438342238
+currently doing epoch 181, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5974233713636757
+currently doing epoch 191, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5944360467345045
+currently doing epoch 201, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.592610469673808
+currently doing epoch 211, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5905971551538556
+currently doing epoch 221, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5880926160461418
+currently doing epoch 231, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5859708686080468
+currently doing epoch 241, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5847811891287266
+currently doing epoch 251, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5826670755056012
+currently doing epoch 261, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5808449446328681
+currently doing epoch 271, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5800348309501502
+currently doing epoch 281, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.578514423713777
+currently doing epoch 291, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5770006578994143
+currently doing epoch 301, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5761894462507301
+currently doing epoch 311, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5748535925530405
+currently doing epoch 321, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5740476060888599
+currently doing epoch 331, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5733197913285542
+currently doing epoch 341, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5725465724578679
+currently doing epoch 351, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5721903153001143
+currently doing epoch 361, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5711340118113721
+currently doing epoch 371, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5705157406878426
+currently doing epoch 381, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5695757738001379
+currently doing epoch 391, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5692936609247192
+currently doing epoch 401, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5687767287001629
+currently doing epoch 411, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5682556652420185
+currently doing epoch 421, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5676465217712218
+currently doing epoch 431, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5673458869035747
+currently doing epoch 441, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5671193600946629
+currently doing epoch 451, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.566868324538481
+currently doing epoch 461, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5666754193850267
+currently doing epoch 471, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.566556864420812
+currently doing epoch 481, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5665001297728425
+currently doing epoch 491, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5663695274172712
+currently doing epoch 501, seed-1-Model-top5-layer-7, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.566381041006996
+currently doing epoch 0, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999926002054
+currently doing epoch 1, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9902292373601838
+currently doing epoch 11, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8741141114641391
+currently doing epoch 21, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7704594202593898
+currently doing epoch 31, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7169860949564009
+currently doing epoch 41, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.689516284115293
+currently doing epoch 51, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.672731217060913
+currently doing epoch 61, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6578589026194421
+currently doing epoch 71, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6456166422113919
+currently doing epoch 81, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6352524554671176
+currently doing epoch 91, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6268262973455215
+currently doing epoch 101, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.61927880687593
+currently doing epoch 111, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6135338753837376
+currently doing epoch 121, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6078318296495236
+currently doing epoch 131, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6034966359388865
+currently doing epoch 141, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5991755664539608
+currently doing epoch 151, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5963534185570433
+currently doing epoch 161, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5929991937677679
+currently doing epoch 171, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5899500115572645
+currently doing epoch 181, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5868902009390402
+currently doing epoch 191, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5848011009679388
+currently doing epoch 201, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5828603730872223
+currently doing epoch 211, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5813604658200526
+currently doing epoch 221, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5789466713933777
+currently doing epoch 231, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5771630047574839
+currently doing epoch 241, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5761360040764226
+currently doing epoch 251, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5743586326468058
+currently doing epoch 261, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5726753312472047
+currently doing epoch 271, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5718957100136358
+currently doing epoch 281, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.570449128742417
+currently doing epoch 291, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5692207732228551
+currently doing epoch 301, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5683114021932538
+currently doing epoch 311, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5670535355934756
+currently doing epoch 321, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5661580982005163
+currently doing epoch 331, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5658063940052452
+currently doing epoch 341, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5649146908084252
+currently doing epoch 351, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5646143629222901
+currently doing epoch 361, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5635711099926466
+currently doing epoch 371, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5629707970587292
+currently doing epoch 381, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5621237543507446
+currently doing epoch 391, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5617393979463841
+currently doing epoch 401, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5612329841141721
+currently doing epoch 411, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.560893660400594
+currently doing epoch 421, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5604851236900513
+currently doing epoch 431, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5601440628198325
+currently doing epoch 441, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5598016085029125
+currently doing epoch 451, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5595694770125244
+currently doing epoch 461, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5594574220790879
+currently doing epoch 471, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5593218732288188
+currently doing epoch 481, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5592959018268288
+currently doing epoch 491, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5592262781084
+currently doing epoch 501, seed-1-Model-top5-layer-8, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.559220200352609
+currently doing epoch 0, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999922415008
+currently doing epoch 1, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9884370616027913
+currently doing epoch 11, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8577004017275228
+currently doing epoch 21, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7514586139761046
+currently doing epoch 31, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6967781285932376
+currently doing epoch 41, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.668573587756417
+currently doing epoch 51, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.649298807608399
+currently doing epoch 61, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6351266115814852
+currently doing epoch 71, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6245117195883233
+currently doing epoch 81, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6149965083953944
+currently doing epoch 91, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6074161273617124
+currently doing epoch 101, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6008148750409893
+currently doing epoch 111, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5956313361669648
+currently doing epoch 121, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5908471536430927
+currently doing epoch 131, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5874806733010286
+currently doing epoch 141, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5832458499342729
+currently doing epoch 151, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5809115474836443
+currently doing epoch 161, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5780652655565901
+currently doing epoch 171, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5752970701452458
+currently doing epoch 181, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5724289239295764
+currently doing epoch 191, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5705152784103844
+currently doing epoch 201, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5688107225257327
+currently doing epoch 211, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5672964773532039
+currently doing epoch 221, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5651932022419796
+currently doing epoch 231, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5635491803640982
+currently doing epoch 241, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5626225211966508
+currently doing epoch 251, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5609591275783232
+currently doing epoch 261, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5594744536165044
+currently doing epoch 271, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5589316851765568
+currently doing epoch 281, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.557697111730594
+currently doing epoch 291, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5565683613260153
+currently doing epoch 301, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5557470057086402
+currently doing epoch 311, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5548751985644007
+currently doing epoch 321, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5538426690527624
+currently doing epoch 331, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5534293531950446
+currently doing epoch 341, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5525763100761933
+currently doing epoch 351, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5524297103076308
+currently doing epoch 361, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5514599437373201
+currently doing epoch 371, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5506658104350401
+currently doing epoch 381, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.549949752896146
+currently doing epoch 391, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5496588766329409
+currently doing epoch 401, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.549017533034762
+currently doing epoch 411, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.548689263166572
+currently doing epoch 421, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5482229053610507
+currently doing epoch 431, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5478297124741008
+currently doing epoch 441, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5475911295730291
+currently doing epoch 451, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5474477017441949
+currently doing epoch 461, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5473052334547012
+currently doing epoch 471, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5472485639540384
+currently doing epoch 481, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5472170063949583
+currently doing epoch 491, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5472069142898138
+currently doing epoch 501, seed-1-Model-top5-layer-9, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5472044155764771
+currently doing epoch 0, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999919785411
+currently doing epoch 1, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9853556719642539
+currently doing epoch 11, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.840972625563523
+currently doing epoch 21, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7339808168014949
+currently doing epoch 31, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6772281515164927
+currently doing epoch 41, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6474310036532643
+currently doing epoch 51, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6271729789745831
+currently doing epoch 61, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6131606950130355
+currently doing epoch 71, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6032724931102686
+currently doing epoch 81, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5938708112952906
+currently doing epoch 91, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5872933922631021
+currently doing epoch 101, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.581499784785005
+currently doing epoch 111, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5768141986672328
+currently doing epoch 121, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5725577297016998
+currently doing epoch 131, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5694210267656404
+currently doing epoch 141, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5658173082656959
+currently doing epoch 151, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5638183072778528
+currently doing epoch 161, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5613920715469272
+currently doing epoch 171, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5592710934977325
+currently doing epoch 181, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5564489403416593
+currently doing epoch 191, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5550910327818962
+currently doing epoch 201, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.553247576769664
+currently doing epoch 211, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5518587958126484
+currently doing epoch 221, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5499445472890562
+currently doing epoch 231, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5483562158855193
+currently doing epoch 241, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5472603301967812
+currently doing epoch 251, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5457206029522902
+currently doing epoch 261, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5443005970861202
+currently doing epoch 271, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5437802960791575
+currently doing epoch 281, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5423093218396253
+currently doing epoch 291, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5413437123312357
+currently doing epoch 301, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5405738313058919
+currently doing epoch 311, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.539410980436964
+currently doing epoch 321, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5386029385937797
+currently doing epoch 331, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5383394902041232
+currently doing epoch 341, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5372906184331324
+currently doing epoch 351, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5372115755544256
+currently doing epoch 361, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5363192326545767
+currently doing epoch 371, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5355506489947616
+currently doing epoch 381, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5346676816963473
+currently doing epoch 391, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5342740388409661
+currently doing epoch 401, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5337343217010343
+currently doing epoch 411, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.533400058102515
+currently doing epoch 421, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5329297680098982
+currently doing epoch 431, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5325325503587864
+currently doing epoch 441, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5322125512404787
+currently doing epoch 451, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5321134533286139
+currently doing epoch 461, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5319439847394751
+currently doing epoch 471, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5318106060236925
+currently doing epoch 481, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5318615405341804
+currently doing epoch 491, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5318062196657569
+currently doing epoch 501, seed-1-Model-top5-layer-10, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5318259024133517
+currently doing epoch 0, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999917513728
+currently doing epoch 1, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9824127227663192
+currently doing epoch 11, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8310294669256284
+currently doing epoch 21, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7212372936198113
+currently doing epoch 31, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6603376431644841
+currently doing epoch 41, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6306957478531124
+currently doing epoch 51, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6112351827238067
+currently doing epoch 61, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5979861750354478
+currently doing epoch 71, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5879975581858475
+currently doing epoch 81, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5798012929286277
+currently doing epoch 91, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5735967189919187
+currently doing epoch 101, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5675198582370898
+currently doing epoch 111, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5633962150456489
+currently doing epoch 121, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5594128394945014
+currently doing epoch 131, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5564869210834167
+currently doing epoch 141, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5529378213636226
+currently doing epoch 151, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.551094820293633
+currently doing epoch 161, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.548471201442527
+currently doing epoch 171, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5462033961240025
+currently doing epoch 181, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5435062298630341
+currently doing epoch 191, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5422983264024066
+currently doing epoch 201, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5403414070901269
+currently doing epoch 211, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5387230974334617
+currently doing epoch 221, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5366460434022039
+currently doing epoch 231, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5352296391546161
+currently doing epoch 241, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5340328333683465
+currently doing epoch 251, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5324204136529062
+currently doing epoch 261, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5309359798566908
+currently doing epoch 271, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.530457418841689
+currently doing epoch 281, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5290138964098432
+currently doing epoch 291, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5280384768665908
+currently doing epoch 301, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5268915255131068
+currently doing epoch 311, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5256430184011776
+currently doing epoch 321, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5247136929333907
+currently doing epoch 331, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5243299244296182
+currently doing epoch 341, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5233065540990087
+currently doing epoch 351, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5231589106487661
+currently doing epoch 361, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5221854582215413
+currently doing epoch 371, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5212568682295025
+currently doing epoch 381, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5204919489765855
+currently doing epoch 391, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5200808393091606
+currently doing epoch 401, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5194901099810441
+currently doing epoch 411, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5193524971170621
+currently doing epoch 421, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.518833649273352
+currently doing epoch 431, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5183442146431936
+currently doing epoch 441, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5180201562490168
+currently doing epoch 451, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5179057719854555
+currently doing epoch 461, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5177407574254881
+currently doing epoch 471, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5175851899970341
+currently doing epoch 481, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5175626835059062
+currently doing epoch 491, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5175014840839033
+currently doing epoch 501, seed-1-Model-top5-layer-11, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5175140221795401
+currently doing epoch 0, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999915743867
+currently doing epoch 1, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9803256872257298
+currently doing epoch 11, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8222692547150762
+currently doing epoch 21, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7108170766519782
+currently doing epoch 31, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6471718546628642
+currently doing epoch 41, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6183266469600692
+currently doing epoch 51, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6015354480426555
+currently doing epoch 61, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5895918510343869
+currently doing epoch 71, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5801095025793201
+currently doing epoch 81, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5722905827786399
+currently doing epoch 91, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5658619678725221
+currently doing epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.559952582118585
+currently doing epoch 111, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5555122732720751
+currently doing epoch 121, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5518286521708102
+currently doing epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5483497005466867
+currently doing epoch 141, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5445388381478774
+currently doing epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.542652359534079
+currently doing epoch 161, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5398286309321589
+currently doing epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.537678901229817
+currently doing epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5347822970495559
+currently doing epoch 191, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5334276493810436
+currently doing epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5315249397763385
+currently doing epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.529828720584458
+currently doing epoch 221, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.527726743197273
+currently doing epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5263383520061866
+currently doing epoch 241, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5249965722208011
+currently doing epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5230249059774618
+currently doing epoch 261, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5216183932319325
+currently doing epoch 271, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5214457410953622
+currently doing epoch 281, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.51984893752642
+currently doing epoch 291, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5189114003313404
+currently doing epoch 301, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5174725885841959
+currently doing epoch 311, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5162243007492349
+currently doing epoch 321, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5153094518143491
+currently doing epoch 331, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5149651365163541
+currently doing epoch 341, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5138729201033281
+currently doing epoch 351, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.513765711190025
+currently doing epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.512718805763316
+currently doing epoch 371, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.51175330100139
+currently doing epoch 381, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5111139777866616
+currently doing epoch 391, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5105696460716561
+currently doing epoch 401, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5098738292565527
+currently doing epoch 411, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5096699737106315
+currently doing epoch 421, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.50918223179097
+currently doing epoch 431, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5087080938463565
+currently doing epoch 441, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5083648695786548
+currently doing epoch 451, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5081914674368717
+currently doing epoch 461, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5080286580175625
+currently doing epoch 471, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5078194714167326
+currently doing epoch 481, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5078585471998879
+currently doing epoch 491, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5077799430984067
+currently doing epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.507810549098687

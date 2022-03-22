@@ -1,0 +1,3380 @@
+currently doing epoch 0, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999966704448
+currently doing epoch 1, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9986894364415749
+currently doing epoch 11, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9835619301891376
+currently doing epoch 21, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9654936654460984
+currently doing epoch 31, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9446382437103881
+currently doing epoch 41, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9206053407341559
+currently doing epoch 51, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8998138032661875
+currently doing epoch 61, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8855778190843905
+currently doing epoch 71, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8733305927296597
+currently doing epoch 81, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8603850125457406
+currently doing epoch 91, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8480496401265532
+currently doing epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8363711393432381
+currently doing epoch 111, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8250268382814384
+currently doing epoch 121, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8148015541641832
+currently doing epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8051354763655543
+currently doing epoch 141, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7959705632912528
+currently doing epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7868227057652419
+currently doing epoch 161, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7783747299677921
+currently doing epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7704546922946659
+currently doing epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7630069294111562
+currently doing epoch 191, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7562561572993517
+currently doing epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7496842370345334
+currently doing epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7436303502182605
+currently doing epoch 221, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7382345335786759
+currently doing epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7327991193660653
+currently doing epoch 241, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7274246796977281
+currently doing epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7227731197075553
+currently doing epoch 261, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7184883070004792
+currently doing epoch 271, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7142909620892474
+currently doing epoch 281, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7105918785019625
+currently doing epoch 291, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.707093813135948
+currently doing epoch 301, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7037749442270325
+currently doing epoch 311, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7006949562777635
+currently doing epoch 321, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6980345340689711
+currently doing epoch 331, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6953489523996633
+currently doing epoch 341, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6929379113477321
+currently doing epoch 351, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.69067273110618
+currently doing epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6885408349123737
+currently doing epoch 371, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6865910074367207
+currently doing epoch 381, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6847908657478926
+currently doing epoch 391, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6832538975254787
+currently doing epoch 401, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6818387046513145
+currently doing epoch 411, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6804302953178671
+currently doing epoch 421, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6792115055772626
+currently doing epoch 431, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6782798128440226
+currently doing epoch 441, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6773938807294524
+currently doing epoch 451, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6767229529051028
+currently doing epoch 461, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6761579593945796
+currently doing epoch 471, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6757115127607762
+currently doing epoch 481, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6753597596121943
+currently doing epoch 491, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6751751975773388
+currently doing epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6751224032699825
+currently doing epoch 0, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999965323447
+currently doing epoch 1, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9988767605485692
+currently doing epoch 11, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9822897520435807
+currently doing epoch 21, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9620829965273964
+currently doing epoch 31, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9399465111851513
+currently doing epoch 41, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9094103756423275
+currently doing epoch 51, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.887259719872324
+currently doing epoch 61, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8737732837656449
+currently doing epoch 71, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8613052012975815
+currently doing epoch 81, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8490924368549534
+currently doing epoch 91, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8372202980802171
+currently doing epoch 101, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8250364727842192
+currently doing epoch 111, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8134916115799331
+currently doing epoch 121, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8033346185937408
+currently doing epoch 131, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7933559709697452
+currently doing epoch 141, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7839226110515215
+currently doing epoch 151, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7752287325597703
+currently doing epoch 161, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7666136455057335
+currently doing epoch 171, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7586764156282694
+currently doing epoch 181, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.751153997239377
+currently doing epoch 191, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7444035104474888
+currently doing epoch 201, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7378338010831555
+currently doing epoch 211, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7319000676658954
+currently doing epoch 221, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.726383530223708
+currently doing epoch 231, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7211551808267799
+currently doing epoch 241, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7160842275840335
+currently doing epoch 251, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.711459229672829
+currently doing epoch 261, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7071130553464963
+currently doing epoch 271, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7031244985591202
+currently doing epoch 281, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6993070190717893
+currently doing epoch 291, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6958341638320628
+currently doing epoch 301, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6926687009806485
+currently doing epoch 311, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6896723062776019
+currently doing epoch 321, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6868194780045721
+currently doing epoch 331, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6842569775500074
+currently doing epoch 341, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6818929662362874
+currently doing epoch 351, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6797885919888216
+currently doing epoch 361, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6777162874465944
+currently doing epoch 371, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6758790333800092
+currently doing epoch 381, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6741821556368272
+currently doing epoch 391, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6726022083447695
+currently doing epoch 401, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6711964190196841
+currently doing epoch 411, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6699293453177163
+currently doing epoch 421, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6687622939710173
+currently doing epoch 431, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6678027335570184
+currently doing epoch 441, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6669655094298539
+currently doing epoch 451, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6663052746393723
+currently doing epoch 461, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6657439581115537
+currently doing epoch 471, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6652831850652222
+currently doing epoch 481, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6649648766094151
+currently doing epoch 491, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6647922011022304
+currently doing epoch 501, seed-1-Model-top5-layer-1, and seed-1-Model-Movies_and_TV-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6647403402598754
+currently doing epoch 0, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999963963069
+currently doing epoch 1, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9987449568734074
+currently doing epoch 11, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9795276322722682
+currently doing epoch 21, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9557141041865103
+currently doing epoch 31, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9297527186957937
+currently doing epoch 41, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8957177221288305
+currently doing epoch 51, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8722451679534551
+currently doing epoch 61, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8586092617590215
+currently doing epoch 71, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.845425501719385
+currently doing epoch 81, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.832263851147344
+currently doing epoch 91, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8191078562177867
+currently doing epoch 101, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8073202205987238
+currently doing epoch 111, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7957382272899368
+currently doing epoch 121, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7845757331369658
+currently doing epoch 131, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7746379066510034
+currently doing epoch 141, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7652506073277426
+currently doing epoch 151, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7567417147585783
+currently doing epoch 161, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7480303381024602
+currently doing epoch 171, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7402585337020858
+currently doing epoch 181, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7326803847165839
+currently doing epoch 191, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7256516726005833
+currently doing epoch 201, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7192329493817011
+currently doing epoch 211, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7130770572617666
+currently doing epoch 221, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7076808354790675
+currently doing epoch 231, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7024866157874403
+currently doing epoch 241, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6976633403670456
+currently doing epoch 251, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6928876320611426
+currently doing epoch 261, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6884748663766157
+currently doing epoch 271, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6848235332700866
+currently doing epoch 281, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6808208055347539
+currently doing epoch 291, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6774294025398806
+currently doing epoch 301, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6742444350353576
+currently doing epoch 311, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6714224133817842
+currently doing epoch 321, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6687191307591908
+currently doing epoch 331, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6661989197914788
+currently doing epoch 341, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6638989520933836
+currently doing epoch 351, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6617286434345393
+currently doing epoch 361, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6598607299472724
+currently doing epoch 371, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6581467642428985
+currently doing epoch 381, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6565523832212923
+currently doing epoch 391, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6550580018229722
+currently doing epoch 401, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6537830857442124
+currently doing epoch 411, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6524751402745068
+currently doing epoch 421, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6513802721384493
+currently doing epoch 431, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6504226295467458
+currently doing epoch 441, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6495374237009369
+currently doing epoch 451, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6489289651215456
+currently doing epoch 461, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6483886846961051
+currently doing epoch 471, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6479489179518814
+currently doing epoch 481, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6476267440057608
+currently doing epoch 491, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6474635507797631
+currently doing epoch 501, seed-1-Model-top5-layer-2, and seed-1-Model-Movies_and_TV-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6474072884413837
+currently doing epoch 0, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999961915594
+currently doing epoch 1, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9984563871153458
+currently doing epoch 11, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9787798306378863
+currently doing epoch 21, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9511593837739337
+currently doing epoch 31, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9205268552813898
+currently doing epoch 41, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8815481354879849
+currently doing epoch 51, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8558616121847051
+currently doing epoch 61, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8402257387505545
+currently doing epoch 71, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.825933058071189
+currently doing epoch 81, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8123560577749114
+currently doing epoch 91, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7991917234973716
+currently doing epoch 101, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7865550490100525
+currently doing epoch 111, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7744095119092465
+currently doing epoch 121, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7636606191047648
+currently doing epoch 131, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7535254315588426
+currently doing epoch 141, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7442953636828229
+currently doing epoch 151, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7345325675775128
+currently doing epoch 161, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7261563140141629
+currently doing epoch 171, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7184377682735358
+currently doing epoch 181, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7109639995400129
+currently doing epoch 191, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7041158528865088
+currently doing epoch 201, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6977579163095077
+currently doing epoch 211, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6921435673544405
+currently doing epoch 221, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6864231363190215
+currently doing epoch 231, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.681563976590365
+currently doing epoch 241, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.677054125691478
+currently doing epoch 251, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6724683674188737
+currently doing epoch 261, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.668443081126221
+currently doing epoch 271, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6646986851231272
+currently doing epoch 281, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6612402142317532
+currently doing epoch 291, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6580643140602668
+currently doing epoch 301, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6549931588830684
+currently doing epoch 311, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6522524876664906
+currently doing epoch 321, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6496002549510591
+currently doing epoch 331, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6471377927047375
+currently doing epoch 341, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6450429184195694
+currently doing epoch 351, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6429718803487939
+currently doing epoch 361, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6409875511834343
+currently doing epoch 371, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.63921524964548
+currently doing epoch 381, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6377397219459287
+currently doing epoch 391, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6363590574199041
+currently doing epoch 401, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6350982835734243
+currently doing epoch 411, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6339153162661645
+currently doing epoch 421, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6329354879456565
+currently doing epoch 431, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6320153672162364
+currently doing epoch 441, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6312740744570114
+currently doing epoch 451, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6306220860767869
+currently doing epoch 461, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6301792617256776
+currently doing epoch 471, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6297031695095031
+currently doing epoch 481, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6293700506727868
+currently doing epoch 491, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6292645499227737
+currently doing epoch 501, seed-1-Model-top5-layer-3, and seed-1-Model-Movies_and_TV-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6292109298212759
+currently doing epoch 0, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999960431099
+currently doing epoch 1, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9962529824316847
+currently doing epoch 11, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9751134574323627
+currently doing epoch 21, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9435301305003307
+currently doing epoch 31, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9071382282981422
+currently doing epoch 41, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8640829412106216
+currently doing epoch 51, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8342816465236687
+currently doing epoch 61, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8179200647447117
+currently doing epoch 71, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8031612333811745
+currently doing epoch 81, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7886212161593908
+currently doing epoch 91, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7745160131266184
+currently doing epoch 101, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7620561368515553
+currently doing epoch 111, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7495020859178234
+currently doing epoch 121, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.738102638833421
+currently doing epoch 131, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7274795511747846
+currently doing epoch 141, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.717766579513954
+currently doing epoch 151, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7090807630352977
+currently doing epoch 161, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7002080321125285
+currently doing epoch 171, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6927580539902309
+currently doing epoch 181, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6855813893671315
+currently doing epoch 191, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6790561623245412
+currently doing epoch 201, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6730072643401003
+currently doing epoch 211, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6673750723673824
+currently doing epoch 221, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6618058547364933
+currently doing epoch 231, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6570657681412497
+currently doing epoch 241, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6526485253638804
+currently doing epoch 251, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6482379886221449
+currently doing epoch 261, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.644188786887683
+currently doing epoch 271, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6406966394177722
+currently doing epoch 281, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6373794280911057
+currently doing epoch 291, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6343348162940597
+currently doing epoch 301, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6313980539347036
+currently doing epoch 311, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6288620094719244
+currently doing epoch 321, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6262498424158133
+currently doing epoch 331, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6239102097214403
+currently doing epoch 341, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6222232430618115
+currently doing epoch 351, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6201791371006008
+currently doing epoch 361, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6183740801100642
+currently doing epoch 371, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6165920782032461
+currently doing epoch 381, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6152885167934135
+currently doing epoch 391, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6140209582397563
+currently doing epoch 401, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6129218054868965
+currently doing epoch 411, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6117827458325287
+currently doing epoch 421, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6107413332735946
+currently doing epoch 431, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6098780917343829
+currently doing epoch 441, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6091794742429767
+currently doing epoch 451, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6085327597980247
+currently doing epoch 461, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.608166898259825
+currently doing epoch 471, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6076928477178556
+currently doing epoch 481, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6073626918907773
+currently doing epoch 491, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6072476211365837
+currently doing epoch 501, seed-1-Model-top5-layer-4, and seed-1-Model-Movies_and_TV-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.607206772373668
+currently doing epoch 0, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999958454363
+currently doing epoch 1, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9973545788496823
+currently doing epoch 11, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9719959827816855
+currently doing epoch 21, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9308254495051779
+currently doing epoch 31, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8874574240787839
+currently doing epoch 41, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.839812872985205
+currently doing epoch 51, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8079541199709024
+currently doing epoch 61, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7890883346462686
+currently doing epoch 71, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7730528918396307
+currently doing epoch 81, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7573563285208476
+currently doing epoch 91, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7423452682170663
+currently doing epoch 101, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7283758908176444
+currently doing epoch 111, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7155189718638819
+currently doing epoch 121, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.704640935732975
+currently doing epoch 131, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6944865803246761
+currently doing epoch 141, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6851556678340344
+currently doing epoch 151, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6763688104169545
+currently doing epoch 161, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6678664547733015
+currently doing epoch 171, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6605519481876524
+currently doing epoch 181, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6538392801620974
+currently doing epoch 191, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6472372447308801
+currently doing epoch 201, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6419500459062288
+currently doing epoch 211, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6370246808725328
+currently doing epoch 221, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6320660418998821
+currently doing epoch 231, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6279332429452134
+currently doing epoch 241, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6242308929443227
+currently doing epoch 251, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6200911648689736
+currently doing epoch 261, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6162179762442959
+currently doing epoch 271, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6135811093359655
+currently doing epoch 281, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6105588662546316
+currently doing epoch 291, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.607809591893925
+currently doing epoch 301, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6054979192031986
+currently doing epoch 311, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6033091520998869
+currently doing epoch 321, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6009709191128515
+currently doing epoch 331, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5991816301691881
+currently doing epoch 341, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5979506774398597
+currently doing epoch 351, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5961604212996535
+currently doing epoch 361, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5947484597975192
+currently doing epoch 371, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5932104847974933
+currently doing epoch 381, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.592234224367773
+currently doing epoch 391, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5911165255917601
+currently doing epoch 401, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5901230736639703
+currently doing epoch 411, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5892018415655014
+currently doing epoch 421, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5884070685675163
+currently doing epoch 431, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5876127507497504
+currently doing epoch 441, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5871208751208771
+currently doing epoch 451, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5866675414701514
+currently doing epoch 461, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.58639639931881
+currently doing epoch 471, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5859959971502559
+currently doing epoch 481, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5857309979755739
+currently doing epoch 491, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.585680715623297
+currently doing epoch 501, seed-1-Model-top5-layer-5, and seed-1-Model-Movies_and_TV-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5856488898310429
+currently doing epoch 0, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.999999995731616
+currently doing epoch 1, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9963370437122535
+currently doing epoch 11, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9638231671089845
+currently doing epoch 21, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9166250962128336
+currently doing epoch 31, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8666661407563798
+currently doing epoch 41, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.812974149254378
+currently doing epoch 51, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.773763849572404
+currently doing epoch 61, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7540861975578056
+currently doing epoch 71, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7371356480591524
+currently doing epoch 81, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7222142787719014
+currently doing epoch 91, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7082093724622895
+currently doing epoch 101, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6958916655217453
+currently doing epoch 111, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6851596390730643
+currently doing epoch 121, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6753928270395414
+currently doing epoch 131, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6669001590940902
+currently doing epoch 141, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6593964617481267
+currently doing epoch 151, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6525088364441712
+currently doing epoch 161, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.645426427350365
+currently doing epoch 171, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6399425049471784
+currently doing epoch 181, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6348097712378472
+currently doing epoch 191, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6295267032344609
+currently doing epoch 201, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6260265444068173
+currently doing epoch 211, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6221130948656254
+currently doing epoch 221, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.618436526975681
+currently doing epoch 231, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.615374670318297
+currently doing epoch 241, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6130067975792365
+currently doing epoch 251, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6097182829687285
+currently doing epoch 261, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6072546494468435
+currently doing epoch 271, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.605600785789965
+currently doing epoch 281, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6034724984650089
+currently doing epoch 291, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6012760158866772
+currently doing epoch 301, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5996531888511201
+currently doing epoch 311, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5981007256914849
+currently doing epoch 321, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5966445075443091
+currently doing epoch 331, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5952990085724116
+currently doing epoch 341, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5944819755929284
+currently doing epoch 351, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5934237864591394
+currently doing epoch 361, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5926121887056734
+currently doing epoch 371, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5914642804811728
+currently doing epoch 381, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.590798051005705
+currently doing epoch 391, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5899270586770426
+currently doing epoch 401, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5892840440690151
+currently doing epoch 411, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5885992407600494
+currently doing epoch 421, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5881016336812741
+currently doing epoch 431, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.58765528640974
+currently doing epoch 441, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5872699607965253
+currently doing epoch 451, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5868718616307315
+currently doing epoch 461, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5868117170659186
+currently doing epoch 471, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5864656911596802
+currently doing epoch 481, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5862770723274529
+currently doing epoch 491, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5863096162251072
+currently doing epoch 501, seed-1-Model-top5-layer-6, and seed-1-Model-Movies_and_TV-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5863157401824199
+currently doing epoch 0, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999954855132
+currently doing epoch 1, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9962524250349843
+currently doing epoch 11, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9558854967078528
+currently doing epoch 21, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9036147924343675
+currently doing epoch 31, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8479575150094038
+currently doing epoch 41, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7894438485523385
+currently doing epoch 51, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7450077159624934
+currently doing epoch 61, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.72307644622159
+currently doing epoch 71, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7060755393639597
+currently doing epoch 81, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6915311987949245
+currently doing epoch 91, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6786960022444356
+currently doing epoch 101, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6671890439857446
+currently doing epoch 111, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6572722390573019
+currently doing epoch 121, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6488929355781984
+currently doing epoch 131, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6413824828939323
+currently doing epoch 141, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6353252921142478
+currently doing epoch 151, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.629591310980809
+currently doing epoch 161, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6240923885508098
+currently doing epoch 171, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6196596396849007
+currently doing epoch 181, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6152722090108297
+currently doing epoch 191, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6114158175686485
+currently doing epoch 201, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6089519213328016
+currently doing epoch 211, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6061292412591147
+currently doing epoch 221, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6033040060481354
+currently doing epoch 231, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.600936043605547
+currently doing epoch 241, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5991178286692072
+currently doing epoch 251, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5967751751748244
+currently doing epoch 261, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5952160876533453
+currently doing epoch 271, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5938978011037217
+currently doing epoch 281, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5927013477271156
+currently doing epoch 291, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5910834493328766
+currently doing epoch 301, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5900718111839625
+currently doing epoch 311, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5888659313831586
+currently doing epoch 321, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5878915502837494
+currently doing epoch 331, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.587057134203517
+currently doing epoch 341, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5865867703865321
+currently doing epoch 351, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5859312516842106
+currently doing epoch 361, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5853756344581604
+currently doing epoch 371, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5844442011113163
+currently doing epoch 381, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5840213753207352
+currently doing epoch 391, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5833635365314557
+currently doing epoch 401, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5831025320122323
+currently doing epoch 411, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5825841899925295
+currently doing epoch 421, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5822746628616947
+currently doing epoch 431, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5818714609089537
+currently doing epoch 441, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5816969103620485
+currently doing epoch 451, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5814850469578002
+currently doing epoch 461, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5815626309442772
+currently doing epoch 471, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5813209149864499
+currently doing epoch 481, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5811184012540629
+currently doing epoch 491, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5811733208971558
+currently doing epoch 501, seed-1-Model-top5-layer-7, and seed-1-Model-Movies_and_TV-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5812089676196599
+currently doing epoch 0, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999953058927
+currently doing epoch 1, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9953703636738763
+currently doing epoch 11, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.945573409442426
+currently doing epoch 21, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8890538971900639
+currently doing epoch 31, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8308216106287364
+currently doing epoch 41, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.772533150393734
+currently doing epoch 51, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7234529559235173
+currently doing epoch 61, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.702074366608277
+currently doing epoch 71, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6859488766662477
+currently doing epoch 81, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6723394424799511
+currently doing epoch 91, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6607760469341675
+currently doing epoch 101, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6505203220438743
+currently doing epoch 111, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6418089710054603
+currently doing epoch 121, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6345075724646164
+currently doing epoch 131, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6277458208456485
+currently doing epoch 141, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6229449655905953
+currently doing epoch 151, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6181905196732276
+currently doing epoch 161, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6137562241560159
+currently doing epoch 171, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.610232518783655
+currently doing epoch 181, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6065587386837863
+currently doing epoch 191, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6035236798024664
+currently doing epoch 201, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.601788531683399
+currently doing epoch 211, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5994909664948888
+currently doing epoch 221, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5973024691651007
+currently doing epoch 231, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.59521065989769
+currently doing epoch 241, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5936927212034581
+currently doing epoch 251, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5919537467884413
+currently doing epoch 261, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.590769553543976
+currently doing epoch 271, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5897297292545048
+currently doing epoch 281, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5886189683742743
+currently doing epoch 291, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5872371555575548
+currently doing epoch 301, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5864558596921834
+currently doing epoch 311, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5855976522711127
+currently doing epoch 321, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5845426050730533
+currently doing epoch 331, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5840316474564194
+currently doing epoch 341, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5836891259688356
+currently doing epoch 351, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5829700611337852
+currently doing epoch 361, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5826170308314608
+currently doing epoch 371, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5818259066818626
+currently doing epoch 381, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5815236220188809
+currently doing epoch 391, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5809427822164152
+currently doing epoch 401, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5807297623974853
+currently doing epoch 411, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5803497888231608
+currently doing epoch 421, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5800871307180788
+currently doing epoch 431, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5797517518846695
+currently doing epoch 441, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5796111687224729
+currently doing epoch 451, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.579375369655536
+currently doing epoch 461, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5793942009564346
+currently doing epoch 471, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5792499891213094
+currently doing epoch 481, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5790925669139231
+currently doing epoch 491, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5791628952838239
+currently doing epoch 501, seed-1-Model-top5-layer-8, and seed-1-Model-Movies_and_TV-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5792152639738645
+currently doing epoch 0, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999950638011
+currently doing epoch 1, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9949986993251819
+currently doing epoch 11, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9382930970993187
+currently doing epoch 21, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8779863061675042
+currently doing epoch 31, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8167924238395392
+currently doing epoch 41, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7591907245626749
+currently doing epoch 51, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7074734666490393
+currently doing epoch 61, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6843298429475598
+currently doing epoch 71, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6672810370249068
+currently doing epoch 81, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6538170951468992
+currently doing epoch 91, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6415641523736227
+currently doing epoch 101, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6314979236326183
+currently doing epoch 111, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6230247536547675
+currently doing epoch 121, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6160959414895667
+currently doing epoch 131, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6103867440310008
+currently doing epoch 141, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6057383944753285
+currently doing epoch 151, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6015372104714641
+currently doing epoch 161, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5978789239754893
+currently doing epoch 171, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5947387645090937
+currently doing epoch 181, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5915338092959317
+currently doing epoch 191, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5890033736968776
+currently doing epoch 201, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.587413297395433
+currently doing epoch 211, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5858715496142853
+currently doing epoch 221, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5836826321202024
+currently doing epoch 231, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5821249353726822
+currently doing epoch 241, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5808056400617646
+currently doing epoch 251, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5794574063404379
+currently doing epoch 261, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5786263903792009
+currently doing epoch 271, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5778481406683443
+currently doing epoch 281, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.576926010032859
+currently doing epoch 291, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5757944206607148
+currently doing epoch 301, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5753924057942533
+currently doing epoch 311, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5746597409300093
+currently doing epoch 321, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5737551399177182
+currently doing epoch 331, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5732869997300725
+currently doing epoch 341, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5732084820363511
+currently doing epoch 351, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5725978858999164
+currently doing epoch 361, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5721943298134539
+currently doing epoch 371, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5716516647371365
+currently doing epoch 381, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.571387596083588
+currently doing epoch 391, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5709328100993603
+currently doing epoch 401, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5709173658933897
+currently doing epoch 411, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5704839800337037
+currently doing epoch 421, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5702412428483231
+currently doing epoch 431, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5700173166714871
+currently doing epoch 441, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5698869526251082
+currently doing epoch 451, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5697496423753732
+currently doing epoch 461, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5698575673961968
+currently doing epoch 471, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.569681366997984
+currently doing epoch 481, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5695437527949146
+currently doing epoch 491, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5696229492288549
+currently doing epoch 501, seed-1-Model-top5-layer-9, and seed-1-Model-Movies_and_TV-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.569664246673938
+currently doing epoch 0, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999948716913
+currently doing epoch 1, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9934761820683007
+currently doing epoch 11, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9332161445332594
+currently doing epoch 21, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8693850227806016
+currently doing epoch 31, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8063921814018777
+currently doing epoch 41, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7470776667371225
+currently doing epoch 51, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6928700167900917
+currently doing epoch 61, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6667548906384498
+currently doing epoch 71, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6474293645156349
+currently doing epoch 81, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6339678609040285
+currently doing epoch 91, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6221002576342487
+currently doing epoch 101, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6127943318551257
+currently doing epoch 111, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6049665887679486
+currently doing epoch 121, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5990140899919557
+currently doing epoch 131, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5938942350089503
+currently doing epoch 141, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.589930575613476
+currently doing epoch 151, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5861549902344171
+currently doing epoch 161, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5834644063930319
+currently doing epoch 171, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5806509125106011
+currently doing epoch 181, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5781786318975727
+currently doing epoch 191, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5759721754890389
+currently doing epoch 201, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.575036704643287
+currently doing epoch 211, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5736347837346483
+currently doing epoch 221, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.571788970499384
+currently doing epoch 231, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5704987297979537
+currently doing epoch 241, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5694510287546187
+currently doing epoch 251, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5684504986915085
+currently doing epoch 261, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.567676711480592
+currently doing epoch 271, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5670099399208943
+currently doing epoch 281, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5661934082630498
+currently doing epoch 291, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5651936318324396
+currently doing epoch 301, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5648316264600767
+currently doing epoch 311, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.564410144162991
+currently doing epoch 321, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5634654567606123
+currently doing epoch 331, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5629996340423141
+currently doing epoch 341, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5628607534779386
+currently doing epoch 351, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5624741141946412
+currently doing epoch 361, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5621091098744866
+currently doing epoch 371, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5615002383818604
+currently doing epoch 381, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5613419236302746
+currently doing epoch 391, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5607012991562729
+currently doing epoch 401, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5606357906964633
+currently doing epoch 411, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5602873758988911
+currently doing epoch 421, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.560128706680999
+currently doing epoch 431, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.559986287967297
+currently doing epoch 441, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5598157284554184
+currently doing epoch 451, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.559684707041908
+currently doing epoch 461, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5597483242633555
+currently doing epoch 471, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5595731090733991
+currently doing epoch 481, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5594695194581093
+currently doing epoch 491, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.559509311509087
+currently doing epoch 501, seed-1-Model-top5-layer-10, and seed-1-Model-Movies_and_TV-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5595943566924771
+currently doing epoch 0, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999946785826
+currently doing epoch 1, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9931881138026935
+currently doing epoch 11, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9254462856343064
+currently doing epoch 21, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8608788724493148
+currently doing epoch 31, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7966590512997827
+currently doing epoch 41, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.736015213285641
+currently doing epoch 51, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6821054790943556
+currently doing epoch 61, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6554998975877868
+currently doing epoch 71, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6354556247113836
+currently doing epoch 81, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6213233623179133
+currently doing epoch 91, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6088257129215673
+currently doing epoch 101, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5992406397745182
+currently doing epoch 111, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.591080670488144
+currently doing epoch 121, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5853011165139437
+currently doing epoch 131, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5802365962993331
+currently doing epoch 141, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5765776128802028
+currently doing epoch 151, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5731723798448882
+currently doing epoch 161, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5706002292960659
+currently doing epoch 171, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5678573042748363
+currently doing epoch 181, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5653022281118846
+currently doing epoch 191, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5629943717156217
+currently doing epoch 201, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5622274692954122
+currently doing epoch 211, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5609237971316202
+currently doing epoch 221, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5588282328045124
+currently doing epoch 231, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5578299648166299
+currently doing epoch 241, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5566782606437648
+currently doing epoch 251, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5555502821904562
+currently doing epoch 261, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5547001402041336
+currently doing epoch 271, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5539280993433557
+currently doing epoch 281, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5531428984941524
+currently doing epoch 291, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5519765226926883
+currently doing epoch 301, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5516298855330484
+currently doing epoch 311, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5510483220942038
+currently doing epoch 321, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5499984688150588
+currently doing epoch 331, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5494179683325271
+currently doing epoch 341, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5494137106936869
+currently doing epoch 351, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5489473020210945
+currently doing epoch 361, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5484708616523675
+currently doing epoch 371, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5478664395127717
+currently doing epoch 381, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5475598632163363
+currently doing epoch 391, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.546919202876341
+currently doing epoch 401, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5468347964049264
+currently doing epoch 411, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.546417023758256
+currently doing epoch 421, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5463147104936392
+currently doing epoch 431, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5460706583038852
+currently doing epoch 441, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5458490109181604
+currently doing epoch 451, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5457406367775608
+currently doing epoch 461, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5457856769997729
+currently doing epoch 471, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5456582634269395
+currently doing epoch 481, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5455545627758294
+currently doing epoch 491, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5455763566740618
+currently doing epoch 501, seed-1-Model-top5-layer-11, and seed-1-Model-Movies_and_TV-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5456775375093669
+currently doing epoch 0, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9999999945204516
+currently doing epoch 1, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.9918041628084847
+currently doing epoch 11, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.919168149302801
+currently doing epoch 21, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.8546676935861157
+currently doing epoch 31, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7896974411483526
+currently doing epoch 41, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.7277391128812238
+currently doing epoch 51, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6746188041022053
+currently doing epoch 61, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6484098943058354
+currently doing epoch 71, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6274789652535849
+currently doing epoch 81, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6130401781419608
+currently doing epoch 91, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.6003954303393524
+currently doing epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5904754409708408
+currently doing epoch 111, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5829597475901562
+currently doing epoch 121, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5775590570004956
+currently doing epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5724246286306874
+currently doing epoch 141, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5689813464318577
+currently doing epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5656696026047018
+currently doing epoch 161, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5631864942423018
+currently doing epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5607712278866294
+currently doing epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5583700982490875
+currently doing epoch 191, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5562113456805824
+currently doing epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5552792789755392
+currently doing epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5540793705812606
+currently doing epoch 221, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5518517704554736
+currently doing epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5505394016211326
+currently doing epoch 241, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5496121889129731
+currently doing epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5484524188496056
+currently doing epoch 261, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5476402988402697
+currently doing epoch 271, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5467792350422898
+currently doing epoch 281, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5458929897667706
+currently doing epoch 291, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5446682389050261
+currently doing epoch 301, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5441561008989195
+currently doing epoch 311, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5434449658014936
+currently doing epoch 321, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5423652035479537
+currently doing epoch 331, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5416843113245874
+currently doing epoch 341, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5415643169287664
+currently doing epoch 351, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5411797316284407
+currently doing epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.540649073378213
+currently doing epoch 371, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5400093352573422
+currently doing epoch 381, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5395551885799144
+currently doing epoch 391, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5389386924895099
+currently doing epoch 401, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5388400997746781
+currently doing epoch 411, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5383120265087316
+currently doing epoch 421, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.538137117634298
+currently doing epoch 431, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5379534892791359
+currently doing epoch 441, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5377353190430927
+currently doing epoch 451, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5375473580606195
+currently doing epoch 461, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5375730334724158
+currently doing epoch 471, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5373743185186902
+currently doing epoch 481, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.537298672565253
+currently doing epoch 491, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5373145335757931
+currently doing epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 1.0
+SVD done
+result 0.5374248923653604
