@@ -5,14 +5,14 @@ conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
 
-EXP_NAME=50_model
+EXP_NAME=100_data
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Movies_and_TV
+DATA_CATEGORY1=Books
 seed1=1
 
-MODEL_CAT2=Movies_and_TV
-DATA_CATEGORY2=Movies_and_TV
+MODEL_CAT2=Books
+DATA_CATEGORY2=Books
 seed2=1
 
 SVD_DIM=350
@@ -28,7 +28,7 @@ do
     --do_svcca \
     --svd_dim $SVD_DIM
 
-  for epoch in {1..502..10}
+  for epoch in {1..202..10}
   do
     echo "currently doing epoch ${epoch}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
     python analysis.py \
