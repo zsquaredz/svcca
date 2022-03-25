@@ -1,0 +1,922 @@
+currently doing epoch 0, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9921352
+SVD done
+result 0.999999995535425
+currently doing epoch 1, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99210143
+SVD done
+result 0.9970719144044539
+currently doing epoch 11, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9918852
+SVD done
+result 0.9766307957189874
+currently doing epoch 21, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.992103
+SVD done
+result 0.9458580867578862
+currently doing epoch 31, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99219877
+SVD done
+result 0.9280547747826157
+currently doing epoch 41, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9922476
+SVD done
+result 0.9136538524657967
+currently doing epoch 51, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9922852
+SVD done
+result 0.9013063907621774
+currently doing epoch 61, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9923153
+SVD done
+result 0.8893188508754438
+currently doing epoch 71, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99233705
+SVD done
+result 0.8789916014377549
+currently doing epoch 81, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 91, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 111, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9924272
+SVD done
+result 0.8431086292809927
+currently doing epoch 121, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99244857
+SVD done
+result 0.8363096673158871
+currently doing epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 141, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99250126
+SVD done
+result 0.8240473268672852
+currently doing epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 161, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 191, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+currently doing epoch 0, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932111
+SVD done
+result 0.9999999953710884
+currently doing epoch 1, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931257
+SVD done
+result 0.9948560174008308
+currently doing epoch 11, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99278444
+SVD done
+result 0.9599572725634653
+currently doing epoch 21, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929458
+SVD done
+result 0.9141742704716187
+currently doing epoch 31, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99305516
+SVD done
+result 0.8921143085062226
+currently doing epoch 41, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931219
+SVD done
+result 0.8743744496521202
+currently doing epoch 51, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99315894
+SVD done
+result 0.8580151526780598
+currently doing epoch 61, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931636
+SVD done
+result 0.8449784100348381
+currently doing epoch 71, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931628
+SVD done
+result 0.831831536765802
+currently doing epoch 81, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 91, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931568
+SVD done
+result 0.8089677712389058
+currently doing epoch 101, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 111, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 121, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930935
+SVD done
+result 0.7827646612027581
+currently doing epoch 131, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930837
+SVD done
+result 0.7759893453936582
+currently doing epoch 141, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 151, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 161, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 171, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 181, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 191, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+currently doing epoch 201, seed-1-Model-top5-layer-1, and seed-1-Model-Home_and_Kitchen-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929493
+SVD done
+result 0.7429368251505226
+currently doing epoch 0, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939116
+SVD done
+result 0.9999999954138996
+currently doing epoch 1, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936266
+SVD done
+result 0.9933584325273357
+currently doing epoch 11, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993487
+SVD done
+result 0.9393145359630327
+currently doing epoch 21, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99364156
+SVD done
+result 0.8763570425214338
+currently doing epoch 31, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993756
+SVD done
+result 0.8502952384351841
+currently doing epoch 41, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938004
+SVD done
+result 0.8290241138311334
+currently doing epoch 51, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938214
+SVD done
+result 0.8110431426262759
+currently doing epoch 61, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937984
+SVD done
+result 0.7960549940203022
+currently doing epoch 71, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99374795
+SVD done
+result 0.7818948007637934
+currently doing epoch 81, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99371463
+SVD done
+result 0.7698369365566707
+currently doing epoch 91, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936619
+SVD done
+result 0.7582801241723386
+currently doing epoch 101, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993598
+SVD done
+result 0.7482869281762233
+currently doing epoch 111, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 121, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934918
+SVD done
+result 0.7318347927891914
+currently doing epoch 131, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 141, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 151, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 161, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 171, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99322516
+SVD done
+result 0.7016283906798293
+currently doing epoch 181, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 191, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 201, seed-1-Model-top5-layer-2, and seed-1-Model-Home_and_Kitchen-layer-2
+currently doing epoch 0, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994331
+SVD done
+result 0.9999999951741124
+currently doing epoch 1, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99386543
+SVD done
+result 0.9907882029908344
+currently doing epoch 11, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9940275
+SVD done
+result 0.9156558585687402
+currently doing epoch 21, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941159
+SVD done
+result 0.8307816883543977
+currently doing epoch 31, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99415076
+SVD done
+result 0.8014630438291706
+currently doing epoch 41, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99414283
+SVD done
+result 0.7777043045801679
+currently doing epoch 51, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99410784
+SVD done
+result 0.7581988189486666
+currently doing epoch 61, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9940574
+SVD done
+result 0.7422563917343759
+currently doing epoch 71, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 81, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993908
+SVD done
+result 0.7174149477259382
+currently doing epoch 91, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938244
+SVD done
+result 0.7067976370335205
+currently doing epoch 101, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 111, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 121, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 131, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934744
+SVD done
+result 0.6761564083233756
+currently doing epoch 141, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 151, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99328846
+SVD done
+result 0.6659790393299625
+currently doing epoch 161, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932595
+SVD done
+result 0.6601041333482256
+currently doing epoch 171, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 181, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 191, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 201, seed-1-Model-top5-layer-3, and seed-1-Model-Home_and_Kitchen-layer-3
+currently doing epoch 0, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99469197
+SVD done
+result 0.9999999950729971
+currently doing epoch 1, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9940724
+SVD done
+result 0.9882796479011059
+currently doing epoch 11, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944717
+SVD done
+result 0.8937653367031144
+currently doing epoch 21, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944886
+SVD done
+result 0.7935367053114224
+currently doing epoch 31, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944658
+SVD done
+result 0.7628260472873423
+currently doing epoch 41, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9943928
+SVD done
+result 0.7379957762533104
+currently doing epoch 51, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99431807
+SVD done
+result 0.7180473553005055
+currently doing epoch 61, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99422103
+SVD done
+result 0.7024612265468415
+currently doing epoch 71, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 81, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99399483
+SVD done
+result 0.6776285752055072
+currently doing epoch 91, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 101, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 111, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 121, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935651
+SVD done
+result 0.6455392019835423
+currently doing epoch 131, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 141, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99338615
+SVD done
+result 0.6342995455898438
+currently doing epoch 151, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 161, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 171, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931466
+SVD done
+result 0.6213122212342298
+currently doing epoch 181, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 191, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+currently doing epoch 201, seed-1-Model-top5-layer-4, and seed-1-Model-Home_and_Kitchen-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929024
+SVD done
+result 0.612551498596169
+currently doing epoch 0, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99492437
+SVD done
+result 0.9999999947887147
+currently doing epoch 1, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99419904
+SVD done
+result 0.984669932146497
+currently doing epoch 11, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948026
+SVD done
+result 0.8690124619585923
+currently doing epoch 21, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99478287
+SVD done
+result 0.7563335446195694
+currently doing epoch 31, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99468845
+SVD done
+result 0.7269060047391889
+currently doing epoch 41, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9945529
+SVD done
+result 0.704369878348511
+currently doing epoch 51, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99445224
+SVD done
+result 0.6861303368235016
+currently doing epoch 61, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9943313
+SVD done
+result 0.6719403814966097
+currently doing epoch 71, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 81, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99406826
+SVD done
+result 0.6489698545418808
+currently doing epoch 91, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939473
+SVD done
+result 0.640859112231492
+currently doing epoch 101, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 111, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 121, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 131, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 141, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 151, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 161, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 171, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 181, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 191, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+currently doing epoch 201, seed-1-Model-top5-layer-5, and seed-1-Model-Home_and_Kitchen-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928033
+SVD done
+result 0.5895809025161105
+currently doing epoch 0, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99512964
+SVD done
+result 0.9999999944894703
+currently doing epoch 1, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942994
+SVD done
+result 0.9798176058883649
+currently doing epoch 11, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9950643
+SVD done
+result 0.8422194629480532
+currently doing epoch 21, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9949913
+SVD done
+result 0.719535673566624
+currently doing epoch 31, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99481684
+SVD done
+result 0.6926404291992758
+currently doing epoch 41, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946333
+SVD done
+result 0.6726210767730545
+currently doing epoch 51, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99452513
+SVD done
+result 0.6563650878357815
+currently doing epoch 61, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9943781
+SVD done
+result 0.6441812939286136
+currently doing epoch 71, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 81, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 91, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 101, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99380445
+SVD done
+result 0.6121018790247966
+currently doing epoch 111, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 121, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 131, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 141, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933577
+SVD done
+result 0.5930387279294863
+currently doing epoch 151, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932049
+SVD done
+result 0.5903350173461442
+currently doing epoch 161, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 171, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930385
+SVD done
+result 0.5833664363674866
+currently doing epoch 181, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 191, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 201, seed-1-Model-top5-layer-6, and seed-1-Model-Home_and_Kitchen-layer-6
+currently doing epoch 0, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9952917
+SVD done
+result 0.9999999942895846
+currently doing epoch 1, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944214
+SVD done
+result 0.9755577329937091
+currently doing epoch 11, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.995265
+SVD done
+result 0.8099114550088825
+currently doing epoch 21, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9950611
+SVD done
+result 0.6773621351859848
+currently doing epoch 31, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948258
+SVD done
+result 0.6542517176409933
+currently doing epoch 41, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946347
+SVD done
+result 0.6381899855155918
+currently doing epoch 51, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99448264
+SVD done
+result 0.6275262952942373
+currently doing epoch 61, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99432576
+SVD done
+result 0.6209981113218208
+currently doing epoch 71, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99417144
+SVD done
+result 0.6142246670080393
+currently doing epoch 81, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 91, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 101, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 111, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 121, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935026
+SVD done
+result 0.593285981854029
+currently doing epoch 131, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 141, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 151, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 161, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 171, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 181, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 191, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 201, seed-1-Model-top5-layer-7, and seed-1-Model-Home_and_Kitchen-layer-7
+currently doing epoch 0, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9954436
+SVD done
+result 0.9999999939702936
+currently doing epoch 1, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9945156
+SVD done
+result 0.9693488877778305
+currently doing epoch 11, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9953674
+SVD done
+result 0.7823814095951538
+currently doing epoch 21, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99502987
+SVD done
+result 0.6507778104911057
+currently doing epoch 31, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948838
+SVD done
+result 0.6351956520512196
+currently doing epoch 41, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99469984
+SVD done
+result 0.6255392128210302
+currently doing epoch 51, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99456936
+SVD done
+result 0.6183764964311009
+currently doing epoch 61, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99439585
+SVD done
+result 0.614289637201153
+currently doing epoch 71, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 81, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 91, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 101, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938359
+SVD done
+result 0.599087405118947
+currently doing epoch 111, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 121, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 131, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 141, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 151, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 161, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 171, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 181, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 191, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 201, seed-1-Model-top5-layer-8, and seed-1-Model-Home_and_Kitchen-layer-8
+currently doing epoch 0, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99553615
+SVD done
+result 0.9999999935649145
+currently doing epoch 1, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946177
+SVD done
+result 0.9634481436039326
+currently doing epoch 11, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9954641
+SVD done
+result 0.7639147865117824
+currently doing epoch 21, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9949287
+SVD done
+result 0.6321102360361374
+currently doing epoch 31, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9947234
+SVD done
+result 0.615863805102594
+currently doing epoch 41, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99449205
+SVD done
+result 0.6081168148085487
+currently doing epoch 51, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99433905
+SVD done
+result 0.60230211870105
+currently doing epoch 61, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941433
+SVD done
+result 0.5996525124888923
+currently doing epoch 71, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99401236
+SVD done
+result 0.5959960967096197
+currently doing epoch 81, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 91, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937029
+SVD done
+result 0.5895000591067969
+currently doing epoch 101, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 111, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 121, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99332666
+SVD done
+result 0.5807342579739477
+currently doing epoch 131, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932008
+SVD done
+result 0.5771682863111375
+currently doing epoch 141, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 151, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 161, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 171, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99276805
+SVD done
+result 0.5656383635501541
+currently doing epoch 181, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 191, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 201, seed-1-Model-top5-layer-9, and seed-1-Model-Home_and_Kitchen-layer-9
+currently doing epoch 0, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9956746
+SVD done
+result 0.9999999934814959
+currently doing epoch 1, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9947331
+SVD done
+result 0.9558822170518355
+currently doing epoch 11, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99548453
+SVD done
+result 0.745449068350835
+currently doing epoch 21, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948115
+SVD done
+result 0.6156651999963291
+currently doing epoch 31, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944958
+SVD done
+result 0.5985513013533041
+currently doing epoch 41, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99423754
+SVD done
+result 0.5916102298184468
+currently doing epoch 51, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99404776
+SVD done
+result 0.5877178575006599
+currently doing epoch 61, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938451
+SVD done
+result 0.5842429997715696
+currently doing epoch 71, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936752
+SVD done
+result 0.5810918972971006
+currently doing epoch 81, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 91, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 101, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932205
+SVD done
+result 0.5713709843820153
+currently doing epoch 111, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931035
+SVD done
+result 0.5684606097951916
+currently doing epoch 121, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 131, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 141, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99273384
+SVD done
+result 0.5588749325283928
+currently doing epoch 151, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9926233
+SVD done
+result 0.555642899101072
+currently doing epoch 161, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9925085
+SVD done
+result 0.5526266385936129
+currently doing epoch 171, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 181, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 191, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+currently doing epoch 201, seed-1-Model-top5-layer-10, and seed-1-Model-Home_and_Kitchen-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99212646
+SVD done
+result 0.5400615665161307
+currently doing epoch 0, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9957446
+SVD done
+result 0.9999999931284043
+currently doing epoch 1, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99488187
+SVD done
+result 0.9480597991651426
+currently doing epoch 11, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99545705
+SVD done
+result 0.7313065470168234
+currently doing epoch 21, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9947409
+SVD done
+result 0.6046387329072699
+currently doing epoch 31, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99431396
+SVD done
+result 0.587084824441062
+currently doing epoch 41, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99399984
+SVD done
+result 0.5779533304065788
+currently doing epoch 51, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993773
+SVD done
+result 0.5731608352530929
+currently doing epoch 61, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935502
+SVD done
+result 0.5701226755986858
+currently doing epoch 71, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99336195
+SVD done
+result 0.5657931988365662
+currently doing epoch 81, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 91, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 101, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 111, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 121, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 131, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99247503
+SVD done
+result 0.5437883596062468
+currently doing epoch 141, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 151, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 161, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99211603
+SVD done
+result 0.5327768229741371
+currently doing epoch 171, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9920171
+SVD done
+result 0.5289771646418633
+currently doing epoch 181, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 191, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 201, seed-1-Model-top5-layer-11, and seed-1-Model-Home_and_Kitchen-layer-11
+currently doing epoch 0, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.995818
+SVD done
+result 0.9999999926592903
+currently doing epoch 1, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9950771
+SVD done
+result 0.9415474993870184
+currently doing epoch 11, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9954332
+SVD done
+result 0.7206823095170273
+currently doing epoch 21, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99465346
+SVD done
+result 0.597868081434994
+currently doing epoch 31, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941702
+SVD done
+result 0.5790355505286955
+currently doing epoch 41, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99380255
+SVD done
+result 0.5693165326346498
+currently doing epoch 51, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993531
+SVD done
+result 0.5637514292474985
+currently doing epoch 61, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932515
+SVD done
+result 0.5593100057610731
+currently doing epoch 71, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993044
+SVD done
+result 0.5537657020192198
+currently doing epoch 81, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 91, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99267143
+SVD done
+result 0.5439875473685304
+currently doing epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 111, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 121, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 141, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 161, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing epoch 191, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99131566
+SVD done
+result 0.5015943600729763
+currently doing epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9912238
+SVD done
+result 0.4979416366729051

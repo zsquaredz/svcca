@@ -1,0 +1,1430 @@
+currently doing epoch 0, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99193764
+SVD done
+result 0.999999996168821
+currently doing epoch 1, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99189997
+SVD done
+result 0.9987508243576053
+currently doing epoch 11, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99162966
+SVD done
+result 0.9766127992097644
+currently doing epoch 21, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9918425
+SVD done
+result 0.9432912829800119
+currently doing epoch 31, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99194336
+SVD done
+result 0.9250335217637862
+currently doing epoch 41, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9919929
+SVD done
+result 0.9099808551271797
+currently doing epoch 51, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.992026
+SVD done
+result 0.8967575707711587
+currently doing epoch 61, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9920472
+SVD done
+result 0.8839036459312456
+currently doing epoch 71, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99207014
+SVD done
+result 0.8722968415858936
+currently doing epoch 81, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99210185
+SVD done
+result 0.8615527431330066
+currently doing epoch 91, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99212134
+SVD done
+result 0.8513909627568491
+currently doing epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9921437
+SVD done
+result 0.8425756395688537
+currently doing epoch 111, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99216294
+SVD done
+result 0.8345815245023638
+currently doing epoch 121, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99218476
+SVD done
+result 0.8273583569261548
+currently doing epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99221283
+SVD done
+result 0.8199195257180262
+currently doing epoch 141, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99223375
+SVD done
+result 0.8134787950391972
+currently doing epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99225444
+SVD done
+result 0.8074737580022309
+currently doing epoch 161, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9922774
+SVD done
+result 0.8028268061736942
+currently doing epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9922942
+SVD done
+result 0.7977641721440589
+currently doing epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9923075
+SVD done
+result 0.7934364004668422
+currently doing epoch 191, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99232256
+SVD done
+result 0.7894937937267098
+currently doing epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99234265
+SVD done
+result 0.7863042956085335
+currently doing epoch 0, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99300003
+SVD done
+result 0.999999996007086
+currently doing epoch 1, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99292284
+SVD done
+result 0.9972746067206689
+currently doing epoch 11, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99253523
+SVD done
+result 0.9633814483613408
+currently doing epoch 21, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9927076
+SVD done
+result 0.914441336670075
+currently doing epoch 31, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928347
+SVD done
+result 0.8900814698509427
+currently doing epoch 41, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.992906
+SVD done
+result 0.872427681634989
+currently doing epoch 51, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929533
+SVD done
+result 0.8552921775677864
+currently doing epoch 61, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929645
+SVD done
+result 0.8399662250505155
+currently doing epoch 71, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929703
+SVD done
+result 0.8273891427730109
+currently doing epoch 81, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99296653
+SVD done
+result 0.8153688443257796
+currently doing epoch 91, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99297535
+SVD done
+result 0.8044432917282827
+currently doing epoch 101, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99294865
+SVD done
+result 0.794717628089307
+currently doing epoch 111, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.992944
+SVD done
+result 0.7855972175020416
+currently doing epoch 121, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929205
+SVD done
+result 0.7771835333259614
+currently doing epoch 131, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99291354
+SVD done
+result 0.7695636972443
+currently doing epoch 141, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99289083
+SVD done
+result 0.7628405755757003
+currently doing epoch 151, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99286604
+SVD done
+result 0.7564888268155443
+currently doing epoch 161, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99288064
+SVD done
+result 0.7509875550806443
+currently doing epoch 171, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99287575
+SVD done
+result 0.7449468974855494
+currently doing epoch 181, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928528
+SVD done
+result 0.7407390502394023
+currently doing epoch 191, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928411
+SVD done
+result 0.7363734759371794
+currently doing epoch 201, seed-1-Model-top5-layer-1, and seed-1-Model-Electronics-layer-1
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99280924
+SVD done
+result 0.7329710807077761
+currently doing epoch 0, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99377036
+SVD done
+result 0.9999999960249464
+currently doing epoch 1, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99348074
+SVD done
+result 0.9932891641067548
+currently doing epoch 11, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933016
+SVD done
+result 0.9447381106497668
+currently doing epoch 21, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99347615
+SVD done
+result 0.8752220515496174
+currently doing epoch 31, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936143
+SVD done
+result 0.8498739000436414
+currently doing epoch 41, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99365556
+SVD done
+result 0.8286117017914301
+currently doing epoch 51, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936863
+SVD done
+result 0.810250272333496
+currently doing epoch 61, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936749
+SVD done
+result 0.7931959312633702
+currently doing epoch 71, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936394
+SVD done
+result 0.779200531076445
+currently doing epoch 81, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936123
+SVD done
+result 0.7670543706236029
+currently doing epoch 91, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935633
+SVD done
+result 0.7550561549910937
+currently doing epoch 101, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935076
+SVD done
+result 0.7446550909069433
+currently doing epoch 111, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934713
+SVD done
+result 0.7359736221786215
+currently doing epoch 121, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934127
+SVD done
+result 0.7274014906705208
+currently doing epoch 131, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99335194
+SVD done
+result 0.7199987530734809
+currently doing epoch 141, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933003
+SVD done
+result 0.7128594340410107
+currently doing epoch 151, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932158
+SVD done
+result 0.7070162470009372
+currently doing epoch 161, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932273
+SVD done
+result 0.7008435287449694
+currently doing epoch 171, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931775
+SVD done
+result 0.695821229192203
+currently doing epoch 181, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99313164
+SVD done
+result 0.6917985385840185
+currently doing epoch 191, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99308354
+SVD done
+result 0.6874417990777945
+currently doing epoch 201, seed-1-Model-top5-layer-2, and seed-1-Model-Electronics-layer-2
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99302113
+SVD done
+result 0.6837053757158297
+currently doing epoch 0, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994227
+SVD done
+result 0.9999999957911108
+currently doing epoch 1, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99374294
+SVD done
+result 0.9918301014487388
+currently doing epoch 11, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938849
+SVD done
+result 0.9256265307794121
+currently doing epoch 21, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99397516
+SVD done
+result 0.8282851427193675
+currently doing epoch 31, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994029
+SVD done
+result 0.7972719087952311
+currently doing epoch 41, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9940162
+SVD done
+result 0.7719724546930078
+currently doing epoch 51, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99398535
+SVD done
+result 0.7502040000755625
+currently doing epoch 61, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99392927
+SVD done
+result 0.7324268887443882
+currently doing epoch 71, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938611
+SVD done
+result 0.7178275931959243
+currently doing epoch 81, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937958
+SVD done
+result 0.7048779910743613
+currently doing epoch 91, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937324
+SVD done
+result 0.6940406720645255
+currently doing epoch 101, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99363184
+SVD done
+result 0.6847672008366317
+currently doing epoch 111, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99355954
+SVD done
+result 0.6760014111651157
+currently doing epoch 121, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934716
+SVD done
+result 0.6683382637901617
+currently doing epoch 131, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933801
+SVD done
+result 0.6619130153127645
+currently doing epoch 141, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99331236
+SVD done
+result 0.655180294875236
+currently doing epoch 151, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99320436
+SVD done
+result 0.6502759457845988
+currently doing epoch 161, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931792
+SVD done
+result 0.6441460087967534
+currently doing epoch 171, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931136
+SVD done
+result 0.6399436695518813
+currently doing epoch 181, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99304104
+SVD done
+result 0.6368606599173009
+currently doing epoch 191, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929667
+SVD done
+result 0.6329783982821134
+currently doing epoch 201, seed-1-Model-top5-layer-3, and seed-1-Model-Electronics-layer-3
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929026
+SVD done
+result 0.6303574106179836
+currently doing epoch 0, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99461114
+SVD done
+result 0.999999995676053
+currently doing epoch 1, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939709
+SVD done
+result 0.9880543327268161
+currently doing epoch 11, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99436945
+SVD done
+result 0.9074108097518443
+currently doing epoch 21, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99437904
+SVD done
+result 0.79112075789004
+currently doing epoch 31, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99436885
+SVD done
+result 0.7592228337013162
+currently doing epoch 41, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942995
+SVD done
+result 0.7329372836116042
+currently doing epoch 51, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942252
+SVD done
+result 0.7111163393552176
+currently doing epoch 61, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941212
+SVD done
+result 0.6940617954303547
+currently doing epoch 71, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939972
+SVD done
+result 0.6795249580110045
+currently doing epoch 81, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939052
+SVD done
+result 0.6668839540936358
+currently doing epoch 91, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938186
+SVD done
+result 0.6562224347036707
+currently doing epoch 101, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99370754
+SVD done
+result 0.6474410597530199
+currently doing epoch 111, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936074
+SVD done
+result 0.6401217050273194
+currently doing epoch 121, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99351025
+SVD done
+result 0.6325526523960333
+currently doing epoch 131, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933953
+SVD done
+result 0.6269271470976991
+currently doing epoch 141, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933316
+SVD done
+result 0.6210120037487808
+currently doing epoch 151, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99320567
+SVD done
+result 0.6167105892372017
+currently doing epoch 161, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931586
+SVD done
+result 0.6108948576540348
+currently doing epoch 171, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99309415
+SVD done
+result 0.6071524234290567
+currently doing epoch 181, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99300265
+SVD done
+result 0.6035971414838939
+currently doing epoch 191, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929255
+SVD done
+result 0.6001706041354157
+currently doing epoch 201, seed-1-Model-top5-layer-4, and seed-1-Model-Electronics-layer-4
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928423
+SVD done
+result 0.5973800017648127
+currently doing epoch 0, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948771
+SVD done
+result 0.9999999954047288
+currently doing epoch 1, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99412715
+SVD done
+result 0.9846964213524936
+currently doing epoch 11, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99472076
+SVD done
+result 0.8895812606176121
+currently doing epoch 21, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99469787
+SVD done
+result 0.7576620048324116
+currently doing epoch 31, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994617
+SVD done
+result 0.7264487070081014
+currently doing epoch 41, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99447995
+SVD done
+result 0.7009456608941596
+currently doing epoch 51, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99438316
+SVD done
+result 0.680798562046363
+currently doing epoch 61, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942574
+SVD done
+result 0.6649333429544577
+currently doing epoch 71, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99411166
+SVD done
+result 0.6516687247038869
+currently doing epoch 81, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99399775
+SVD done
+result 0.6395438106293366
+currently doing epoch 91, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9938978
+SVD done
+result 0.6300525151689237
+currently doing epoch 101, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937577
+SVD done
+result 0.6217521786941812
+currently doing epoch 111, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936555
+SVD done
+result 0.6149946809750554
+currently doing epoch 121, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935233
+SVD done
+result 0.6084133251648313
+currently doing epoch 131, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933993
+SVD done
+result 0.6033462359787916
+currently doing epoch 141, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933384
+SVD done
+result 0.5980778426543858
+currently doing epoch 151, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931864
+SVD done
+result 0.593962915609548
+currently doing epoch 161, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99312603
+SVD done
+result 0.588996009437524
+currently doing epoch 171, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99303126
+SVD done
+result 0.5851954557155862
+currently doing epoch 181, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929526
+SVD done
+result 0.5819467886293633
+currently doing epoch 191, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928825
+SVD done
+result 0.5787092997836688
+currently doing epoch 201, seed-1-Model-top5-layer-5, and seed-1-Model-Electronics-layer-5
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9927883
+SVD done
+result 0.5755932124515221
+currently doing epoch 0, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99509627
+SVD done
+result 0.9999999951032006
+currently doing epoch 1, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994241
+SVD done
+result 0.9802064792310651
+currently doing epoch 11, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9950054
+SVD done
+result 0.8704199923305571
+currently doing epoch 21, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9949313
+SVD done
+result 0.7240889205399444
+currently doing epoch 31, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9947658
+SVD done
+result 0.6914206574730374
+currently doing epoch 41, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9945787
+SVD done
+result 0.6688730916117789
+currently doing epoch 51, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944741
+SVD done
+result 0.6501054552821615
+currently doing epoch 61, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99432373
+SVD done
+result 0.6361605028188069
+currently doing epoch 71, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941789
+SVD done
+result 0.6240299565918945
+currently doing epoch 81, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9940478
+SVD done
+result 0.6142737889213283
+currently doing epoch 91, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99392056
+SVD done
+result 0.6064594448060041
+currently doing epoch 101, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9937734
+SVD done
+result 0.6004258742446419
+currently doing epoch 111, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936663
+SVD done
+result 0.5945248332463805
+currently doing epoch 121, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935371
+SVD done
+result 0.5887189924053822
+currently doing epoch 131, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934075
+SVD done
+result 0.585290117274415
+currently doing epoch 141, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99333674
+SVD done
+result 0.5799901628183204
+currently doing epoch 151, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99317753
+SVD done
+result 0.5768067487763245
+currently doing epoch 161, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931118
+SVD done
+result 0.572264941388357
+currently doing epoch 171, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99300885
+SVD done
+result 0.5690513809991579
+currently doing epoch 181, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929296
+SVD done
+result 0.5657915329644486
+currently doing epoch 191, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928361
+SVD done
+result 0.5626485618953253
+currently doing epoch 201, seed-1-Model-top5-layer-6, and seed-1-Model-Electronics-layer-6
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9927434
+SVD done
+result 0.560014620789461
+currently doing epoch 0, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9952725
+SVD done
+result 0.9999999948922514
+currently doing epoch 1, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9943751
+SVD done
+result 0.9749098179514663
+currently doing epoch 11, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9952348
+SVD done
+result 0.8521062394769634
+currently doing epoch 21, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9950354
+SVD done
+result 0.6820245937054121
+currently doing epoch 31, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99479604
+SVD done
+result 0.6516186822790304
+currently doing epoch 41, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946019
+SVD done
+result 0.6335914211346175
+currently doing epoch 51, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99445266
+SVD done
+result 0.6197862076767994
+currently doing epoch 61, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994285
+SVD done
+result 0.6103381117126372
+currently doing epoch 71, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99413437
+SVD done
+result 0.6035766774069782
+currently doing epoch 81, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939904
+SVD done
+result 0.5961426061310087
+currently doing epoch 91, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99386895
+SVD done
+result 0.5914573149648387
+currently doing epoch 101, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99371254
+SVD done
+result 0.5871949053941768
+currently doing epoch 111, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9935999
+SVD done
+result 0.5834476837534782
+currently doing epoch 121, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99348825
+SVD done
+result 0.5793370891223016
+currently doing epoch 131, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933361
+SVD done
+result 0.5768324357988652
+currently doing epoch 141, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9932428
+SVD done
+result 0.5723644833306573
+currently doing epoch 151, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9931108
+SVD done
+result 0.5696828595545569
+currently doing epoch 161, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.993031
+SVD done
+result 0.5658609237743182
+currently doing epoch 171, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929311
+SVD done
+result 0.5635743309790701
+currently doing epoch 181, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928346
+SVD done
+result 0.5605746754026385
+currently doing epoch 191, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99274707
+SVD done
+result 0.5581183832114628
+currently doing epoch 201, seed-1-Model-top5-layer-7, and seed-1-Model-Electronics-layer-7
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9926487
+SVD done
+result 0.5550914871856528
+currently doing epoch 0, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99542516
+SVD done
+result 0.9999999945826741
+currently doing epoch 1, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.994477
+SVD done
+result 0.968255818837506
+currently doing epoch 11, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9953568
+SVD done
+result 0.830697722242861
+currently doing epoch 21, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99500215
+SVD done
+result 0.652852852302671
+currently doing epoch 31, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948478
+SVD done
+result 0.6309841325011948
+currently doing epoch 41, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946638
+SVD done
+result 0.6199223738400154
+currently doing epoch 51, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99453497
+SVD done
+result 0.6098106073495855
+currently doing epoch 61, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99436367
+SVD done
+result 0.603216493336797
+currently doing epoch 71, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942308
+SVD done
+result 0.5994505323341816
+currently doing epoch 81, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99408096
+SVD done
+result 0.5939792999955255
+currently doing epoch 91, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939496
+SVD done
+result 0.5903836926903053
+currently doing epoch 101, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99380934
+SVD done
+result 0.5864249304016994
+currently doing epoch 111, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99369746
+SVD done
+result 0.5835327644643324
+currently doing epoch 121, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99359596
+SVD done
+result 0.5794962561378412
+currently doing epoch 131, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99345887
+SVD done
+result 0.5766100819800493
+currently doing epoch 141, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933575
+SVD done
+result 0.5726693679626548
+currently doing epoch 151, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99324304
+SVD done
+result 0.5698410926752882
+currently doing epoch 161, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99314827
+SVD done
+result 0.5661127140537191
+currently doing epoch 171, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930502
+SVD done
+result 0.5635230650834655
+currently doing epoch 181, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929549
+SVD done
+result 0.5610181780699595
+currently doing epoch 191, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928703
+SVD done
+result 0.5576632584690263
+currently doing epoch 201, seed-1-Model-top5-layer-8, and seed-1-Model-Electronics-layer-8
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99278367
+SVD done
+result 0.5554449583148116
+currently doing epoch 0, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9955272
+SVD done
+result 0.9999999941806189
+currently doing epoch 1, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9945666
+SVD done
+result 0.9640939620697517
+currently doing epoch 11, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99547124
+SVD done
+result 0.8108998392331583
+currently doing epoch 21, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99489033
+SVD done
+result 0.6342658398189133
+currently doing epoch 31, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946925
+SVD done
+result 0.6146361434152782
+currently doing epoch 41, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9944658
+SVD done
+result 0.605692429748924
+currently doing epoch 51, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9943034
+SVD done
+result 0.5978655951703834
+currently doing epoch 61, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99410784
+SVD done
+result 0.5926255768464127
+currently doing epoch 71, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939732
+SVD done
+result 0.5891806940938368
+currently doing epoch 81, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99378705
+SVD done
+result 0.5848621586749309
+currently doing epoch 91, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936558
+SVD done
+result 0.5826634361546844
+currently doing epoch 101, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99351597
+SVD done
+result 0.5788830928788568
+currently doing epoch 111, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934026
+SVD done
+result 0.5770395661016428
+currently doing epoch 121, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99329233
+SVD done
+result 0.5735039083015634
+currently doing epoch 131, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99315774
+SVD done
+result 0.5702955712764626
+currently doing epoch 141, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930436
+SVD done
+result 0.5662618604559514
+currently doing epoch 151, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929304
+SVD done
+result 0.5635437124446347
+currently doing epoch 161, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928124
+SVD done
+result 0.5599197605352186
+currently doing epoch 171, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99272215
+SVD done
+result 0.5579789766354373
+currently doing epoch 181, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9926276
+SVD done
+result 0.5550370417233138
+currently doing epoch 191, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99252737
+SVD done
+result 0.5518097300688404
+currently doing epoch 201, seed-1-Model-top5-layer-9, and seed-1-Model-Electronics-layer-9
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9924378
+SVD done
+result 0.5495453561064035
+currently doing epoch 0, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9956679
+SVD done
+result 0.999999994073218
+currently doing epoch 1, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9946875
+SVD done
+result 0.9561676196278378
+currently doing epoch 11, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9954974
+SVD done
+result 0.796563458447611
+currently doing epoch 21, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9947701
+SVD done
+result 0.617211133685043
+currently doing epoch 31, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99445647
+SVD done
+result 0.5988602616873918
+currently doing epoch 41, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942059
+SVD done
+result 0.5920232438182583
+currently doing epoch 51, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9939998
+SVD done
+result 0.5862226095929749
+currently doing epoch 61, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99378693
+SVD done
+result 0.5826394932006054
+currently doing epoch 71, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9936259
+SVD done
+result 0.5792902129761716
+currently doing epoch 81, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99346554
+SVD done
+result 0.5760473225855379
+currently doing epoch 91, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99333
+SVD done
+result 0.5738932880099444
+currently doing epoch 101, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99317646
+SVD done
+result 0.5703097978527053
+currently doing epoch 111, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930633
+SVD done
+result 0.5678284726679945
+currently doing epoch 121, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9929361
+SVD done
+result 0.5645172606247104
+currently doing epoch 131, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9927926
+SVD done
+result 0.5612572738165181
+currently doing epoch 141, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9926876
+SVD done
+result 0.5579633067573941
+currently doing epoch 151, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9925821
+SVD done
+result 0.5546355367672977
+currently doing epoch 161, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9924572
+SVD done
+result 0.5516699046198069
+currently doing epoch 171, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99236834
+SVD done
+result 0.5487285072377756
+currently doing epoch 181, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9922773
+SVD done
+result 0.5461343813327534
+currently doing epoch 191, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9921763
+SVD done
+result 0.542946510158824
+currently doing epoch 201, seed-1-Model-top5-layer-10, and seed-1-Model-Electronics-layer-10
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9920825
+SVD done
+result 0.540327917685991
+currently doing epoch 0, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9957411
+SVD done
+result 0.9999999937269746
+currently doing epoch 1, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9948371
+SVD done
+result 0.9503890588471451
+currently doing epoch 11, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99548596
+SVD done
+result 0.7826661790009773
+currently doing epoch 21, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99469787
+SVD done
+result 0.6069535387858785
+currently doing epoch 31, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9942698
+SVD done
+result 0.5866033807587552
+currently doing epoch 41, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99396783
+SVD done
+result 0.5792766325499024
+currently doing epoch 51, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99371976
+SVD done
+result 0.5732183463077365
+currently doing epoch 61, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9934835
+SVD done
+result 0.5700678852903075
+currently doing epoch 71, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9933005
+SVD done
+result 0.5666608774998617
+currently doing epoch 81, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99311954
+SVD done
+result 0.562777963568191
+currently doing epoch 91, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99297994
+SVD done
+result 0.5602926524748697
+currently doing epoch 101, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9928226
+SVD done
+result 0.555703574461488
+currently doing epoch 111, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99269766
+SVD done
+result 0.552762156749157
+currently doing epoch 121, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9925713
+SVD done
+result 0.5491332206101921
+currently doing epoch 131, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99242234
+SVD done
+result 0.5458500060664465
+currently doing epoch 141, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9923008
+SVD done
+result 0.5419236482027245
+currently doing epoch 151, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9921742
+SVD done
+result 0.538357134348188
+currently doing epoch 161, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9920578
+SVD done
+result 0.5346695458896007
+currently doing epoch 171, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99196285
+SVD done
+result 0.5313564866819699
+currently doing epoch 181, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99185073
+SVD done
+result 0.5286399205902297
+currently doing epoch 191, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9917412
+SVD done
+result 0.5245912000748688
+currently doing epoch 201, seed-1-Model-top5-layer-11, and seed-1-Model-Electronics-layer-11
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9916447
+SVD done
+result 0.5224536240007012
+currently doing epoch 0, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9958176
+SVD done
+result 0.9999999932591467
+currently doing epoch 1, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99503034
+SVD done
+result 0.9416725563320056
+currently doing epoch 11, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99546933
+SVD done
+result 0.7733541967352637
+currently doing epoch 21, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99461085
+SVD done
+result 0.6015431378074005
+currently doing epoch 31, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9941362
+SVD done
+result 0.5800227774718456
+currently doing epoch 41, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99379396
+SVD done
+result 0.5710963293175878
+currently doing epoch 51, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99350244
+SVD done
+result 0.5639005276129837
+currently doing epoch 61, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99320626
+SVD done
+result 0.5603156628268948
+currently doing epoch 71, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9930074
+SVD done
+result 0.5558490393637089
+currently doing epoch 81, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9927976
+SVD done
+result 0.5506565794056358
+currently doing epoch 91, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9926387
+SVD done
+result 0.5469190098280406
+currently doing epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9924558
+SVD done
+result 0.5419813833188172
+currently doing epoch 111, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99231625
+SVD done
+result 0.5376031199173685
+currently doing epoch 121, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99218184
+SVD done
+result 0.5332471745005589
+currently doing epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.992017
+SVD done
+result 0.5295259316761856
+currently doing epoch 141, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9918728
+SVD done
+result 0.5244555883102758
+currently doing epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9917302
+SVD done
+result 0.5206508445375927
+currently doing epoch 161, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99160564
+SVD done
+result 0.5162329577068121
+currently doing epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9915004
+SVD done
+result 0.5122174696454785
+currently doing epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99137723
+SVD done
+result 0.5092580706895642
+currently doing epoch 191, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.99127704
+SVD done
+result 0.5046791503003426
+currently doing epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.991169
+SVD done
+result 0.5021596104648437
