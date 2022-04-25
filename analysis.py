@@ -39,7 +39,7 @@ def SVCCA(file1, file2, dim_to_keep):
     # print("Fraction of variance explained by 600 singular vectors", np.sum(s1[:600])/np.sum(s1))
     # print("Fraction of variance explained by 700 singular vectors", np.sum(s1[:700])/np.sum(s1))
     # print("Fraction of variance explained by 730 singular vectors", np.sum(s1[:730])/np.sum(s1))
-    print("Fraction of variance explained by", dim_to_keep ,"singular vectors", np.sum(s1[:750])/np.sum(s1))
+    print("Fraction of variance explained by", dim_to_keep ,"singular vectors", np.sum(s1[:dim_to_keep])/np.sum(s1))
     # print("Fraction of variance explained by 760 singular vectors", np.sum(s1[:760])/np.sum(s1))
     
     svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
