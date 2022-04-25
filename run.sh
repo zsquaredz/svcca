@@ -8,8 +8,8 @@ cd /disk/ocean/zheng/svcca/
 
 # for cate in 'Books' 'Clothing_Shoes_and_Jewelry' 'Electronics' 'Home_and_Kitchen' 'Movies_and_TV' 'Sports_and_Outdoors'
 
-m=10
-SVD_DIM=65
+m=50
+SVD_DIM=350
 # d=10  
 
 for d in {10,50,100,200}
