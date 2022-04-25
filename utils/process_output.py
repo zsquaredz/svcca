@@ -5,7 +5,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-def read_out_file(file, csv_file):
+def read_out_file(file, csv_file, end_epoch=202, layers=13):
     with open(file, 'r') as f:
         lines = f.readlines()
         results = lines[4::5] # this select every 5th line from the file which contains the actual svcca score
@@ -13,13 +13,14 @@ def read_out_file(file, csv_file):
     # print(len(processed_results))
     with open(csv_file, 'w') as f:
         writer = csv.writer(f)
-        header_row = ['', 'epoch_0'] + ['epoch_'+str(i) for i in range(1,202,10)]
+        header_row = ['', 'epoch_0'] + ['epoch_'+str(i) for i in range(1,end_epoch,10)]
+        # print(len(header_row)-1)
         # print(header_row)
         writer.writerow(header_row)
-        for i in range(13):
+        for i in range(layers):
             # first go through each layer
-            start_idx = (i*22) # each layer, there are 22 checkpoints saved
-            end_idx = ((i+1)*22)
+            start_idx = (i*(len(header_row)-1)) # each layer, there are 22 (for epoch end 202) checkpoints saved, general formula is len(header_row)-1
+            end_idx = ((i+1)*(len(header_row)-1))
             layer_result = processed_results[start_idx:end_idx]
             # print(layer_result)
             layer_row = ['layer_'+str(i)] + layer_result
@@ -78,6 +79,8 @@ def read_attention_out_file(file):
 
 
 if __name__ == '__main__':
-    # read_out_file('out/svcca_top5_seed1_home_seed1_all_layers.txt',
-    #                 'out/svcca_top5_seed1_home_seed1_all_layers.csv')
-    read_attention_out_file('out/corr_top5_seed1_book_seed1_all_attentions.txt')
+    read_out_file('out/100_data_svcca_top5_seed1_home_seed1_all_layers.txt',
+                'out/100_data_svcca_top5_seed1_home_seed1_all_layers.csv', 
+                end_epoch=202,
+                layers=13)
+    # read_attention_out_file('out/corr_top5_seed1_book_seed1_all_attentions.txt')
