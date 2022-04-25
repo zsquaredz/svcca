@@ -15,7 +15,7 @@ SVD_DIM=350
 for d in {10,50,100,200}
 do
   EXP_NAME1=${m}_model_${d}_data
-  EXP_NAME2=oracle
+  EXP_NAME2=reference_model
   
 
   MODEL_CAT1=top5
