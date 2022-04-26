@@ -15,8 +15,8 @@ do
   for d in {10,50,100,200}
   do
     EXP_NAME1=${m}_model_${d}_data
-    EXP_NAME2=oracle
-    
+    EXP_NAME2=reference_model
+
     if (( $m == 10 )) ; then
       SVD_DIM=70
       epoch1=501
@@ -70,7 +70,7 @@ do
     MODEL_CAT2=Clothing_Shoes_and_Jewelry
     DATA_CATEGORY2=Clothing_Shoes_and_Jewelry
     seed2=1
-    epoch2=131
+    epoch2=201
 
     for layer in {0,12}
     do
@@ -89,7 +89,7 @@ do
     MODEL_CAT2=Electronics
     DATA_CATEGORY2=Electronics
     seed2=1
-    epoch2=171
+    epoch2=201
 
     for layer in {0,12}
     do
@@ -108,7 +108,7 @@ do
     MODEL_CAT2=Home_and_Kitchen
     DATA_CATEGORY2=Home_and_Kitchen
     seed2=1
-    epoch2=171
+    epoch2=201
 
     for layer in {0,12}
     do
