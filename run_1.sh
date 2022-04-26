@@ -18,8 +18,6 @@ do
   do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=oracle
-    read m 
-    read d
     if (( $m == 10 )) ; then
       SVD_DIM=70
       epoch1=501
