@@ -1,0 +1,120 @@
+currently doing 10_model_10_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.9932063
+SVD done
+result 0.3278482139512016
+currently doing 10_model_10_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.9985437
+SVD done
+result 0.34310458930295207
+currently doing 10_model_50_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.99592906
+SVD done
+result 0.3548447693287136
+currently doing 10_model_50_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.99708074
+SVD done
+result 0.3824114855981301
+currently doing 10_model_100_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.9949443
+SVD done
+result 0.42235669701822587
+currently doing 10_model_100_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.996363
+SVD done
+result 0.42070838587146897
+currently doing 10_model_200_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.99575204
+SVD done
+result 0.44135040409182974
+currently doing 10_model_200_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 70 singular vectors 0.9961347
+SVD done
+result 0.4417633524581774
+currently doing 50_model_10_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9598324
+SVD done
+result 0.49499100835728005
+currently doing 50_model_10_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.98127306
+SVD done
+result 0.31987070204368273
+currently doing 50_model_50_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.96802425
+SVD done
+result 0.45544594576461356
+currently doing 50_model_50_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9703229
+SVD done
+result 0.3061582060711509
+currently doing 50_model_100_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9698308
+SVD done
+result 0.4339873704288155
+currently doing 50_model_100_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9638211
+SVD done
+result 0.28643047943764316
+currently doing 50_model_200_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.96995795
+SVD done
+result 0.42254578732789916
+currently doing 50_model_200_data epoch 501, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 350 singular vectors 0.9586931
+SVD done
+result 0.2744546511684654
+currently doing 100_model_10_data epoch 251, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9776768
+SVD done
+result 0.9115317695668058
+currently doing 100_model_10_data epoch 251, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9791631
+SVD done
+result 0.39285290699749015
+currently doing 100_model_50_data epoch 151, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9779381
+SVD done
+result 0.8612266877672011
+currently doing 100_model_50_data epoch 151, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9759169
+SVD done
+result 0.312058757575203
+currently doing 100_model_100_data epoch 131, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9781114
+SVD done
+result 0.8149224261161685
+currently doing 100_model_100_data epoch 131, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9749299
+SVD done
+result 0.2819605905234728
+currently doing 100_model_200_data epoch 131, reference_model epoch 201, seed-1-Model-top6-layer-0, and seed-1-Model-Sports_and_Outdoors-layer-0
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9778862
+SVD done
+result 0.7463170351643563
+currently doing 100_model_200_data epoch 131, reference_model epoch 201, seed-1-Model-top6-layer-12, and seed-1-Model-Sports_and_Outdoors-layer-12
+starting to perform SVD
+Fraction of variance explained by 720 singular vectors 0.9739144
+SVD done
+result 0.26148697381936364
