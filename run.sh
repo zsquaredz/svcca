@@ -21,7 +21,7 @@ do
       SVD_DIM=70
       epoch1=501
     elif (( $m == 50 )) ; then
-      SVD_DIM=350
+      SVD_DIM=375
       if (( $d == 10 )) ; then
         epoch1=501
       elif (( $d == 50 )) ; then
@@ -32,7 +32,7 @@ do
         epoch1=501
       fi
     else
-      SVD_DIM=720
+      SVD_DIM=750
       if (( $d == 10 )) ; then
         epoch1=251
       elif (( $d == 50 )) ; then
@@ -61,7 +61,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 720
+        --svd_dim2 750
     done
       
     MODEL_CAT1=top5
@@ -81,7 +81,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 720
+        --svd_dim2 750
     done
 
     MODEL_CAT1=top5
@@ -101,7 +101,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 720
+        --svd_dim2 750
     done
 
     MODEL_CAT1=top5
@@ -121,7 +121,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 720
+        --svd_dim2 750
     done
 
     MODEL_CAT1=top5
@@ -141,7 +141,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 720
+        --svd_dim2 750
     done
   done
 done

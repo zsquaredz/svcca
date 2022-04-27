@@ -17,12 +17,12 @@ do
   for d in {10,50,100,200}
   do
     EXP_NAME1=${m}_model_${d}_data
-    EXP_NAME2=reference_model
+    EXP_NAME2=oracle
     if (( $m == 10 )) ; then
       SVD_DIM=70
       epoch1=501
     elif (( $m == 50 )) ; then
-      SVD_DIM=350
+      SVD_DIM=375
       if (( $d == 10 )) ; then
         epoch1=501
       elif (( $d == 50 )) ; then
@@ -33,7 +33,7 @@ do
         epoch1=101
       fi
     else
-      SVD_DIM=720
+      SVD_DIM=750
       if (( $d == 10 )) ; then
         epoch1=71
       elif (( $d == 50 )) ; then
@@ -61,7 +61,8 @@ do
         --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
-        --svd_dim $SVD_DIM
+        --svd_dim1 $SVD_DIM \
+        --svd_dim2 750
     done
   done
 done
