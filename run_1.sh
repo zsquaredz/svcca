@@ -52,7 +52,7 @@ do
     MODEL_CAT2=Sports_and_Outdoors
     DATA_CATEGORY2=Sports_and_Outdoors
     seed2=1
-    epoch2=201
+    epoch2=81
 
     for layer in {0,12}
     do
