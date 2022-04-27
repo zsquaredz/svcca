@@ -26,26 +26,26 @@ do
       if (( $d == 10 )) ; then
         epoch1=501
       elif (( $d == 50 )) ; then
-        epoch1=201
+        epoch1=501
       elif (( $d == 100 )) ; then
-        epoch1=101
+        epoch1=501
       else
-        epoch1=101
+        epoch1=501
       fi
     else
       SVD_DIM=750
       if (( $d == 10 )) ; then
-        epoch1=71
+        epoch1=251
       elif (( $d == 50 )) ; then
-        epoch1=51
+        epoch1=151
       elif (( $d == 100 )) ; then
-        epoch1=31
+        epoch1=131
       else
-        epoch1=31
+        epoch1=131
       fi
     fi
     
-    MODEL_CAT1=Sports_and_Outdoors
+    MODEL_CAT1=top6
     DATA_CATEGORY1=Sports_and_Outdoors
     seed1=1
     
