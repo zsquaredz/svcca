@@ -1,600 +1,720 @@
 currently doing 10_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9925575
+Fraction of variance explained by 70 singular vectors for input1 0.9925575
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.3353441219389918
+result 0.5801925872463501
 currently doing 10_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99887484
+Fraction of variance explained by 70 singular vectors for input1 0.99887484
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.29340628852105494
+result 0.46263179261579424
 currently doing 10_model_10_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9935921
+Fraction of variance explained by 70 singular vectors for input1 0.9935921
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.36559366857291165
+result 0.6651371104443359
 currently doing 10_model_10_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99884933
+Fraction of variance explained by 70 singular vectors for input1 0.99884933
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.3363736029034414
+result 0.5226497175619647
 currently doing 10_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9927483
+Fraction of variance explained by 70 singular vectors for input1 0.9927483
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.33550747581090945
+result 0.6042712386148662
 currently doing 10_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9988486
+Fraction of variance explained by 70 singular vectors for input1 0.9988486
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.2971151976885257
+result 0.4759547834511289
 currently doing 10_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9930203
+Fraction of variance explained by 70 singular vectors for input1 0.9930203
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.3452716188440551
+result 0.6196683452009554
 currently doing 10_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9988543
+Fraction of variance explained by 70 singular vectors for input1 0.9988543
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.3123573120910423
+result 0.48712063959038027
 currently doing 10_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9925512
+Fraction of variance explained by 70 singular vectors for input1 0.9925512
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.33660119744274564
+result 0.5801271874363962
 currently doing 10_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9988852
+Fraction of variance explained by 70 singular vectors for input1 0.9988852
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.2961057016768918
+result 0.45752538390955866
 currently doing 10_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9955954
+Fraction of variance explained by 70 singular vectors for input1 0.9955954
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.37745674501930493
+result 0.5974118504705109
 currently doing 10_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9976509
+Fraction of variance explained by 70 singular vectors for input1 0.9976509
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.33036537681563694
+result 0.49205169131394716
 currently doing 10_model_50_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9960439
+Fraction of variance explained by 70 singular vectors for input1 0.9960439
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.3998162552089181
+result 0.6835951359490379
 currently doing 10_model_50_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99763376
+Fraction of variance explained by 70 singular vectors for input1 0.99763376
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.36991950736470114
+result 0.5446959484818401
 currently doing 10_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99571407
+Fraction of variance explained by 70 singular vectors for input1 0.99571407
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.3908692093867538
+result 0.630921902697466
 currently doing 10_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9977335
+Fraction of variance explained by 70 singular vectors for input1 0.9977335
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.3429010046739574
+result 0.5116191846097862
 currently doing 10_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99581194
+Fraction of variance explained by 70 singular vectors for input1 0.99581194
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.38722640691969296
+result 0.6392335503955942
 currently doing 10_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9975964
+Fraction of variance explained by 70 singular vectors for input1 0.9975964
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.35229621585800475
+result 0.514222744564959
 currently doing 10_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99554515
+Fraction of variance explained by 70 singular vectors for input1 0.99554515
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.38443964556170673
+result 0.5992497500944355
 currently doing 10_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9976182
+Fraction of variance explained by 70 singular vectors for input1 0.9976182
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.3306453575879198
+result 0.48680942603428057
 currently doing 10_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9956593
+Fraction of variance explained by 70 singular vectors for input1 0.9956593
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.4620464317871978
+result 0.6637579862306153
 currently doing 10_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.995692
+Fraction of variance explained by 70 singular vectors for input1 0.995692
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.38315150641975754
+result 0.5331392922547243
 currently doing 10_model_100_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99622077
+Fraction of variance explained by 70 singular vectors for input1 0.99622077
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.48402608962884275
+result 0.7372449433545093
 currently doing 10_model_100_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9966621
+Fraction of variance explained by 70 singular vectors for input1 0.9966621
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.41404286797927503
+result 0.5829422203846183
 currently doing 10_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99596006
+Fraction of variance explained by 70 singular vectors for input1 0.99596006
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.4850677172852251
+result 0.6958476455642065
 currently doing 10_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99643624
+Fraction of variance explained by 70 singular vectors for input1 0.99643624
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.40103767946483987
+result 0.5573906341814164
 currently doing 10_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9960379
+Fraction of variance explained by 70 singular vectors for input1 0.9960379
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.4821041414878997
+result 0.7051150165515989
 currently doing 10_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9964378
+Fraction of variance explained by 70 singular vectors for input1 0.9964378
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.41117972525092206
+result 0.5642225786588764
 currently doing 10_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.995665
+Fraction of variance explained by 70 singular vectors for input1 0.995665
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.46541364677796276
+result 0.664250849118667
 currently doing 10_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9959187
+Fraction of variance explained by 70 singular vectors for input1 0.9959187
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.3796212624834059
+result 0.5283663479286356
 currently doing 10_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99547994
+Fraction of variance explained by 70 singular vectors for input1 0.99547994
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.5206671624167959
+result 0.728683296317603
 currently doing 10_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99585503
+Fraction of variance explained by 70 singular vectors for input1 0.99585503
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.4326476634043509
+result 0.579223823077796
 currently doing 10_model_200_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99588865
+Fraction of variance explained by 70 singular vectors for input1 0.99588865
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.5277914238297418
+result 0.7870409709822539
 currently doing 10_model_200_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9962902
+Fraction of variance explained by 70 singular vectors for input1 0.9962902
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.4530224073895617
+result 0.623816294062936
 currently doing 10_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99564356
+Fraction of variance explained by 70 singular vectors for input1 0.99564356
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.5426255287837662
+result 0.7605449407533976
 currently doing 10_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99642897
+Fraction of variance explained by 70 singular vectors for input1 0.99642897
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.4498683303764563
+result 0.6051273256258022
 currently doing 10_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99562174
+Fraction of variance explained by 70 singular vectors for input1 0.99562174
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.536782098352358
+result 0.7672357809529071
 currently doing 10_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.99625695
+Fraction of variance explained by 70 singular vectors for input1 0.99625695
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.4589061934288462
+result 0.613422378800416
 currently doing 10_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.995442
+Fraction of variance explained by 70 singular vectors for input1 0.995442
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.5164636385392154
+result 0.7242849547653446
 currently doing 10_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 70 singular vectors 0.9959754
+Fraction of variance explained by 70 singular vectors for input1 0.9959754
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.4266827319932254
+result 0.5723609913100679
 currently doing 50_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9551736
+Fraction of variance explained by 375 singular vectors for input1 0.9897933
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.41509479793194204
+result 0.5471137461736382
 currently doing 50_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9818266
+Fraction of variance explained by 375 singular vectors for input1 0.9960425
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.21604115929727818
+result 0.26011783030668434
 currently doing 50_model_10_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96519804
+Fraction of variance explained by 375 singular vectors for input1 0.99215376
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.5223918952082183
+result 0.635383176324734
 currently doing 50_model_10_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.98225534
+Fraction of variance explained by 375 singular vectors for input1 0.9961523
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.278712279620872
+result 0.3363750313931235
 currently doing 50_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.95756257
+Fraction of variance explained by 375 singular vectors for input1 0.990352
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.4513231724686747
+result 0.5853137320187544
 currently doing 50_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9819431
+Fraction of variance explained by 375 singular vectors for input1 0.99605656
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.23714964376263045
+result 0.28634040079067985
 currently doing 50_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9599872
+Fraction of variance explained by 375 singular vectors for input1 0.99092
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.4749011175706866
+result 0.5953709739042363
 currently doing 50_model_10_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9817874
+Fraction of variance explained by 375 singular vectors for input1 0.99602556
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.24437276300367386
+result 0.29541700898779744
 currently doing 50_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.95511436
+Fraction of variance explained by 375 singular vectors for input1 0.9897908
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.40617196049992704
+result 0.5434151252453384
 currently doing 50_model_10_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9819401
+Fraction of variance explained by 375 singular vectors for input1 0.9960733
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.2139845634304971
+result 0.2575693550692495
 currently doing 50_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9641631
+Fraction of variance explained by 375 singular vectors for input1 0.99180776
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.44413147779564877
+result 0.5471924327852979
 currently doing 50_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97166365
+Fraction of variance explained by 375 singular vectors for input1 0.99372375
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.36406471240700927
+result 0.40902209770919684
 currently doing 50_model_50_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97154665
+Fraction of variance explained by 375 singular vectors for input1 0.9936237
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.5284221423736111
+result 0.6324807287534907
 currently doing 50_model_50_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97279066
+Fraction of variance explained by 375 singular vectors for input1 0.99396634
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.38614161892699284
+result 0.4375947176248393
 currently doing 50_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9662054
+Fraction of variance explained by 375 singular vectors for input1 0.9923034
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.4730071269735905
+result 0.5853056960756957
 currently doing 50_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97190744
+Fraction of variance explained by 375 singular vectors for input1 0.9937939
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.37934602257075606
+result 0.42686248905337354
 currently doing 50_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96786475
+Fraction of variance explained by 375 singular vectors for input1 0.99271137
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.4897464235749749
+result 0.5933379781327014
 currently doing 50_model_50_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97195613
+Fraction of variance explained by 375 singular vectors for input1 0.9937885
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.38089893973954264
+result 0.43042031030970634
 currently doing 50_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9642793
+Fraction of variance explained by 375 singular vectors for input1 0.99182546
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.4405366055486546
+result 0.5476116253838722
 currently doing 50_model_50_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9717801
+Fraction of variance explained by 375 singular vectors for input1 0.9937498
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.3611396792432801
+result 0.40642719649506187
 currently doing 50_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9672137
+Fraction of variance explained by 375 singular vectors for input1 0.9925446
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.4554683311562619
+result 0.5527417892623452
 currently doing 50_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9648149
+Fraction of variance explained by 375 singular vectors for input1 0.99207604
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.39980132521458084
+result 0.44487819583537347
 currently doing 50_model_100_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9731412
+Fraction of variance explained by 375 singular vectors for input1 0.99401224
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.5238447931979012
+result 0.6290609959869792
 currently doing 50_model_100_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96617556
+Fraction of variance explained by 375 singular vectors for input1 0.9924228
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.3999024801596651
+result 0.45070574151630227
 currently doing 50_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96891916
+Fraction of variance explained by 375 singular vectors for input1 0.9929667
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.4797853661688039
+result 0.5885530161652998
 currently doing 50_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96509767
+Fraction of variance explained by 375 singular vectors for input1 0.99216723
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.4091364717747878
+result 0.4566084777629481
 currently doing 50_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9701187
+Fraction of variance explained by 375 singular vectors for input1 0.99325377
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.49284840108239963
+result 0.5948841690113217
 currently doing 50_model_100_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9652745
+Fraction of variance explained by 375 singular vectors for input1 0.9922023
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.4081746346132332
+result 0.45762254470688335
 currently doing 50_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96725804
+Fraction of variance explained by 375 singular vectors for input1 0.992569
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.45457195852912397
+result 0.5540374993915057
 currently doing 50_model_100_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96496034
+Fraction of variance explained by 375 singular vectors for input1 0.9921079
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.3962520098797464
+result 0.442264059068761
 currently doing 50_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96816945
+Fraction of variance explained by 375 singular vectors for input1 0.99281913
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.4692323358525819
+result 0.5630298703757185
 currently doing 50_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.95925653
+Fraction of variance explained by 375 singular vectors for input1 0.9908151
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.4191493689785552
+result 0.4636123975842952
 currently doing 50_model_200_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.973165
+Fraction of variance explained by 375 singular vectors for input1 0.9940971
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.5224289315663477
+result 0.6287553108341914
 currently doing 50_model_200_data epoch 501, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9609967
+Fraction of variance explained by 375 singular vectors for input1 0.99123037
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.4027781546632002
+result 0.452181443531659
 currently doing 50_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9695464
+Fraction of variance explained by 375 singular vectors for input1 0.9931997
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.4903622437858192
+result 0.596359461216653
 currently doing 50_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9596195
+Fraction of variance explained by 375 singular vectors for input1 0.99092966
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.4242808341062716
+result 0.47009529903506064
 currently doing 50_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.97051626
+Fraction of variance explained by 375 singular vectors for input1 0.99341315
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.49776650807944
+result 0.5996623103453788
 currently doing 50_model_200_data epoch 501, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.95985115
+Fraction of variance explained by 375 singular vectors for input1 0.9909562
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.4185014494007984
+result 0.46670584352557976
 currently doing 50_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.96817154
+Fraction of variance explained by 375 singular vectors for input1 0.99280816
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.4687458444180144
+result 0.5647065588083504
 currently doing 50_model_200_data epoch 501, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 350 singular vectors 0.9593839
+Fraction of variance explained by 375 singular vectors for input1 0.99084884
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.416043321845506
+result 0.46126154786436896
 currently doing 100_model_10_data epoch 251, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9758238
+Fraction of variance explained by 750 singular vectors for input1 0.99160826
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.7536803406509011
+result 0.7611062079047249
 currently doing 100_model_10_data epoch 251, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9796726
+Fraction of variance explained by 750 singular vectors for input1 0.99291515
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.2496892874572466
+result 0.24601451832546006
 currently doing 100_model_10_data epoch 251, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9810595
+Fraction of variance explained by 750 singular vectors for input1 0.99346805
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.8456304685417254
+result 0.8509811496638691
 currently doing 100_model_10_data epoch 251, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.980117
+Fraction of variance explained by 750 singular vectors for input1 0.99308425
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.30969939801817387
+result 0.3056067099829581
 currently doing 100_model_10_data epoch 251, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9774478
+Fraction of variance explained by 750 singular vectors for input1 0.9922144
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.7942557303050026
+result 0.8015467306583397
 currently doing 100_model_10_data epoch 251, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97969073
+Fraction of variance explained by 750 singular vectors for input1 0.99292547
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.2697683717299611
+result 0.26588016572953954
 currently doing 100_model_10_data epoch 251, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9781393
+Fraction of variance explained by 750 singular vectors for input1 0.9924423
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.8040243060596187
+result 0.8107387202030483
 currently doing 100_model_10_data epoch 251, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9796275
+Fraction of variance explained by 750 singular vectors for input1 0.99290687
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.2790018881924101
+result 0.27519296157069106
 currently doing 100_model_10_data epoch 251, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9760643
+Fraction of variance explained by 750 singular vectors for input1 0.9917147
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.7486349918090923
+result 0.7563408898661182
 currently doing 100_model_10_data epoch 251, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97974837
+Fraction of variance explained by 750 singular vectors for input1 0.99294204
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.24690236947464403
+result 0.2433481094238803
 currently doing 100_model_50_data epoch 151, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9757577
+Fraction of variance explained by 750 singular vectors for input1 0.991597
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.7663585375585465
+result 0.7727985604462095
 currently doing 100_model_50_data epoch 151, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97616756
+Fraction of variance explained by 750 singular vectors for input1 0.991641
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.3570658393452495
+result 0.3506962538507628
 currently doing 100_model_50_data epoch 151, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9813569
+Fraction of variance explained by 750 singular vectors for input1 0.99358296
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.8351971576741934
+result 0.8401008075201373
 currently doing 100_model_50_data epoch 151, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9773448
+Fraction of variance explained by 750 singular vectors for input1 0.9920797
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.373481755771455
+result 0.36764525787859254
 currently doing 100_model_50_data epoch 151, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97752005
+Fraction of variance explained by 750 singular vectors for input1 0.9922517
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.8008386452459592
+result 0.8065493797071288
 currently doing 100_model_50_data epoch 151, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97653276
+Fraction of variance explained by 750 singular vectors for input1 0.9917787
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.3684643884167406
+result 0.3620618959882797
 currently doing 100_model_50_data epoch 151, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9783655
+Fraction of variance explained by 750 singular vectors for input1 0.99252427
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.8063462501822954
+result 0.812111245491414
 currently doing 100_model_50_data epoch 151, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97667354
+Fraction of variance explained by 750 singular vectors for input1 0.9918325
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.3709990511872887
+result 0.36472771325314707
 currently doing 100_model_50_data epoch 151, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9759708
+Fraction of variance explained by 750 singular vectors for input1 0.9916869
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.760764095340433
+result 0.766948975189761
 currently doing 100_model_50_data epoch 151, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9762129
+Fraction of variance explained by 750 singular vectors for input1 0.9916618
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.35199323833976504
+result 0.34585901451334145
 currently doing 100_model_100_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9757118
+Fraction of variance explained by 750 singular vectors for input1 0.9915869
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.7559658079664249
+result 0.7618111790994153
 currently doing 100_model_100_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97490495
+Fraction of variance explained by 750 singular vectors for input1 0.99121606
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.38360339107436936
+result 0.3764855430897105
 currently doing 100_model_100_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.981371
+Fraction of variance explained by 750 singular vectors for input1 0.9936061
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.8131668580342024
+result 0.8169423464680067
 currently doing 100_model_100_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9759119
+Fraction of variance explained by 750 singular vectors for input1 0.991581
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.38229454232437804
+result 0.37625870436573056
 currently doing 100_model_100_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9774769
+Fraction of variance explained by 750 singular vectors for input1 0.9922362
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.7872105461108194
+result 0.7919914519306349
 currently doing 100_model_100_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9751426
+Fraction of variance explained by 750 singular vectors for input1 0.99130005
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.39192772562134526
+result 0.38493377010051083
 currently doing 100_model_100_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9783867
+Fraction of variance explained by 750 singular vectors for input1 0.9925388
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.7913000134740394
+result 0.79604233769673
 currently doing 100_model_100_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97526664
+Fraction of variance explained by 750 singular vectors for input1 0.99135625
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.39119584633870896
+result 0.38430571374864153
 currently doing 100_model_100_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9759256
+Fraction of variance explained by 750 singular vectors for input1 0.99167174
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.7519048050629497
+result 0.7571800269175682
 currently doing 100_model_100_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97495013
+Fraction of variance explained by 750 singular vectors for input1 0.9912296
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.37906598985888
+result 0.3721834001342182
 currently doing 100_model_200_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97598577
+Fraction of variance explained by 750 singular vectors for input1 0.99170935
+Fraction of variance explained by 750 singular vectors for input2 0.99174875
 SVD done
-result 0.7303537751459696
+result 0.7348658407820644
 currently doing 100_model_200_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9738321
+Fraction of variance explained by 750 singular vectors for input1 0.9908504
+Fraction of variance explained by 750 singular vectors for input2 0.99093056
 SVD done
-result 0.4043283786467255
+result 0.39665431340547913
 currently doing 100_model_200_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9815949
+Fraction of variance explained by 750 singular vectors for input1 0.99369884
+Fraction of variance explained by 750 singular vectors for input2 0.99384075
 SVD done
-result 0.7736332755751534
+result 0.7760497593189876
 currently doing 100_model_200_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9747994
+Fraction of variance explained by 750 singular vectors for input1 0.9911953
+Fraction of variance explained by 750 singular vectors for input2 0.99110025
 SVD done
-result 0.3828162128485356
+result 0.376699002515216
 currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9776467
+Fraction of variance explained by 750 singular vectors for input1 0.99233186
+Fraction of variance explained by 750 singular vectors for input2 0.9925597
 SVD done
-result 0.7580879560686102
+result 0.7617814563354398
 currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97409785
+Fraction of variance explained by 750 singular vectors for input1 0.99093246
+Fraction of variance explained by 750 singular vectors for input2 0.99123144
 SVD done
-result 0.40765342931295784
+result 0.4001729721030623
 currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.97861314
+Fraction of variance explained by 750 singular vectors for input1 0.9926515
+Fraction of variance explained by 750 singular vectors for input2 0.9928471
 SVD done
-result 0.7571051036014744
+result 0.7607955730330829
 currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9742169
+Fraction of variance explained by 750 singular vectors for input1 0.9909818
+Fraction of variance explained by 750 singular vectors for input2 0.99103117
 SVD done
-result 0.40072152281754764
+result 0.39354213312987046
 currently doing 100_model_200_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9761178
+Fraction of variance explained by 750 singular vectors for input1 0.9917542
+Fraction of variance explained by 750 singular vectors for input2 0.99172276
 SVD done
-result 0.7268258538132041
+result 0.7308548938206432
 currently doing 100_model_200_data epoch 131, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
 starting to perform SVD
-Fraction of variance explained by 720 singular vectors 0.9738165
+Fraction of variance explained by 750 singular vectors for input1 0.99084526
+Fraction of variance explained by 750 singular vectors for input2 0.9907024
 SVD done
-result 0.39947781999542004
+result 0.3920763541892411
