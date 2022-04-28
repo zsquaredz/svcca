@@ -5,7 +5,51 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-def read_out_file(file, csv_file, end_epoch=202, layers=13):
+def read_out_file_backup(file, csv_file, end_epoch=202, layers=13):
+    with open(file, 'r') as f:
+        lines = f.readlines()
+        results = lines[4::5] # this select every 5th line from the file which contains the actual svcca score
+    processed_results = [float(res.strip().split()[1]) for res in results]
+    # print(len(processed_results))
+    with open(csv_file, 'w') as f:
+        writer = csv.writer(f)
+        header_row = ['', 'epoch_0'] + ['epoch_'+str(i) for i in range(1,end_epoch,10)]
+        # print(len(header_row)-1)
+        # print(header_row)
+        writer.writerow(header_row)
+        for i in range(layers):
+            # first go through each layer
+            start_idx = (i*(len(header_row)-1)) # each layer, there are 22 (for epoch end 202) checkpoints saved, general formula is len(header_row)-1
+            end_idx = ((i+1)*(len(header_row)-1))
+            layer_result = processed_results[start_idx:end_idx]
+            # print(layer_result)
+            layer_row = ['layer_'+str(i)] + layer_result
+            writer.writerow(layer_row)
+
+def read_out_file_domain(file, csv_file, domains=5, layers=2):
+    # this func can process out file for general model domains compare with oracle/control models
+    with open(file, 'r') as f:
+        lines = f.readlines()
+        results = lines[4::5] # this select every 5th line from the file which contains the actual svcca score
+    processed_results = [float(res.strip().split()[1]) for res in results]
+    print(len(processed_results))
+    # with open(csv_file, 'w') as f:
+    #     writer = csv.writer(f)
+    #     header_row = ['', 'epoch_0'] + ['epoch_'+str(i) for i in range(1,end_epoch,10)]
+    #     # print(len(header_row)-1)
+    #     # print(header_row)
+    #     writer.writerow(header_row)
+    #     for i in range(layers):
+    #         # first go through each layer
+    #         start_idx = (i*(len(header_row)-1)) # each layer, there are 22 (for epoch end 202) checkpoints saved, general formula is len(header_row)-1
+    #         end_idx = ((i+1)*(len(header_row)-1))
+    #         layer_result = processed_results[start_idx:end_idx]
+    #         # print(layer_result)
+    #         layer_row = ['layer_'+str(i)] + layer_result
+    #         writer.writerow(layer_row)
+
+def read_out_file_new_domain(file, csv_file, end_epoch=202, layers=13):
+    # this func can process out file for FT on new domain using existing general model or train from scratch mixing new domain with existing domain
     with open(file, 'r') as f:
         lines = f.readlines()
         results = lines[4::5] # this select every 5th line from the file which contains the actual svcca score
@@ -79,8 +123,12 @@ def read_attention_out_file(file):
 
 
 if __name__ == '__main__':
-    read_out_file('out/100_data_svcca_top5_seed1_home_seed1_all_layers.txt',
-                'out/100_data_svcca_top5_seed1_home_seed1_all_layers.csv', 
-                end_epoch=202,
-                layers=13)
+    # read_out_file('out/100_data_svcca_top5_seed1_home_seed1_all_layers.txt',
+    #             'out/100_data_svcca_top5_seed1_home_seed1_all_layers.csv',
+    #             end_epoch=202,
+    #             layers=13)
+    read_out_file_domain('out/all_model_all_data_top5_oracle.txt',
+                         '',
+                         domains=5,
+                         layers=2)
     # read_attention_out_file('out/corr_top5_seed1_book_seed1_all_attentions.txt')
