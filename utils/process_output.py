@@ -26,13 +26,29 @@ def read_out_file_backup(file, csv_file, end_epoch=202, layers=13):
             layer_row = ['layer_'+str(i)] + layer_result
             writer.writerow(layer_row)
 
-def read_out_file_domain(file, csv_file, domains=5, layers=2):
+def read_out_file_domain(file, csv_file, domains, layers, model_sizes=3, data_sizes=4):
     # this func can process out file for general model domains compare with oracle/control models
     with open(file, 'r') as f:
         lines = f.readlines()
-        results = lines[4::5] # this select every 5th line from the file which contains the actual svcca score
+        results = lines[5::6] # this select every 6th line from the file which contains the actual svcca score
     processed_results = [float(res.strip().split()[1]) for res in results]
-    print(len(processed_results))
+    # print(len(processed_results))
+    results_dict = defaultdict(dict) # {'layer0': {'domain1':[1,1,1,2,2,2,3,3,3]}} data x model
+    for m in range(model_sizes):
+        for d in range(data_sizes):
+            for domain in (domains):
+                for l in layers:
+                    result = processed_results.pop(0)
+                    layer_name = 'layer'+str(l)
+                    if domain in results_dict[layer_name].keys():
+                        results_dict[layer_name][domain].append(result)
+                    else:
+                        results_dict[layer_name][domain] = [result]
+    # print((domains))
+    assert processed_results == [] # sanity check that all results have been poped out
+    # print(results_dict)clear
+    plot_svcca_heatmap(results_dict, model_sizes, data_sizes, domains, layers)
+
     # with open(csv_file, 'w') as f:
     #     writer = csv.writer(f)
     #     header_row = ['', 'epoch_0'] + ['epoch_'+str(i) for i in range(1,end_epoch,10)]
@@ -47,6 +63,46 @@ def read_out_file_domain(file, csv_file, domains=5, layers=2):
     #         # print(layer_result)
     #         layer_row = ['layer_'+str(i)] + layer_result
     #         writer.writerow(layer_row)
+
+def plot_svcca_heatmap(attention_dict, model_sizes, data_sizes, domains, layers):
+    # x_ticks = ['model'+str(i+1) for i in range(model_sizes)]
+    # y_ticks = ['data'+str(i+1) for i in range(data_sizes)]
+    y_ticks = ['10% model', '50% model', '100% model']
+    x_ticks = ['10% data', '50% data', '100% data', '200% data']
+
+    for i in layers:
+        layer_name = 'layer'+str(i)
+        fig, axs = plt.subplots(nrows=2, ncols=3, figsize=(12,8))
+        fig.delaxes(axs[1,2]) #The indexing is zero-based here
+        for m, row in enumerate(axs):
+            for n, ax in enumerate(row):
+                if m*model_sizes + n >= len(domains): continue # this will pass the 6th domain since we don't have one
+                else:
+                    domain = domains[m*model_sizes + n]
+            
+                    data = np.array(attention_dict[layer_name][domain])
+                    new_data = [data[j:j+data_sizes] for j in range(0, len(data), data_sizes)]
+                    
+                    im = ax.imshow(new_data)
+                    # Create colorbar
+                    cbar = ax.figure.colorbar(im, ax=ax, shrink=0.4)
+                    cbar.ax.set_ylabel('correlation', rotation=-90, va="bottom")
+
+                    # Show all ticks and label them with the respective list entries
+                    ax.set_xticks(np.arange(len(x_ticks)), labels=x_ticks)
+                    ax.set_yticks(np.arange(len(y_ticks)), labels=y_ticks)
+
+                    # Rotate the tick labels and set their alignment.
+                    plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
+                    # file_name = ''
+                    ax.set_title(domain)
+
+                    for (jj,ii),label in np.ndenumerate(new_data):
+                        ax.text(ii,jj,round(label,3),ha='center',va='center',color='r')
+        fig.suptitle('SVCCA correlation between gereral and oracle model for layer ' + str(i))
+        fig.tight_layout()
+        plt.subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=None, hspace=None)
+        plt.show()  
 
 def read_out_file_new_domain(file, csv_file, end_epoch=202, layers=13):
     # this func can process out file for FT on new domain using existing general model or train from scratch mixing new domain with existing domain
@@ -129,6 +185,6 @@ if __name__ == '__main__':
     #             layers=13)
     read_out_file_domain('out/all_model_all_data_top5_oracle.txt',
                          '',
-                         domains=5,
-                         layers=2)
+                         domains=['Books','Clothing_Shoes_and_Jewelry','Electronics','Home_and_Kitchen','Movies_and_TV'],
+                         layers=[0,12])
     # read_attention_out_file('out/corr_top5_seed1_book_seed1_all_attentions.txt')
