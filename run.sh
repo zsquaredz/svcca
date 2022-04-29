@@ -10,7 +10,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-for m in {10,50,100}
+for m in {50,50,100}
 do
   for d in {10,50,100,200}
   do
@@ -18,7 +18,7 @@ do
     EXP_NAME2=oracle
 
     if (( $m == 10 )) ; then
-      SVD_DIM=70
+      SVD_DIM=68
       epoch1=501
     elif (( $m == 50 )) ; then
       SVD_DIM=375
@@ -32,7 +32,7 @@ do
         epoch1=501
       fi
     else
-      SVD_DIM=750
+      SVD_DIM=700
       if (( $d == 10 )) ; then
         epoch1=251
       elif (( $d == 50 )) ; then
