@@ -31,6 +31,9 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep):
     U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
     U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
 
+    s1_sq = [i*i for i in s1]
+    s2_sq = [i*i for i in s2]
+
     # print("Fraction of variance explained by 20 singular vectors", np.sum(s1[:20])/np.sum(s1))
     # print("Fraction of variance explained by 50 singular vectors", np.sum(s1[:50])/np.sum(s1))
     # print("Fraction of variance explained by 100 singular vectors", np.sum(s1[:100])/np.sum(s1))
@@ -39,8 +42,8 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep):
     # print("Fraction of variance explained by 600 singular vectors", np.sum(s1[:600])/np.sum(s1))
     # print("Fraction of variance explained by 700 singular vectors", np.sum(s1[:700])/np.sum(s1))
     # print("Fraction of variance explained by 730 singular vectors", np.sum(s1[:730])/np.sum(s1))
-    print("Fraction of variance explained by", dim1_to_keep ,"singular vectors for input1", np.sum(s1[:dim1_to_keep])/np.sum(s1))
-    print("Fraction of variance explained by", dim2_to_keep ,"singular vectors for input2", np.sum(s2[:dim2_to_keep])/np.sum(s2))
+    print("Fraction of variance explained by", dim1_to_keep ,"singular vectors for input1", np.sum(s1_sq[:dim1_to_keep])/np.sum(s1_sq))
+    print("Fraction of variance explained by", dim2_to_keep ,"singular vectors for input2", np.sum(s2_sq[:dim2_to_keep])/np.sum(s2_sq))
     # print("Fraction of variance explained by 760 singular vectors", np.sum(s1[:760])/np.sum(s1))
     
     svacts1 = np.dot(s1[:dim1_to_keep]*np.eye(dim1_to_keep), V1[:dim1_to_keep])
