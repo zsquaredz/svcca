@@ -10,7 +10,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-for m in {50,50,100}
+for m in {10,50,100}
 do
   for d in {10,50,100,200}
   do
@@ -21,7 +21,7 @@ do
       SVD_DIM=68
       epoch1=501
     elif (( $m == 50 )) ; then
-      SVD_DIM=375
+      SVD_DIM=365
       if (( $d == 10 )) ; then
         epoch1=501
       elif (( $d == 50 )) ; then
@@ -61,7 +61,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 $SVD_DIM
+        --svd_dim2 700
     done
       
     MODEL_CAT1=top5
@@ -81,7 +81,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 $SVD_DIM
+        --svd_dim2 700
     done
 
     MODEL_CAT1=top5
@@ -101,7 +101,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 $SVD_DIM
+        --svd_dim2 700
     done
 
     MODEL_CAT1=top5
@@ -121,7 +121,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 $SVD_DIM
+        --svd_dim2 700
     done
 
     MODEL_CAT1=top5
@@ -141,7 +141,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 $SVD_DIM
+        --svd_dim2 700
     done
   done
 done

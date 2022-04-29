@@ -19,10 +19,10 @@ do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=oracle
     if (( $m == 10 )) ; then
-      SVD_DIM=70
+      SVD_DIM=68
       epoch1=501
     elif (( $m == 50 )) ; then
-      SVD_DIM=375
+      SVD_DIM=365
       if (( $d == 10 )) ; then
         epoch1=501
       elif (( $d == 50 )) ; then
@@ -33,7 +33,7 @@ do
         epoch1=101
       fi
     else
-      SVD_DIM=750
+      SVD_DIM=700
       if (( $d == 10 )) ; then
         epoch1=71
       elif (( $d == 50 )) ; then
@@ -62,7 +62,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
-        --svd_dim2 750
+        --svd_dim2 700
     done
   done
 done
