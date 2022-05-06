@@ -1,4 +1,5 @@
 #!/bin/bash
+# this is just a backup script
 
 source /disk/ocean/zheng/.bashrc
 conda activate cdt
