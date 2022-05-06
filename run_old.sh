@@ -10,13 +10,13 @@ EXP_NAME1=100_model_200_data
 EXP_NAME2=oracle
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Electronics
+DATA_CATEGORY1=Home_and_Kitchen
 seed1=1
 
-MODEL_CAT2=Electronics
-DATA_CATEGORY2=Electronics
+MODEL_CAT2=Home_and_Kitchen
+DATA_CATEGORY2=Home_and_Kitchen
 seed2=1
-epoch2=171
+epoch2=201
 
 SVD_DIM=700
 
