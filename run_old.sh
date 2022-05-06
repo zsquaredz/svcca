@@ -10,13 +10,13 @@ EXP_NAME1=100_model_200_data
 EXP_NAME2=oracle
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Clothing_Shoes_and_Jewelry
+DATA_CATEGORY1=Electronics
 seed1=1
 
-MODEL_CAT2=Clothing_Shoes_and_Jewelry
-DATA_CATEGORY2=Clothing_Shoes_and_Jewelry
+MODEL_CAT2=Electronics
+DATA_CATEGORY2=Electronics
 seed2=1
-epoch2=131
+epoch2=171
 
 SVD_DIM=700
 
