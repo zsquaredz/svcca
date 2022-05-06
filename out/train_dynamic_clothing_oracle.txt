@@ -1,0 +1,180 @@
+currently doing 100_model_200_data epoch 0, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9946684
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8521770175595648
+currently doing 100_model_200_data epoch 1, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9944754
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8559155869631611
+currently doing 100_model_200_data epoch 11, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99507135
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8625801075283027
+currently doing 100_model_200_data epoch 21, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9953012
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8554531672782038
+currently doing 100_model_200_data epoch 31, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99542975
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.844887803621142
+currently doing 100_model_200_data epoch 41, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99551773
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8347173137328181
+currently doing 100_model_200_data epoch 51, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9955777
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8243716016443176
+currently doing 100_model_200_data epoch 61, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9956247
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.815363275749477
+currently doing 100_model_200_data epoch 71, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99565744
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.8071340484408186
+currently doing 100_model_200_data epoch 81, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99567163
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.7996125825639752
+currently doing 100_model_200_data epoch 91, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99567217
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.7928330179365305
+currently doing 100_model_200_data epoch 101, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9956569
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.7871120372280693
+currently doing 100_model_200_data epoch 111, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9956477
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.781570185025691
+currently doing 100_model_200_data epoch 121, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99562603
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.7769356449894452
+currently doing 100_model_200_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99560493
+Fraction of variance explained by 700 singular vectors for input2 0.99574834
+SVD done
+result 0.7725814049889618
+currently doing 100_model_200_data epoch 0, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.998327
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.2649352089395857
+currently doing 100_model_200_data epoch 1, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99876666
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.28744192540903374
+currently doing 100_model_200_data epoch 11, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99684954
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.36479431188267664
+currently doing 100_model_200_data epoch 21, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99549365
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3875734155819029
+currently doing 100_model_200_data epoch 31, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.994662
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.39461830776003043
+currently doing 100_model_200_data epoch 41, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9939273
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3971800988904673
+currently doing 100_model_200_data epoch 51, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9933198
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.39759885870541156
+currently doing 100_model_200_data epoch 61, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99284774
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.39634545210190864
+currently doing 100_model_200_data epoch 71, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99219245
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3957211741345565
+currently doing 100_model_200_data epoch 81, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.991856
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.39429863100005275
+currently doing 100_model_200_data epoch 91, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9914138
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3928969708266973
+currently doing 100_model_200_data epoch 101, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99092704
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3906643607957258
+currently doing 100_model_200_data epoch 111, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99049306
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.38942189272888006
+currently doing 100_model_200_data epoch 121, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9901072
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.38818591180609996
+currently doing 100_model_200_data epoch 131, oracle epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98971856
+Fraction of variance explained by 700 singular vectors for input2 0.9894852
+SVD done
+result 0.3869685125767669

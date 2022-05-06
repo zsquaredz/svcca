@@ -1,0 +1,180 @@
+currently doing 100_model_200_data epoch 0, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99087375
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7893025267036375
+currently doing 100_model_200_data epoch 1, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9905392
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7955176791703866
+currently doing 100_model_200_data epoch 11, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9916127
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.8172761184990902
+currently doing 100_model_200_data epoch 21, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9920928
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.8203218611778715
+currently doing 100_model_200_data epoch 31, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9923428
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.8166522672808685
+currently doing 100_model_200_data epoch 41, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99251324
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.8104775293489477
+currently doing 100_model_200_data epoch 51, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9926225
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.8032979311070221
+currently doing 100_model_200_data epoch 61, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99270415
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7960174413474093
+currently doing 100_model_200_data epoch 71, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9927666
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7890938865161414
+currently doing 100_model_200_data epoch 81, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9927846
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7825130405415404
+currently doing 100_model_200_data epoch 91, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9927757
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7764821415214777
+currently doing 100_model_200_data epoch 101, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99274546
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7705822302576738
+currently doing 100_model_200_data epoch 111, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99271536
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7654002537807586
+currently doing 100_model_200_data epoch 121, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9926803
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7606728509459828
+currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9926452
+Fraction of variance explained by 700 singular vectors for input2 0.9931011
+SVD done
+result 0.7566476199665711
+currently doing 100_model_200_data epoch 0, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9980738
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.21764437070669435
+currently doing 100_model_200_data epoch 1, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9985211
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.24238622274261393
+currently doing 100_model_200_data epoch 11, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9965101
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.35017855427019945
+currently doing 100_model_200_data epoch 21, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.994952
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.3902829776963589
+currently doing 100_model_200_data epoch 31, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9940186
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.40589922953126023
+currently doing 100_model_200_data epoch 41, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99316
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4138694014940367
+currently doing 100_model_200_data epoch 51, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9925339
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4179234682277079
+currently doing 100_model_200_data epoch 61, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99192923
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.41818276729307124
+currently doing 100_model_200_data epoch 71, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9912594
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4192821104413207
+currently doing 100_model_200_data epoch 81, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99075717
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4184393255132331
+currently doing 100_model_200_data epoch 91, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9903024
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4177798288522176
+currently doing 100_model_200_data epoch 101, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98977965
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.41609956041276025
+currently doing 100_model_200_data epoch 111, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98934644
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.41515681442872715
+currently doing 100_model_200_data epoch 121, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9889249
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4141878466160535
+currently doing 100_model_200_data epoch 131, oracle epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98850065
+Fraction of variance explained by 700 singular vectors for input2 0.98925096
+SVD done
+result 0.4126947998700361
