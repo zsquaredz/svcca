@@ -10,11 +10,11 @@ EXP_NAME1=100_model_200_data
 EXP_NAME2=oracle
 
 MODEL_CAT1=top5
-DATA_CATEGORY1=Home_and_Kitchen
+DATA_CATEGORY1=Movies_and_TV
 seed1=1
 
-MODEL_CAT2=Home_and_Kitchen
-DATA_CATEGORY2=Home_and_Kitchen
+MODEL_CAT2=Movies_and_TV
+DATA_CATEGORY2=Movies_and_TV
 seed2=1
 epoch2=201
 
