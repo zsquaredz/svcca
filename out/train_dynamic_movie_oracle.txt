@@ -101,3 +101,9 @@ Fraction of variance explained by 700 singular vectors for input2 0.98738986
 SVD done
 result 0.21834444076138146
 currently doing 100_model_200_data epoch 11, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.996473
+Fraction of variance explained by 700 singular vectors for input2 0.98738986
+SVD done
+result 0.3226085881588229
+currently doing 100_model_200_data epoch 21, oracle epoch 201, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
