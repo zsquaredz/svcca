@@ -6,7 +6,7 @@ conda activate cdt
 cd /disk/ocean/zheng/svcca/
 
 
-EXP_NAME1=100_data
+EXP_NAME1=100_model_200_data
 EXP_NAME2=oracle
 
 MODEL_CAT1=top5
