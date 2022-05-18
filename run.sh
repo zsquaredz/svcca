@@ -1,4 +1,5 @@
 #!/bin/bash
+# this script will do the svcca between control/oracle and general model
 
 source /disk/ocean/zheng/.bashrc
 conda activate cdt
@@ -10,15 +11,19 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-for m in {10,50,100}
+for m in {10,25,50,75,100}
 do
   for d in {10,50,100,200}
   do
     EXP_NAME1=${m}_model_${d}_data
-    EXP_NAME2=control_${m}_model_${d}_data
+    # EXP_NAME2=control_${m}_model_${d}_data
+    EXP_NAME2=oracle
 
     if (( $m == 10 )) ; then
       SVD_DIM=68
+      epoch1=501
+    elif (( $m == 25 )) ; then
+      SVD_DIM=180
       epoch1=501
     elif (( $m == 50 )) ; then
       SVD_DIM=365
@@ -30,6 +35,17 @@ do
         epoch1=501
       else
         epoch1=501
+      fi
+    elif (( $m == 75 )) ; then
+      SVD_DIM=535
+      if (( $d == 10 )) ; then
+        epoch1=501
+      elif (( $d == 50 )) ; then
+        epoch1=201
+      elif (( $d == 100 )) ; then
+        epoch1=201
+      else
+        epoch1=201
       fi
     else
       SVD_DIM=700
@@ -51,7 +67,7 @@ do
     MODEL_CAT2=Books
     DATA_CATEGORY2=Books
     seed2=1
-    epoch2=999
+    epoch2=201
 
     for layer in {0,12}
     do
@@ -71,7 +87,7 @@ do
     MODEL_CAT2=Clothing_Shoes_and_Jewelry
     DATA_CATEGORY2=Clothing_Shoes_and_Jewelry
     seed2=1
-    epoch2=999
+    epoch2=131
 
     for layer in {0,12}
     do
@@ -91,7 +107,7 @@ do
     MODEL_CAT2=Electronics
     DATA_CATEGORY2=Electronics
     seed2=1
-    epoch2=999
+    epoch2=171
 
     for layer in {0,12}
     do
@@ -111,7 +127,7 @@ do
     MODEL_CAT2=Home_and_Kitchen
     DATA_CATEGORY2=Home_and_Kitchen
     seed2=1
-    epoch2=999
+    epoch2=171
 
     for layer in {0,12}
     do
@@ -131,7 +147,7 @@ do
     MODEL_CAT2=Movies_and_TV
     DATA_CATEGORY2=Movies_and_TV
     seed2=1
-    epoch2=999
+    epoch2=201
 
     for layer in {0,12}
     do
