@@ -223,7 +223,7 @@ do
       if (( $d == 10 )) ; then
         epoch2=181
       elif (( $d == 50 )) ; then
-        epoch2=351
+        epoch2=251
       elif (( $d == 100 )) ; then
         epoch2=251
       else
