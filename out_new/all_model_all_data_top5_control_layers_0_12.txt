@@ -814,8 +814,18 @@ Fraction of variance explained by 535 singular vectors for input1 0.9930194
 Fraction of variance explained by 535 singular vectors for input2 0.99572474
 SVD done
 result 0.3594793210071061
-currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 351, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
-currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 351, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99436486
+Fraction of variance explained by 535 singular vectors for input2 0.9937683
+SVD done
+result 0.8313466892491703
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9931646
+Fraction of variance explained by 535 singular vectors for input2 0.9960137
+SVD done
+result 0.3744867471741164
 currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
 starting to perform SVD
 Fraction of variance explained by 535 singular vectors for input1 0.9925014
