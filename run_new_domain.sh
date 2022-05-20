@@ -1,4 +1,5 @@
 #!/bin/bash
+# this script will do the comparsion between FT or train frmo scratch for new domain
 
 source /disk/ocean/zheng/.bashrc
 conda activate cdt
