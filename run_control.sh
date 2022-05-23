@@ -11,13 +11,12 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-for m in {10,25,50,75,100}
+for m in {100,}
 do
   for d in {10,50,100,200}
   do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
-    # EXP_NAME2=oracle
 
     if (( $m == 10 )) ; then
       SVD_DIM=68
