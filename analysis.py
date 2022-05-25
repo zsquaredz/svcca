@@ -37,7 +37,7 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     cacts2 = acts2 - np.mean(acts2, axis=1, keepdims=True)
 
     if use_mask:
-        print('mask has been applied, starting to perform SVD')
+        print(mask_file.split('.')[-1], 'mask has been applied, starting to perform SVD')
     else:
         print('starting to perform SVD')
     # Perform SVD
