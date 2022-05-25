@@ -11,7 +11,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-mask_type=general # can be either general or specific for the mask file
+mask_type=specific # can be either general or specific for the mask file
 
 for m in {100,}
 do
