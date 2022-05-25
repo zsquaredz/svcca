@@ -36,7 +36,10 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     cacts1 = acts1 - np.mean(acts1, axis=1, keepdims=True)
     cacts2 = acts2 - np.mean(acts2, axis=1, keepdims=True)
 
-    print('starting to perform SVD')
+    if use_mask:
+        print('mask has been applied, starting to perform SVD')
+    else:
+        print('starting to perform SVD')
     # Perform SVD
     U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
     U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
@@ -136,4 +139,4 @@ if __name__ == '__main__':
         Corr(args.data_dir1, args.data_dir2)
     
 
-    /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/$DATA_CATEGORY/${DATA_CATEGORY}_general.txt
+    
