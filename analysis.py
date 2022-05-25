@@ -11,9 +11,19 @@ import gzip
 import argparse
 import cca_core
 
-def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep):
+def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     acts1 = np.load(file1)
     acts2 = np.load(file2)
+    if use_mask:
+        with open(mask_file) as f:
+            word_mask_list = []
+            for line in f.readlines():
+                general_word_mask_list += [int(x) for x in line.strip().split()]
+            word_mask = np.array(word_mask_list, dtype=bool)
+            assert len(word_mask) == acts1.shape[0] # sanity check
+            assert len(word_mask) == acts2.shape[0] # sanity check
+            acts1 = acts1[word_mask]
+            acts2 = acts2[word_mask]
     acts1 = np.float32(acts1)
     acts2 = np.float32(acts2)
     # print('file loaded')
@@ -114,12 +124,16 @@ if __name__ == '__main__':
     parser.add_argument("--data_dir2", type=str, default='./data/', help="Directory of data")
     parser.add_argument("--do_svcca", action='store_true', help="Whether to do SVCCA")
     parser.add_argument("--do_corr", action='store_true', help="Whether to do correlation")
+    parser.add_argument("--use_mask", action='store_true', help="Whether to use the provided mask to apply to the data")
+    parser.add_argument("--mask_dir", type=str, default='./data/', help="Directory of mask")
     parser.add_argument("--svd_dim1", type=int, default=750, help="Dimensions to keep after SVD")
     parser.add_argument("--svd_dim2", type=int, default=750, help="Dimensions to keep after SVD")
     args = parser.parse_args()
     
     if args.do_svcca:
-        SVCCA(args.data_dir1, args.data_dir2, args.svd_dim1, args.svd_dim2)
+        SVCCA(args.data_dir1, args.data_dir2, args.svd_dim1, args.svd_dim2, args.mask_dir, args.use_mask)
     elif args.do_corr:
         Corr(args.data_dir1, args.data_dir2)
     
+
+    /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/$DATA_CATEGORY/${DATA_CATEGORY}_general.txt
