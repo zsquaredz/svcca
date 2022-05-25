@@ -78,7 +78,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --use_mask \
-        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/${DATA_CATEGORY1}_${mask_type}.txt
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}
         --svd_dim1 $SVD_DIM \
         --svd_dim2 700 
     done
@@ -100,7 +100,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --use_mask \
-        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/${DATA_CATEGORY1}_${mask_type}.txt
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}
         --svd_dim1 $SVD_DIM \
         --svd_dim2 700
     done
@@ -122,7 +122,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --use_mask \
-        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/${DATA_CATEGORY1}_${mask_type}.txt
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}
         --svd_dim1 $SVD_DIM \
         --svd_dim2 700
     done
@@ -144,7 +144,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --use_mask \
-        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/${DATA_CATEGORY1}_${mask_type}.txt
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}
         --svd_dim1 $SVD_DIM \
         --svd_dim2 700
     done
@@ -166,7 +166,7 @@ do
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --use_mask \
-        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/${DATA_CATEGORY1}_${mask_type}.txt
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}
         --svd_dim1 $SVD_DIM \
         --svd_dim2 700
     done
