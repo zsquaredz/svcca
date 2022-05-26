@@ -11,7 +11,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-for m in {100,}
+for m in {10,25,50,75,100}
 do
   for d in {10,50,100,200}
   do
