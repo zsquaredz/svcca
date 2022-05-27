@@ -25,57 +25,77 @@ do
     if (( $m == 10 )) ; then
       SVD_DIM=68
       if (( $d == 10 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 50 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 100 )) ; then 
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       else
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       fi
     elif (( $m == 25 )) ; then
       SVD_DIM=180
       if (( $d == 10 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 50 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 100 )) ; then 
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       else
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       fi
     elif (( $m == 50 )) ; then
       SVD_DIM=365
       if (( $d == 10 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 50 )) ; then
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       elif (( $d == 100 )) ; then 
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       else
-        epoch_end=501
+        epoch1_end=501
+        epoch2_best=501
       fi
     elif (( $m == 75 )) ; then
       SVD_DIM=535
       if (( $d == 10 )) ; then
-        epoch_end=181
+        epoch1_end=501
+        epoch2_best=181
       elif (( $d == 50 )) ; then
-        epoch_end=361
+        epoch1_end=201
+        epoch2_best=361
       elif (( $d == 100 )) ; then 
-        epoch_end=251
+        epoch1_end=201
+        epoch2_best=251
       else
-        epoch_end=211
+        epoch1_end=201
+        epoch2_best=211
       fi
     else
       SVD_DIM=700
       if (( $d == 10 )) ; then
-        epoch_end=101
+        epoch1_end=251
+        epoch2_best=101
       elif (( $d == 50 )) ; then
-        epoch_end=231
+        epoch1_end=151
+        epoch2_best=231
       elif (( $d == 100 )) ; then 
-        epoch_end=181
+        epoch1_end=131
+        epoch2_best=181
       else
-        epoch_end=151
+        epoch1_end=131
+        epoch2_best=151
       fi
     fi
 
@@ -83,7 +103,7 @@ do
     for layer in {0,12}
     do
       epoch1=0
-      epoch2=${epoch_end}
+      epoch2=${epoch2_best}
       echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
       python analysis.py \
         --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
@@ -92,10 +112,10 @@ do
         --svd_dim1 $SVD_DIM \
         --svd_dim2 $SVD_DIM
 
-      for ((epoch=1;epoch<=${epoch_end};epoch+=10))
+      for ((epoch=1;epoch<=${epoch1_end};epoch+=10))
       do
         epoch1=${epoch}
-        epoch2=${epoch_end}
+        epoch2=${epoch2_best}
         echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
         python analysis.py \
           --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
