@@ -7,6 +7,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=100 # 10, 25, 50, 75, 100
 # SVD_DIM=700 # 68, 180, 365, 535, 700
+mask_type=general # can be either general or specific for the mask file
 for m in {10,25,50,75,100}
 do
   for d in {10,50,100,200}
@@ -89,6 +90,8 @@ do
         --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
         --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
+        --use_mask \
+        --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type} \
         --svd_dim1 $SVD_DIM \
         --svd_dim2 $SVD_DIM
 
@@ -101,6 +104,8 @@ do
           --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
           --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
           --do_svcca \
+          --use_mask \
+          --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type} \
           --svd_dim1 $SVD_DIM \
           --svd_dim2 $SVD_DIM
       done
