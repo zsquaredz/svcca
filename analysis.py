@@ -97,7 +97,7 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     # svacts1, svacts2 = acts1, acts2
 
     # print('starting to perform CCA')
-    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-8, verbose=False)
     print("result", np.mean(svcca_results["cca_coef1"]))
 
     # svacts1 = np.dot(s1[:200]*np.eye(200), V1[:200])
