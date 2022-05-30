@@ -12,18 +12,18 @@ import argparse
 import cca_core
 
 def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
-    acts1 = np.load(file1)
+    acts1 = np.load(file1) # data points x number of hidden dimension 
     acts2 = np.load(file2)
-    if use_mask:
-        with open(mask_file) as f:
-            word_mask_list = []
-            for line in f.readlines():
-                word_mask_list += [int(x) for x in line.strip().split()]
-            word_mask = np.array(word_mask_list, dtype=bool)
-            assert len(word_mask) == acts1.shape[0] # sanity check
-            assert len(word_mask) == acts2.shape[0] # sanity check
-            acts1 = acts1[word_mask]
-            acts2 = acts2[word_mask]
+    # if use_mask:
+    #     with open(mask_file) as f:
+    #         word_mask_list = []
+    #         for line in f.readlines():
+    #             word_mask_list += [int(x) for x in line.strip().split()]
+    #         word_mask = np.array(word_mask_list, dtype=bool)
+    #         assert len(word_mask) == acts1.shape[0] # sanity check
+    #         assert len(word_mask) == acts2.shape[0] # sanity check
+    #         acts1 = acts1[word_mask]
+    #         acts2 = acts2[word_mask]
     acts1 = np.float32(acts1)
     acts2 = np.float32(acts2)
     # print('file loaded')
@@ -36,12 +36,10 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     cacts1 = acts1 - np.mean(acts1, axis=1, keepdims=True)
     cacts2 = acts2 - np.mean(acts2, axis=1, keepdims=True)
 
-    if use_mask:
-        print(mask_file.split('.')[-1], 'mask has been applied, starting to perform SVD')
-    else:
-        print('starting to perform SVD')
+    
+    print('starting to perform SVD')
     # Perform SVD
-    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False) # s1: min(row, col) V1 min(row, col) x data points size 
     U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
 
     s1_sq = [i*i for i in s1]
@@ -75,11 +73,26 @@ def SVCCA(file1, file2, dim1_to_keep, dim2_to_keep, mask_file, use_mask=False):
     # print("Fraction of variance explained by", 730 ,"singular vectors for input2", np.sum(s2_sq[:730])/np.sum(s2_sq))
     # print("Fraction of variance explained by", 740 ,"singular vectors for input2", np.sum(s2_sq[:740])/np.sum(s2_sq))
     
-    svacts1 = np.dot(s1[:dim1_to_keep]*np.eye(dim1_to_keep), V1[:dim1_to_keep])
+    svacts1 = np.dot(s1[:dim1_to_keep]*np.eye(dim1_to_keep), V1[:dim1_to_keep]) # s1[:20]*np.eye(20) 20 x 20      V1[:20]   20 x number of data points  --> 20 x number of genreal tokens
     # can also compute as svacts1 = np.dot(U1.T[:20], cacts1)
+    # this will become dim1_to_keep x number of data points 
     svacts2 = np.dot(s2[:dim2_to_keep]*np.eye(dim2_to_keep), V2[:dim2_to_keep])
     # can also compute as svacts1 = np.dot(U2.T[:20], cacts2)
-    print('SVD done')
+
+    if use_mask:
+        with open(mask_file) as f:
+            word_mask_list = []
+            for line in f.readlines():
+                word_mask_list += [int(x) for x in line.strip().split()]
+            word_mask = np.array(word_mask_list, dtype=bool)
+            assert len(word_mask) == svacts1.shape[1] # sanity check
+            assert len(word_mask) == svacts2.shape[1] # sanity check
+            svacts1 = svacts1[:,word_mask]
+            svacts2 = svacts2[:,word_mask]
+    if use_mask:
+        print(mask_file.split('.')[-1], 'mask has been applied, SVD done')
+    else:
+        print('SVD done')
 
     # svacts1, svacts2 = acts1, acts2
 
