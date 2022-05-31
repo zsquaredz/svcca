@@ -9,8 +9,8 @@ cd /disk/ocean/zheng/svcca/
 
 # for cate in 'Books' 'Clothing_Shoes_and_Jewelry' 'Electronics' 'Home_and_Kitchen' 'Movies_and_TV' 'Sports_and_Outdoors'
 
-m=10  # {10,25,50,75,100}
-d=10  # {10,50,100,200}
+m=100  # {10,25,50,75,100}
+d=100  # {10,50,100,200}
 topN=50
 mask_type=specific # can be either general/specific freq/infreq for the mask file
 # for m in {10,25,50,75,100}
