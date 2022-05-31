@@ -1,0 +1,564 @@
+currently doing epoch 0, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5630958166730932
+currently doing epoch 1, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5608242155701005
+currently doing epoch 11, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5436491099203457
+currently doing epoch 21, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5426956368473236
+currently doing epoch 31, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5421375702133642
+currently doing epoch 41, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5421244353243716
+currently doing epoch 51, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5425916088851367
+currently doing epoch 61, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5432032076589842
+currently doing epoch 71, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5441199494003187
+currently doing epoch 81, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5451382731266206
+currently doing epoch 91, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5463410565786128
+currently doing epoch 101, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5476366259423155
+currently doing epoch 111, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5488934011943359
+currently doing epoch 121, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5502256833575924
+currently doing epoch 131, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5516475209985865
+currently doing epoch 141, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5530341230835623
+currently doing epoch 151, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5543605816222128
+currently doing epoch 161, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5557485163373018
+currently doing epoch 171, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5571697334480945
+currently doing epoch 181, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5583417659716484
+currently doing epoch 191, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.559536727764882
+currently doing epoch 201, seed-1-Model-Books-layer-0, and seed-2-Model-Books-layer-0
+result 0.5607927110052638
+currently doing epoch 0, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5522217285515332
+currently doing epoch 1, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5470041148228459
+currently doing epoch 11, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5284003343037803
+currently doing epoch 21, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5241284197797005
+currently doing epoch 31, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5222341933073688
+currently doing epoch 41, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5220132971074568
+currently doing epoch 51, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.522539591966855
+currently doing epoch 61, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5233471365761208
+currently doing epoch 71, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5240971234410648
+currently doing epoch 81, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5246293829758786
+currently doing epoch 91, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5251343643323887
+currently doing epoch 101, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5258092279751233
+currently doing epoch 111, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5261963353019309
+currently doing epoch 121, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5264773780923483
+currently doing epoch 131, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5270254602631567
+currently doing epoch 141, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5273780962460818
+currently doing epoch 151, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5277262770389038
+currently doing epoch 161, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5278723547616901
+currently doing epoch 171, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5284041943764791
+currently doing epoch 181, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5283268932925559
+currently doing epoch 191, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5284609178041295
+currently doing epoch 201, seed-1-Model-Books-layer-1, and seed-2-Model-Books-layer-1
+result 0.5288359327842834
+currently doing epoch 0, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5403714450234632
+currently doing epoch 1, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5277986618656073
+currently doing epoch 11, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5075311813464816
+currently doing epoch 21, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5007932434713915
+currently doing epoch 31, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.49932208568770836
+currently doing epoch 41, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.4995746992182082
+currently doing epoch 51, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5005984641932051
+currently doing epoch 61, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5013993857661392
+currently doing epoch 71, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5017990464265015
+currently doing epoch 81, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5017362211209604
+currently doing epoch 91, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5013948340070158
+currently doing epoch 101, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5016788265835382
+currently doing epoch 111, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5012058076134929
+currently doing epoch 121, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.5006478267752968
+currently doing epoch 131, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.50029501233085
+currently doing epoch 141, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.49992271887631246
+currently doing epoch 151, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.4994722592484118
+currently doing epoch 161, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.4988425954003124
+currently doing epoch 171, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.4985044026291386
+currently doing epoch 181, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.49790556087140336
+currently doing epoch 191, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.4973409044623828
+currently doing epoch 201, seed-1-Model-Books-layer-2, and seed-2-Model-Books-layer-2
+result 0.49705551444461915
+currently doing epoch 0, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.5278829276180554
+currently doing epoch 1, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.5073823775875673
+currently doing epoch 11, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.48466915500546914
+currently doing epoch 21, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4739904160340808
+currently doing epoch 31, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4731808098060617
+currently doing epoch 41, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47435092747389085
+currently doing epoch 51, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47594417858014043
+currently doing epoch 61, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4771653290434992
+currently doing epoch 71, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4775875375789116
+currently doing epoch 81, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47775693608972364
+currently doing epoch 91, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4772798878460256
+currently doing epoch 101, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47754295060576063
+currently doing epoch 111, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47683512300000025
+currently doing epoch 121, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4761280123899163
+currently doing epoch 131, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4757648785777584
+currently doing epoch 141, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4751834273103115
+currently doing epoch 151, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47449400249401114
+currently doing epoch 161, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4734452785315719
+currently doing epoch 171, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4729624149556822
+currently doing epoch 181, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47218446735693026
+currently doing epoch 191, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.47158748432402425
+currently doing epoch 201, seed-1-Model-Books-layer-3, and seed-2-Model-Books-layer-3
+result 0.4708535231528643
+currently doing epoch 0, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.5152612778424637
+currently doing epoch 1, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.48705474394466314
+currently doing epoch 11, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4622452281370915
+currently doing epoch 21, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.44747303162476254
+currently doing epoch 31, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4476100957247991
+currently doing epoch 41, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45023880372909614
+currently doing epoch 51, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45273388907515405
+currently doing epoch 61, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4547449894515821
+currently doing epoch 71, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4557595426263732
+currently doing epoch 81, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4568967532294626
+currently doing epoch 91, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4568984304602742
+currently doing epoch 101, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45748557959684827
+currently doing epoch 111, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4570954577296065
+currently doing epoch 121, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45675532145829
+currently doing epoch 131, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45637094259397415
+currently doing epoch 141, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45602746189096366
+currently doing epoch 151, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45530905882109424
+currently doing epoch 161, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4543459763997087
+currently doing epoch 171, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4538632624250565
+currently doing epoch 181, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4531199967247588
+currently doing epoch 191, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.45242993879870325
+currently doing epoch 201, seed-1-Model-Books-layer-4, and seed-2-Model-Books-layer-4
+result 0.4513489705633031
+currently doing epoch 0, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.5026741855961908
+currently doing epoch 1, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4680707483232142
+currently doing epoch 11, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.44111354796499613
+currently doing epoch 21, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4232985909106553
+currently doing epoch 31, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.42529765814336656
+currently doing epoch 41, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4296529431735366
+currently doing epoch 51, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4332173551285103
+currently doing epoch 61, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4360423343026165
+currently doing epoch 71, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4379335171084724
+currently doing epoch 81, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4400474525907023
+currently doing epoch 91, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4406845877417555
+currently doing epoch 101, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.44193083554613394
+currently doing epoch 111, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.441885736291473
+currently doing epoch 121, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.44209983904518696
+currently doing epoch 131, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.44186937810658855
+currently doing epoch 141, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4415983683575078
+currently doing epoch 151, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.44107748891779125
+currently doing epoch 161, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4401700848269608
+currently doing epoch 171, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.43990836914842446
+currently doing epoch 181, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.43904128491518457
+currently doing epoch 191, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4384153708454072
+currently doing epoch 201, seed-1-Model-Books-layer-5, and seed-2-Model-Books-layer-5
+result 0.4371561779464308
+currently doing epoch 0, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4902819493084151
+currently doing epoch 1, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4506098406941674
+currently doing epoch 11, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.42235778784811634
+currently doing epoch 21, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.40275956147506786
+currently doing epoch 31, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4064794206181757
+currently doing epoch 41, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4117278708619363
+currently doing epoch 51, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.41585902424679344
+currently doing epoch 61, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4193930414163738
+currently doing epoch 71, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.42225737583255984
+currently doing epoch 81, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4249163389177529
+currently doing epoch 91, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.426528608849202
+currently doing epoch 101, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4286147190162062
+currently doing epoch 111, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4290640606675205
+currently doing epoch 121, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.42983037892927095
+currently doing epoch 131, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4299256601107655
+currently doing epoch 141, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.43005178616718087
+currently doing epoch 151, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4299899494117694
+currently doing epoch 161, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.42969841486410854
+currently doing epoch 171, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.42963650153278704
+currently doing epoch 181, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4289261163962548
+currently doing epoch 191, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4282908709510617
+currently doing epoch 201, seed-1-Model-Books-layer-6, and seed-2-Model-Books-layer-6
+result 0.4272452698730586
+currently doing epoch 0, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4783979766995743
+currently doing epoch 1, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.43508666028857057
+currently doing epoch 11, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4053191476811853
+currently doing epoch 21, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.3792456114960714
+currently doing epoch 31, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.38663208044021097
+currently doing epoch 41, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.39378293951293664
+currently doing epoch 51, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.3991992228986683
+currently doing epoch 61, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.40421563684615863
+currently doing epoch 71, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4081806150219324
+currently doing epoch 81, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4119501444587887
+currently doing epoch 91, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.41442334297483363
+currently doing epoch 101, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4173119020170091
+currently doing epoch 111, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+currently doing epoch 121, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.41968602847658215
+currently doing epoch 131, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42042523215328326
+currently doing epoch 141, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42105542996522094
+currently doing epoch 151, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4212784693150147
+currently doing epoch 161, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42146024320821
+currently doing epoch 171, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42175497746877205
+currently doing epoch 181, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42139936793028604
+currently doing epoch 191, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.42100582865799036
+currently doing epoch 201, seed-1-Model-Books-layer-7, and seed-2-Model-Books-layer-7
+result 0.4203665675910959
+currently doing epoch 0, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.46703382104480734
+currently doing epoch 1, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4224881681826396
+currently doing epoch 11, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.3892001320697534
+currently doing epoch 21, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.37482779199599325
+currently doing epoch 31, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.3888919983937687
+currently doing epoch 41, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4000287449316641
+currently doing epoch 51, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4080874103060353
+currently doing epoch 61, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4147112991592928
+currently doing epoch 71, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.41968821348517277
+currently doing epoch 81, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.42383336157865736
+currently doing epoch 91, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.42662073790779775
+currently doing epoch 101, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4293524125093658
+currently doing epoch 111, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+currently doing epoch 121, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4311934021827984
+currently doing epoch 131, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4315601959175342
+currently doing epoch 141, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4321876597297288
+currently doing epoch 151, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.43214135862276426
+currently doing epoch 161, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4316897407024602
+currently doing epoch 171, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.43190698491255364
+currently doing epoch 181, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4310976928856263
+currently doing epoch 191, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.4307011100103184
+currently doing epoch 201, seed-1-Model-Books-layer-8, and seed-2-Model-Books-layer-8
+result 0.42991495729675416
+currently doing epoch 0, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4563124588852443
+currently doing epoch 1, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.41291342150771754
+currently doing epoch 11, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.3796827211618186
+currently doing epoch 21, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.3648212525821246
+currently doing epoch 31, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.3840638706039483
+currently doing epoch 41, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.3979266286612435
+currently doing epoch 51, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.40784435930995416
+currently doing epoch 61, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4152088762045089
+currently doing epoch 71, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4207672600509554
+currently doing epoch 81, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4245408868276394
+currently doing epoch 91, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4272177057070645
+currently doing epoch 101, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4294793762589478
+currently doing epoch 111, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+currently doing epoch 121, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4310736080457563
+currently doing epoch 131, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.43128716458918803
+currently doing epoch 141, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.43151955699208644
+currently doing epoch 151, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4313238984995625
+currently doing epoch 161, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4307189004806473
+currently doing epoch 171, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.43065116245856644
+currently doing epoch 181, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.42975245672479284
+currently doing epoch 191, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4293136131226018
+currently doing epoch 201, seed-1-Model-Books-layer-9, and seed-2-Model-Books-layer-9
+result 0.4285085040146263
+currently doing epoch 0, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4460430108784841
+currently doing epoch 1, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4063280590551705
+currently doing epoch 11, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.3759510289418069
+currently doing epoch 21, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.3586426440992418
+currently doing epoch 31, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.38062033481410645
+currently doing epoch 41, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.39477844047317395
+currently doing epoch 51, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4045941431899404
+currently doing epoch 61, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4113965099942824
+currently doing epoch 71, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4169343096722635
+currently doing epoch 81, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.42032458482581164
+currently doing epoch 91, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.42247271436680145
+currently doing epoch 101, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.424679538816426
+currently doing epoch 111, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+currently doing epoch 121, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4257219789979825
+currently doing epoch 131, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4255596554692264
+currently doing epoch 141, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4256336166933686
+currently doing epoch 151, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4253173276543449
+currently doing epoch 161, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.42454759292193317
+currently doing epoch 171, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.42436948298053534
+currently doing epoch 181, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.42324928011493107
+currently doing epoch 191, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4226250309068876
+currently doing epoch 201, seed-1-Model-Books-layer-10, and seed-2-Model-Books-layer-10
+result 0.4216436289734819
+currently doing epoch 0, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.43686519153154074
+currently doing epoch 1, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4025048048566622
+currently doing epoch 11, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.37580629010636696
+currently doing epoch 21, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.35776335560214695
+currently doing epoch 31, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.37912970959360087
+currently doing epoch 41, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.3919316155383053
+currently doing epoch 51, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4003522513934019
+currently doing epoch 61, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4064273041377639
+currently doing epoch 71, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4104128492548675
+currently doing epoch 81, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41297381439956315
+currently doing epoch 91, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41430481809217296
+currently doing epoch 101, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4161045993623423
+currently doing epoch 111, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+currently doing epoch 121, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4163187420711664
+currently doing epoch 131, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41600430729150495
+currently doing epoch 141, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41564845044829957
+currently doing epoch 151, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41505263691609495
+currently doing epoch 161, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41392319648921444
+currently doing epoch 171, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41354759219134934
+currently doing epoch 181, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+currently doing epoch 191, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.41129387583821253
+currently doing epoch 201, seed-1-Model-Books-layer-11, and seed-2-Model-Books-layer-11
+result 0.4100123428710929
+currently doing epoch 0, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4279188502109363
+currently doing epoch 1, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.39936286104718866
+currently doing epoch 11, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.3756256816253043
+currently doing epoch 21, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.35925444700053594
+currently doing epoch 31, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.379871954276884
+currently doing epoch 41, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.3907658491135096
+currently doing epoch 51, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.3974649679542603
+currently doing epoch 61, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40237547565643034
+currently doing epoch 71, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4049677237050345
+currently doing epoch 81, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40658483586026994
+currently doing epoch 91, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4068640148656992
+currently doing epoch 101, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4080523466678174
+currently doing epoch 111, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+currently doing epoch 121, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40715114035742433
+currently doing epoch 131, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4061938774413973
+currently doing epoch 141, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40537231524585393
+currently doing epoch 151, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40414886649530257
+currently doing epoch 161, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.4028810404475153
+currently doing epoch 171, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.40227607957681033
+currently doing epoch 181, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+currently doing epoch 191, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.39930417518802314
+currently doing epoch 201, seed-1-Model-Books-layer-12, and seed-2-Model-Books-layer-12
+result 0.3977584043917764

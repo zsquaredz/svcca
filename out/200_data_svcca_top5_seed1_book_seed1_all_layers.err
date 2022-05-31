@@ -1,0 +1,1294 @@
+nohup: ignoring input
+./run.sh: line 28: 26669 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+./run.sh: line 28: 25359 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 25970 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+./run.sh: line 28: 28734 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 13946 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 43, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 30, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 30, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 30, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 30, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 45, in SVCCA
+    svacts2 = np.dot(s2[:dim_to_keep]*np.eye(dim_to_keep), V2[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 52, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 98, in <module>
+    
+  File "analysis.py", line 52, in SVCCA
+    
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 100, in <module>
+    SVCCA(args.data_dir1, args.data_dir2)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 54, in SVCCA
+    svcca_results = cca_core.get_cca_similarity(svacts1, svacts2, epsilon=1e-10, verbose=False)
+  File "/disk/ocean/zheng/svcca/cca_core.py", line 276, in get_cca_similarity
+    covariance = np.cov(acts1, acts2)
+  File "<__array_function__ internals>", line 5, in cov
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/function_base.py", line 2428, in cov
+    X = np.concatenate((X, y), axis=0)
+  File "<__array_function__ internals>", line 5, in concatenate
+numpy.core._exceptions.MemoryError: Unable to allocate 30.6 GiB for an array with shape (1500, 2735468) and data type float64
+./run.sh: line 28:  4280 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28:  4265 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28:  2471 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 31754 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 26608 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 25798 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 20444 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 17271 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 16779 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28:  6228 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 27000 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 17705 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 17601 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28:  4919 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 12596 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 28: 20422 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+./run.sh: line 19: 30043 Killed                  python analysis.py --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME}/${MODEL_CAT1}/epoch${epoch}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME}/${MODEL_CAT2}/epoch${epoch}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy --do_svcca
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 45, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 45, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 45, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 45, in SVCCA
+    svacts1 = np.dot(s1[:dim_to_keep]*np.eye(dim_to_keep), V1[:dim_to_keep])
+  File "<__array_function__ internals>", line 5, in dot
+numpy.core._exceptions.MemoryError: Unable to allocate 15.3 GiB for an array with shape (750, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 32, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 32, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 32, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+init_dgesdd failed init
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 32, in SVCCA
+    U2, s2, V2 = np.linalg.svd(cacts2, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 31, in SVCCA
+    U1, s1, V1 = np.linalg.svd(cacts1, full_matrices=False)
+  File "<__array_function__ internals>", line 5, in svd
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 1660, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions.MemoryError: Unable to allocate 15.7 GiB for an array with shape (768, 2735468) and data type float64
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch91/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch101/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch111/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch121/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch131/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch141/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch151/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch161/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch171/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch181/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch191/Books_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/200_data/top5/epoch201/Books_layer_12_hidden_state.npy'

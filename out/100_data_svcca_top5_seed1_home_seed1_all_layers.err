@@ -1,0 +1,1017 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_0_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch141/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_1_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch141/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_2_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch71/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch141/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_3_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch71/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_4_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch71/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch141/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_5_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch71/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_6_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch141/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_7_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch71/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch131/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch141/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_8_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch141/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_9_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch131/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_10_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch91/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch141/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch191/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch201/Home_and_Kitchen_layer_11_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch81/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch101/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch111/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 16, in SVCCA
+    acts2 = np.load(file2)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/Home_and_Kitchen/epoch121/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch131/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch141/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch151/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch161/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch171/Home_and_Kitchen_layer_12_hidden_state.npy'
+Traceback (most recent call last):
+  File "analysis.py", line 101, in <module>
+    SVCCA(args.data_dir1, args.data_dir2, args.svd_dim)
+  File "analysis.py", line 15, in SVCCA
+    acts1 = np.load(file1)
+  File "/disk/ocean/zheng/miniconda3/envs/cdt/lib/python3.8/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: '/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/100_data/top5/epoch181/Home_and_Kitchen_layer_12_hidden_state.npy'
