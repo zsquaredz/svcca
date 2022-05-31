@@ -1,0 +1,1200 @@
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9912333
+Fraction of variance explained by 68 singular vectors for input2 0.98890877
+bottom mask has been applied, SVD done
+result 0.8031383737566493
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9995769
+Fraction of variance explained by 68 singular vectors for input2 0.9998488
+bottom mask has been applied, SVD done
+result 0.7809080946193713
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99336225
+Fraction of variance explained by 68 singular vectors for input2 0.9910184
+bottom mask has been applied, SVD done
+result 0.7498068418176118
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.999552
+Fraction of variance explained by 68 singular vectors for input2 0.9998918
+bottom mask has been applied, SVD done
+result 0.6963299551545566
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99129415
+Fraction of variance explained by 68 singular vectors for input2 0.9884389
+bottom mask has been applied, SVD done
+result 0.7790518601534855
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99958897
+Fraction of variance explained by 68 singular vectors for input2 0.9998558
+bottom mask has been applied, SVD done
+result 0.7439623007850455
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9921918
+Fraction of variance explained by 68 singular vectors for input2 0.98934263
+bottom mask has been applied, SVD done
+result 0.7769041157073759
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99957305
+Fraction of variance explained by 68 singular vectors for input2 0.9998584
+bottom mask has been applied, SVD done
+result 0.7458591178486547
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9910146
+Fraction of variance explained by 68 singular vectors for input2 0.98892915
+bottom mask has been applied, SVD done
+result 0.8152009757968319
+currently doing 10_model_10_data epoch 501, new_control_10_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99956304
+Fraction of variance explained by 68 singular vectors for input2 0.9998725
+bottom mask has been applied, SVD done
+result 0.7999803855369245
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9962089
+Fraction of variance explained by 68 singular vectors for input2 0.9911253
+bottom mask has been applied, SVD done
+result 0.7523465164109338
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9981007
+Fraction of variance explained by 68 singular vectors for input2 0.9993761
+bottom mask has been applied, SVD done
+result 0.7211208163076721
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99686015
+Fraction of variance explained by 68 singular vectors for input2 0.99353784
+bottom mask has been applied, SVD done
+result 0.7193591075420356
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99816674
+Fraction of variance explained by 68 singular vectors for input2 0.9996888
+bottom mask has been applied, SVD done
+result 0.6687155033352279
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99618864
+Fraction of variance explained by 68 singular vectors for input2 0.99151105
+bottom mask has been applied, SVD done
+result 0.738380141582042
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9982391
+Fraction of variance explained by 68 singular vectors for input2 0.9996143
+bottom mask has been applied, SVD done
+result 0.702796253138839
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9964348
+Fraction of variance explained by 68 singular vectors for input2 0.9925701
+bottom mask has been applied, SVD done
+result 0.7319457866563996
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99805546
+Fraction of variance explained by 68 singular vectors for input2 0.99961025
+bottom mask has been applied, SVD done
+result 0.6835973032109876
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99608046
+Fraction of variance explained by 68 singular vectors for input2 0.9907258
+bottom mask has been applied, SVD done
+result 0.7489601702172649
+currently doing 10_model_50_data epoch 501, new_control_10_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9981335
+Fraction of variance explained by 68 singular vectors for input2 0.99929047
+bottom mask has been applied, SVD done
+result 0.72044602704044
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99606144
+Fraction of variance explained by 68 singular vectors for input2 0.9939092
+bottom mask has been applied, SVD done
+result 0.6672766255363534
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9970867
+Fraction of variance explained by 68 singular vectors for input2 0.9987962
+bottom mask has been applied, SVD done
+result 0.5693544707128788
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9972612
+Fraction of variance explained by 68 singular vectors for input2 0.99603957
+bottom mask has been applied, SVD done
+result 0.6552736698585635
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9979449
+Fraction of variance explained by 68 singular vectors for input2 0.9993016
+bottom mask has been applied, SVD done
+result 0.5361774357042987
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9962704
+Fraction of variance explained by 68 singular vectors for input2 0.99479556
+bottom mask has been applied, SVD done
+result 0.6711372392817894
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9975485
+Fraction of variance explained by 68 singular vectors for input2 0.9990197
+bottom mask has been applied, SVD done
+result 0.5638218006102845
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9966335
+Fraction of variance explained by 68 singular vectors for input2 0.9957267
+bottom mask has been applied, SVD done
+result 0.6735911454066786
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9974581
+Fraction of variance explained by 68 singular vectors for input2 0.9990496
+bottom mask has been applied, SVD done
+result 0.5496266899703127
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9960488
+Fraction of variance explained by 68 singular vectors for input2 0.99349487
+bottom mask has been applied, SVD done
+result 0.6699750689151666
+currently doing 10_model_100_data epoch 501, new_control_10_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9973844
+Fraction of variance explained by 68 singular vectors for input2 0.9986787
+bottom mask has been applied, SVD done
+result 0.5686474688647055
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9971627
+Fraction of variance explained by 68 singular vectors for input2 0.99602336
+bottom mask has been applied, SVD done
+result 0.5321607460287996
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9973345
+Fraction of variance explained by 68 singular vectors for input2 0.9972684
+bottom mask has been applied, SVD done
+result 0.4179614797820448
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99765617
+Fraction of variance explained by 68 singular vectors for input2 0.9979719
+bottom mask has been applied, SVD done
+result 0.5912135583569371
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.997684
+Fraction of variance explained by 68 singular vectors for input2 0.9986176
+bottom mask has been applied, SVD done
+result 0.48047579871863655
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9972532
+Fraction of variance explained by 68 singular vectors for input2 0.9963407
+bottom mask has been applied, SVD done
+result 0.5448359544946304
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99759126
+Fraction of variance explained by 68 singular vectors for input2 0.9975522
+bottom mask has been applied, SVD done
+result 0.4299724034661921
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.9973456
+Fraction of variance explained by 68 singular vectors for input2 0.9971502
+bottom mask has been applied, SVD done
+result 0.5606962872334286
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99745524
+Fraction of variance explained by 68 singular vectors for input2 0.99762726
+bottom mask has been applied, SVD done
+result 0.44286404570447263
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99708146
+Fraction of variance explained by 68 singular vectors for input2 0.9960021
+bottom mask has been applied, SVD done
+result 0.5174153532071293
+currently doing 10_model_200_data epoch 501, new_control_10_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 68 singular vectors for input1 0.99758554
+Fraction of variance explained by 68 singular vectors for input2 0.9978217
+bottom mask has been applied, SVD done
+result 0.4083274913586437
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9866723
+Fraction of variance explained by 180 singular vectors for input2 0.9850026
+bottom mask has been applied, SVD done
+result 0.8284305530716959
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.998972
+Fraction of variance explained by 180 singular vectors for input2 0.9994098
+bottom mask has been applied, SVD done
+result 0.7404315337262972
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99156094
+Fraction of variance explained by 180 singular vectors for input2 0.9911502
+bottom mask has been applied, SVD done
+result 0.8030892916540062
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9990264
+Fraction of variance explained by 180 singular vectors for input2 0.9995039
+bottom mask has been applied, SVD done
+result 0.680131648462748
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.98745984
+Fraction of variance explained by 180 singular vectors for input2 0.98597586
+bottom mask has been applied, SVD done
+result 0.8030526757251658
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9989705
+Fraction of variance explained by 180 singular vectors for input2 0.9994343
+bottom mask has been applied, SVD done
+result 0.6960732902420563
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.98899573
+Fraction of variance explained by 180 singular vectors for input2 0.9880191
+bottom mask has been applied, SVD done
+result 0.804544377549939
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9989461
+Fraction of variance explained by 180 singular vectors for input2 0.99945843
+bottom mask has been applied, SVD done
+result 0.6981777144048059
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.98652446
+Fraction of variance explained by 180 singular vectors for input2 0.98476636
+bottom mask has been applied, SVD done
+result 0.8372128924048967
+currently doing 25_model_10_data epoch 501, new_control_25_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9989891
+Fraction of variance explained by 180 singular vectors for input2 0.999447
+bottom mask has been applied, SVD done
+result 0.7540238932630428
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9964414
+Fraction of variance explained by 180 singular vectors for input2 0.98668444
+bottom mask has been applied, SVD done
+result 0.6700002177094971
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99587274
+Fraction of variance explained by 180 singular vectors for input2 0.9988521
+bottom mask has been applied, SVD done
+result 0.43625053426009736
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9973779
+Fraction of variance explained by 180 singular vectors for input2 0.99357086
+bottom mask has been applied, SVD done
+result 0.7008989743115625
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99631333
+Fraction of variance explained by 180 singular vectors for input2 0.9990826
+bottom mask has been applied, SVD done
+result 0.5008201383784344
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9967072
+Fraction of variance explained by 180 singular vectors for input2 0.9888289
+bottom mask has been applied, SVD done
+result 0.6592631082550306
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9959361
+Fraction of variance explained by 180 singular vectors for input2 0.9987369
+bottom mask has been applied, SVD done
+result 0.4277036234950653
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99696636
+Fraction of variance explained by 180 singular vectors for input2 0.9905879
+bottom mask has been applied, SVD done
+result 0.6745666683894044
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9959525
+Fraction of variance explained by 180 singular vectors for input2 0.99892324
+bottom mask has been applied, SVD done
+result 0.4461255886523914
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9964101
+Fraction of variance explained by 180 singular vectors for input2 0.9863161
+bottom mask has been applied, SVD done
+result 0.6654399271126167
+currently doing 25_model_50_data epoch 501, new_control_25_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99595803
+Fraction of variance explained by 180 singular vectors for input2 0.99886507
+bottom mask has been applied, SVD done
+result 0.43588071330479905
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99645996
+Fraction of variance explained by 180 singular vectors for input2 0.9921143
+bottom mask has been applied, SVD done
+result 0.6354556749033714
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9924555
+Fraction of variance explained by 180 singular vectors for input2 0.99804574
+bottom mask has been applied, SVD done
+result 0.3905734698284985
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99724483
+Fraction of variance explained by 180 singular vectors for input2 0.99615306
+bottom mask has been applied, SVD done
+result 0.6949303101695008
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9932308
+Fraction of variance explained by 180 singular vectors for input2 0.99855256
+bottom mask has been applied, SVD done
+result 0.5039905331116737
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99657863
+Fraction of variance explained by 180 singular vectors for input2 0.99381584
+bottom mask has been applied, SVD done
+result 0.6486581334915106
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9925727
+Fraction of variance explained by 180 singular vectors for input2 0.9982354
+bottom mask has been applied, SVD done
+result 0.40972517051398455
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99681336
+Fraction of variance explained by 180 singular vectors for input2 0.9952248
+bottom mask has been applied, SVD done
+result 0.6678387620620222
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9926181
+Fraction of variance explained by 180 singular vectors for input2 0.9982967
+bottom mask has been applied, SVD done
+result 0.4475224568789051
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9964322
+Fraction of variance explained by 180 singular vectors for input2 0.9914487
+bottom mask has been applied, SVD done
+result 0.6312004616599153
+currently doing 25_model_100_data epoch 501, new_control_25_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9926039
+Fraction of variance explained by 180 singular vectors for input2 0.99810725
+bottom mask has been applied, SVD done
+result 0.38217549755342056
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99547005
+Fraction of variance explained by 180 singular vectors for input2 0.99674606
+bottom mask has been applied, SVD done
+result 0.6410346463929267
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.98972017
+Fraction of variance explained by 180 singular vectors for input2 0.99634945
+bottom mask has been applied, SVD done
+result 0.4875384603076135
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9963901
+Fraction of variance explained by 180 singular vectors for input2 0.99740887
+bottom mask has been applied, SVD done
+result 0.703798446223353
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99091566
+Fraction of variance explained by 180 singular vectors for input2 0.9967299
+bottom mask has been applied, SVD done
+result 0.5296798636567884
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99556905
+Fraction of variance explained by 180 singular vectors for input2 0.99687916
+bottom mask has been applied, SVD done
+result 0.6555138434137475
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9900505
+Fraction of variance explained by 180 singular vectors for input2 0.9958259
+bottom mask has been applied, SVD done
+result 0.4984309462274263
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.99578243
+Fraction of variance explained by 180 singular vectors for input2 0.99708414
+bottom mask has been applied, SVD done
+result 0.6718511101573873
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9901079
+Fraction of variance explained by 180 singular vectors for input2 0.9961942
+bottom mask has been applied, SVD done
+result 0.5130069083398836
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9954357
+Fraction of variance explained by 180 singular vectors for input2 0.99634254
+bottom mask has been applied, SVD done
+result 0.6233667367020375
+currently doing 25_model_200_data epoch 501, new_control_25_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 180 singular vectors for input1 0.9899082
+Fraction of variance explained by 180 singular vectors for input2 0.9968957
+bottom mask has been applied, SVD done
+result 0.43639504700542836
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9926373
+Fraction of variance explained by 365 singular vectors for input2 0.9911357
+bottom mask has been applied, SVD done
+result 0.8735717830753258
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99843395
+Fraction of variance explained by 365 singular vectors for input2 0.9991233
+bottom mask has been applied, SVD done
+result 0.5919658789663303
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9961553
+Fraction of variance explained by 365 singular vectors for input2 0.9956617
+bottom mask has been applied, SVD done
+result 0.8931415704024661
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9986124
+Fraction of variance explained by 365 singular vectors for input2 0.999129
+bottom mask has been applied, SVD done
+result 0.6081565862793039
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9935082
+Fraction of variance explained by 365 singular vectors for input2 0.992341
+bottom mask has been applied, SVD done
+result 0.8630098107075106
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.998454
+Fraction of variance explained by 365 singular vectors for input2 0.9991058
+bottom mask has been applied, SVD done
+result 0.5517812183015715
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99451274
+Fraction of variance explained by 365 singular vectors for input2 0.99348783
+bottom mask has been applied, SVD done
+result 0.8704013596661668
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99847126
+Fraction of variance explained by 365 singular vectors for input2 0.99908984
+bottom mask has been applied, SVD done
+result 0.5625975744848596
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99254346
+Fraction of variance explained by 365 singular vectors for input2 0.99092793
+bottom mask has been applied, SVD done
+result 0.8770078860023762
+currently doing 50_model_10_data epoch 501, new_control_50_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9984458
+Fraction of variance explained by 365 singular vectors for input2 0.99915725
+bottom mask has been applied, SVD done
+result 0.6032753947472614
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9956783
+Fraction of variance explained by 365 singular vectors for input2 0.99279416
+bottom mask has been applied, SVD done
+result 0.7440926249751564
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99411887
+Fraction of variance explained by 365 singular vectors for input2 0.9983988
+bottom mask has been applied, SVD done
+result 0.4093876754272988
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9974204
+Fraction of variance explained by 365 singular vectors for input2 0.99666834
+bottom mask has been applied, SVD done
+result 0.8483114524357265
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99492675
+Fraction of variance explained by 365 singular vectors for input2 0.9983731
+bottom mask has been applied, SVD done
+result 0.5494136464125992
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99612916
+Fraction of variance explained by 365 singular vectors for input2 0.99416614
+bottom mask has been applied, SVD done
+result 0.7465869310971011
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99429107
+Fraction of variance explained by 365 singular vectors for input2 0.99824804
+bottom mask has been applied, SVD done
+result 0.4164758486731001
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99656427
+Fraction of variance explained by 365 singular vectors for input2 0.9951903
+bottom mask has been applied, SVD done
+result 0.7704087834000694
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99437857
+Fraction of variance explained by 365 singular vectors for input2 0.99838924
+bottom mask has been applied, SVD done
+result 0.4587606198611275
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9956635
+Fraction of variance explained by 365 singular vectors for input2 0.9925121
+bottom mask has been applied, SVD done
+result 0.7414210842898528
+currently doing 50_model_50_data epoch 501, new_control_50_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9941856
+Fraction of variance explained by 365 singular vectors for input2 0.9984203
+bottom mask has been applied, SVD done
+result 0.4092158559393866
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99605817
+Fraction of variance explained by 365 singular vectors for input2 0.99492687
+bottom mask has been applied, SVD done
+result 0.7208573326484259
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99136096
+Fraction of variance explained by 365 singular vectors for input2 0.99714
+bottom mask has been applied, SVD done
+result 0.45832001086733176
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9975709
+Fraction of variance explained by 365 singular vectors for input2 0.9971506
+bottom mask has been applied, SVD done
+result 0.8400848578804245
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99247056
+Fraction of variance explained by 365 singular vectors for input2 0.99700165
+bottom mask has been applied, SVD done
+result 0.545853344617414
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9964369
+Fraction of variance explained by 365 singular vectors for input2 0.9954333
+bottom mask has been applied, SVD done
+result 0.716122030767442
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9915944
+Fraction of variance explained by 365 singular vectors for input2 0.9971679
+bottom mask has been applied, SVD done
+result 0.4464889361812864
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9968094
+Fraction of variance explained by 365 singular vectors for input2 0.99615276
+bottom mask has been applied, SVD done
+result 0.7461754100075284
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9917273
+Fraction of variance explained by 365 singular vectors for input2 0.99715513
+bottom mask has been applied, SVD done
+result 0.4778569161832096
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9960581
+Fraction of variance explained by 365 singular vectors for input2 0.9948439
+bottom mask has been applied, SVD done
+result 0.7192402775753841
+currently doing 50_model_100_data epoch 501, new_control_50_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9914556
+Fraction of variance explained by 365 singular vectors for input2 0.99721426
+bottom mask has been applied, SVD done
+result 0.45749202531095473
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99578905
+Fraction of variance explained by 365 singular vectors for input2 0.99585277
+bottom mask has been applied, SVD done
+result 0.7143308354782488
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9895149
+Fraction of variance explained by 365 singular vectors for input2 0.99475855
+bottom mask has been applied, SVD done
+result 0.4744220694414903
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9972809
+Fraction of variance explained by 365 singular vectors for input2 0.9973977
+bottom mask has been applied, SVD done
+result 0.8387042759844745
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99096286
+Fraction of variance explained by 365 singular vectors for input2 0.9949431
+bottom mask has been applied, SVD done
+result 0.5489088099659851
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.99614346
+Fraction of variance explained by 365 singular vectors for input2 0.99634147
+bottom mask has been applied, SVD done
+result 0.7068017249658172
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9896333
+Fraction of variance explained by 365 singular vectors for input2 0.99465007
+bottom mask has been applied, SVD done
+result 0.46056223685866504
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9964832
+Fraction of variance explained by 365 singular vectors for input2 0.9966847
+bottom mask has been applied, SVD done
+result 0.7383886563078845
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9899118
+Fraction of variance explained by 365 singular vectors for input2 0.99488014
+bottom mask has been applied, SVD done
+result 0.48491506862033085
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9957864
+Fraction of variance explained by 365 singular vectors for input2 0.9958879
+bottom mask has been applied, SVD done
+result 0.7086201501621976
+currently doing 50_model_200_data epoch 501, new_control_50_model_200_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 365 singular vectors for input1 0.9896467
+Fraction of variance explained by 365 singular vectors for input2 0.99479824
+bottom mask has been applied, SVD done
+result 0.4706850728687745
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9912613
+Fraction of variance explained by 535 singular vectors for input2 0.98946995
+bottom mask has been applied, SVD done
+result 0.8917623307196666
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9959119
+Fraction of variance explained by 535 singular vectors for input2 0.99847424
+bottom mask has been applied, SVD done
+result 0.5212989523769768
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99556273
+Fraction of variance explained by 535 singular vectors for input2 0.99532455
+bottom mask has been applied, SVD done
+result 0.9869277447660042
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99627
+Fraction of variance explained by 535 singular vectors for input2 0.9979517
+bottom mask has been applied, SVD done
+result 0.6194830445796502
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99245906
+Fraction of variance explained by 535 singular vectors for input2 0.991019
+bottom mask has been applied, SVD done
+result 0.8890653393134862
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9959157
+Fraction of variance explained by 535 singular vectors for input2 0.9983592
+bottom mask has been applied, SVD done
+result 0.4973521501854826
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99347734
+Fraction of variance explained by 535 singular vectors for input2 0.99222285
+bottom mask has been applied, SVD done
+result 0.8959283477715753
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9959441
+Fraction of variance explained by 535 singular vectors for input2 0.99835294
+bottom mask has been applied, SVD done
+result 0.5273290994874508
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99126047
+Fraction of variance explained by 535 singular vectors for input2 0.9893547
+bottom mask has been applied, SVD done
+result 0.8940061844759422
+currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9958992
+Fraction of variance explained by 535 singular vectors for input2 0.99851894
+bottom mask has been applied, SVD done
+result 0.5282891667120233
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9924919
+Fraction of variance explained by 535 singular vectors for input2 0.9912972
+bottom mask has been applied, SVD done
+result 0.8409396325423175
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9928136
+Fraction of variance explained by 535 singular vectors for input2 0.99634975
+bottom mask has been applied, SVD done
+result 0.4414356313822534
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9960613
+Fraction of variance explained by 535 singular vectors for input2 0.9959171
+bottom mask has been applied, SVD done
+result 0.9879210678609044
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9938305
+Fraction of variance explained by 535 singular vectors for input2 0.99572295
+bottom mask has been applied, SVD done
+result 0.5976608814587308
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.993521
+Fraction of variance explained by 535 singular vectors for input2 0.9927762
+bottom mask has been applied, SVD done
+result 0.8386281834633574
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9930194
+Fraction of variance explained by 535 singular vectors for input2 0.99572474
+bottom mask has been applied, SVD done
+result 0.4223710050662328
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99436486
+Fraction of variance explained by 535 singular vectors for input2 0.9937683
+bottom mask has been applied, SVD done
+result 0.859426204433952
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9931646
+Fraction of variance explained by 535 singular vectors for input2 0.9960137
+bottom mask has been applied, SVD done
+result 0.47604635331770373
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9925014
+Fraction of variance explained by 535 singular vectors for input2 0.9910594
+bottom mask has been applied, SVD done
+result 0.8392960632950082
+currently doing 75_model_50_data epoch 201, new_control_75_model_50_data epoch 361, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.992878
+Fraction of variance explained by 535 singular vectors for input2 0.9961698
+bottom mask has been applied, SVD done
+result 0.44126957158806346
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9929878
+Fraction of variance explained by 535 singular vectors for input2 0.99203485
+bottom mask has been applied, SVD done
+result 0.8091024755945074
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9901163
+Fraction of variance explained by 535 singular vectors for input2 0.9953379
+bottom mask has been applied, SVD done
+result 0.45262176439570084
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9962222
+Fraction of variance explained by 535 singular vectors for input2 0.99625874
+bottom mask has been applied, SVD done
+result 0.9883302622630962
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99136895
+Fraction of variance explained by 535 singular vectors for input2 0.99330556
+bottom mask has been applied, SVD done
+result 0.5935454631735578
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9938909
+Fraction of variance explained by 535 singular vectors for input2 0.99320155
+bottom mask has been applied, SVD done
+result 0.8100341816088759
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9903562
+Fraction of variance explained by 535 singular vectors for input2 0.9947936
+bottom mask has been applied, SVD done
+result 0.4410871947951109
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99462515
+Fraction of variance explained by 535 singular vectors for input2 0.99427456
+bottom mask has been applied, SVD done
+result 0.8376231457685936
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9905315
+Fraction of variance explained by 535 singular vectors for input2 0.9952196
+bottom mask has been applied, SVD done
+result 0.4864966008581201
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99299544
+Fraction of variance explained by 535 singular vectors for input2 0.9918382
+bottom mask has been applied, SVD done
+result 0.8078470366279576
+currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9901959
+Fraction of variance explained by 535 singular vectors for input2 0.9952855
+bottom mask has been applied, SVD done
+result 0.45294962487232815
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99308217
+Fraction of variance explained by 535 singular vectors for input2 0.99266267
+bottom mask has been applied, SVD done
+result 0.7804767764932107
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.98821527
+Fraction of variance explained by 535 singular vectors for input2 0.99347895
+bottom mask has been applied, SVD done
+result 0.4614402957050624
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99622464
+Fraction of variance explained by 535 singular vectors for input2 0.9962806
+bottom mask has been applied, SVD done
+result 0.9881699668470867
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9897113
+Fraction of variance explained by 535 singular vectors for input2 0.992844
+bottom mask has been applied, SVD done
+result 0.5979820099261738
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99393475
+Fraction of variance explained by 535 singular vectors for input2 0.9936912
+bottom mask has been applied, SVD done
+result 0.7839425730030515
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9884085
+Fraction of variance explained by 535 singular vectors for input2 0.9930472
+bottom mask has been applied, SVD done
+result 0.4508917411458044
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.99465406
+Fraction of variance explained by 535 singular vectors for input2 0.99459213
+bottom mask has been applied, SVD done
+result 0.8211441086372788
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9886662
+Fraction of variance explained by 535 singular vectors for input2 0.9935474
+bottom mask has been applied, SVD done
+result 0.4907615541441301
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9930811
+Fraction of variance explained by 535 singular vectors for input2 0.99240094
+bottom mask has been applied, SVD done
+result 0.7794267861542863
+currently doing 75_model_200_data epoch 201, new_control_75_model_200_data epoch 211, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 535 singular vectors for input1 0.9882231
+Fraction of variance explained by 535 singular vectors for input2 0.9936009
+bottom mask has been applied, SVD done
+result 0.4596346980903669
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9902264
+Fraction of variance explained by 700 singular vectors for input2 0.98924965
+bottom mask has been applied, SVD done
+result 0.9258163565186674
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99420524
+Fraction of variance explained by 700 singular vectors for input2 0.9978666
+bottom mask has been applied, SVD done
+result 0.5011268865445313
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9950752
+Fraction of variance explained by 700 singular vectors for input2 0.9953072
+bottom mask has been applied, SVD done
+result 0.7777628814018928
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9947139
+Fraction of variance explained by 700 singular vectors for input2 0.9966002
+bottom mask has been applied, SVD done
+result 0.6559340133697555
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9916644
+Fraction of variance explained by 700 singular vectors for input2 0.99086434
+bottom mask has been applied, SVD done
+result 0.9243340083863539
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9942435
+Fraction of variance explained by 700 singular vectors for input2 0.99779534
+bottom mask has been applied, SVD done
+result 0.48369910988362247
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9926538
+Fraction of variance explained by 700 singular vectors for input2 0.99202335
+bottom mask has been applied, SVD done
+result 0.9357036868954763
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9942537
+Fraction of variance explained by 700 singular vectors for input2 0.997876
+bottom mask has been applied, SVD done
+result 0.525294802521443
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99031466
+Fraction of variance explained by 700 singular vectors for input2 0.9892608
+bottom mask has been applied, SVD done
+result 0.9262890889617068
+currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99423826
+Fraction of variance explained by 700 singular vectors for input2 0.99788034
+bottom mask has been applied, SVD done
+result 0.5079342425946982
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99087536
+Fraction of variance explained by 700 singular vectors for input2 0.99028987
+bottom mask has been applied, SVD done
+result 0.8930750364431679
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99099517
+Fraction of variance explained by 700 singular vectors for input2 0.99465126
+bottom mask has been applied, SVD done
+result 0.44308085913192646
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9953885
+Fraction of variance explained by 700 singular vectors for input2 0.99564743
+bottom mask has been applied, SVD done
+result 0.7777900260877768
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99232614
+Fraction of variance explained by 700 singular vectors for input2 0.9928545
+bottom mask has been applied, SVD done
+result 0.6426754106841973
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99224985
+Fraction of variance explained by 700 singular vectors for input2 0.9917229
+bottom mask has been applied, SVD done
+result 0.8919389206942074
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99132764
+Fraction of variance explained by 700 singular vectors for input2 0.99503934
+bottom mask has been applied, SVD done
+result 0.4224381892159028
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99317807
+Fraction of variance explained by 700 singular vectors for input2 0.99274755
+bottom mask has been applied, SVD done
+result 0.9160376575945309
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9915176
+Fraction of variance explained by 700 singular vectors for input2 0.9952315
+bottom mask has been applied, SVD done
+result 0.49258113613647003
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99094355
+Fraction of variance explained by 700 singular vectors for input2 0.9900785
+bottom mask has been applied, SVD done
+result 0.8910968572819882
+currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.991052
+Fraction of variance explained by 700 singular vectors for input2 0.9946108
+bottom mask has been applied, SVD done
+result 0.4419423503823119
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9909823
+Fraction of variance explained by 700 singular vectors for input2 0.9903747
+bottom mask has been applied, SVD done
+result 0.8754614361714539
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+bottom mask has been applied, SVD done
+result 0.4477457501418332
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 501, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9954204
+Fraction of variance explained by 700 singular vectors for input2 0.9958521
+bottom mask has been applied, SVD done
+result 0.7777688566496381
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 501, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99090296
+Fraction of variance explained by 700 singular vectors for input2 0.99008834
+bottom mask has been applied, SVD done
+result 0.6401950038198853
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9923178
+Fraction of variance explained by 700 singular vectors for input2 0.99200547
+bottom mask has been applied, SVD done
+result 0.8770036619225556
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98979163
+Fraction of variance explained by 700 singular vectors for input2 0.993931
+bottom mask has been applied, SVD done
+result 0.44277326372488673
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9932456
+Fraction of variance explained by 700 singular vectors for input2 0.99312425
+bottom mask has been applied, SVD done
+result 0.9072158743891734
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99000376
+Fraction of variance explained by 700 singular vectors for input2 0.99413484
+bottom mask has been applied, SVD done
+result 0.5013658135683291
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9910505
+Fraction of variance explained by 700 singular vectors for input2 0.9902802
+bottom mask has been applied, SVD done
+result 0.8732586266469846
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895855
+Fraction of variance explained by 700 singular vectors for input2 0.99323785
+bottom mask has been applied, SVD done
+result 0.4503487974728162
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Books-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99146736
+Fraction of variance explained by 700 singular vectors for input2 0.9909751
+bottom mask has been applied, SVD done
+result 0.8543013631981788
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Books-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98814744
+Fraction of variance explained by 700 singular vectors for input2 0.99198925
+bottom mask has been applied, SVD done
+result 0.45969089901509236
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 171, seed-1-Model-top5-layer-0, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99560493
+Fraction of variance explained by 700 singular vectors for input2 0.9956283
+bottom mask has been applied, SVD done
+result 0.7776569957035723
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 171, seed-1-Model-top5-layer-12, and seed-1-Model-Clothing_Shoes_and_Jewelry-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98971856
+Fraction of variance explained by 700 singular vectors for input2 0.99081236
+bottom mask has been applied, SVD done
+result 0.6457658108447281
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Electronics-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9926452
+Fraction of variance explained by 700 singular vectors for input2 0.9922706
+bottom mask has been applied, SVD done
+result 0.8576162868982201
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Electronics-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.98850065
+Fraction of variance explained by 700 singular vectors for input2 0.99216115
+bottom mask has been applied, SVD done
+result 0.45150162011718714
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 131, seed-1-Model-top5-layer-0, and seed-1-Model-Home_and_Kitchen-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9935386
+Fraction of variance explained by 700 singular vectors for input2 0.9935046
+bottom mask has been applied, SVD done
+result 0.8975023305814256
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 131, seed-1-Model-top5-layer-12, and seed-1-Model-Home_and_Kitchen-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9887587
+Fraction of variance explained by 700 singular vectors for input2 0.99285334
+bottom mask has been applied, SVD done
+result 0.5067267173049452
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-0, and seed-1-Model-Movies_and_TV-layer-0
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.99149203
+Fraction of variance explained by 700 singular vectors for input2 0.9908286
+bottom mask has been applied, SVD done
+result 0.852005693699997
+currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-12, and seed-1-Model-Movies_and_TV-layer-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9881158
+Fraction of variance explained by 700 singular vectors for input2 0.9918174
+bottom mask has been applied, SVD done
+result 0.4599179570427693
