@@ -86,7 +86,7 @@ seed2=1
 
 for layer in {0,12}
 do
-  for ((N=1;N<=${topN};epoch+=1))
+  for ((N=1;N<=${topN};N+=1))
   do
     echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}, and word mask for top-${N}"
     python analysis.py \
