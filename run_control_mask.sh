@@ -11,7 +11,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=10
 # d=10  
-mask_type=freq1 # can be either general/specific freq/infreq top/bottom for the mask file
+mask_type=freq01 # can be either general/specific freq/infreq top/bottom for the mask file
 for m in {10,25,50,75,100}
 do
   for d in {10,50,100,200}
