@@ -161,67 +161,6 @@ do
     # done
 
 
-    # if (( $m == 10 )) ; then
-    #   epoch2=501
-    # elif (( $m == 25 )) ; then
-    #   epoch2=501
-    # elif (( $m == 50 )) ; then
-    #   if (( $d == 10 )) ; then
-    #     epoch2=501
-    #   elif (( $d == 50 )) ; then
-    #     epoch2=501
-    #   elif (( $d == 100 )) ; then
-    #     epoch2=501
-    #   else
-    #     epoch2=501
-    #   fi
-    # elif (( $m == 75 )) ; then
-    #   if (( $d == 10 )) ; then
-    #     epoch2=181
-    #   elif (( $d == 50 )) ; then
-    #     epoch2=361
-    #   elif (( $d == 100 )) ; then
-    #     epoch2=251
-    #   else
-    #     epoch2=211
-    #   fi
-    # else
-    #   if (( $d == 10 )) ; then
-    #     epoch2=101
-    #   elif (( $d == 50 )) ; then
-    #     epoch2=181
-    #   elif (( $d == 100 )) ; then
-    #     epoch2=151
-    #   else
-    #     epoch2=131
-    #   fi
-    # fi
-
-    # MODEL_CAT1=top5
-    # DATA_CATEGORY1=Electronics
-    # seed1=1
-
-    # MODEL_CAT2=Electronics
-    # DATA_CATEGORY2=Electronics
-    # seed2=1
-
-    # for layer in {0,12}
-    # do
-    #   for ((N=1;N<=${topN};N+=1))
-    #   do
-    #     echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}, and word mask ${mask_type} for top-${N}"
-    #     python analysis.py \
-    #       --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
-    #       --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
-    #       --do_svcca \
-    #       --use_mask \
-    #       --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}.top${N} \
-    #       --svd_dim1 $SVD_DIM \
-    #       --svd_dim2 $SVD_DIM
-    #   done
-    # done
-
-
     if (( $m == 10 )) ; then
       epoch2=501
     elif (( $m == 25 )) ; then
@@ -259,11 +198,11 @@ do
     fi
 
     MODEL_CAT1=top5
-    DATA_CATEGORY1=Home_and_Kitchen
+    DATA_CATEGORY1=Electronics
     seed1=1
 
-    MODEL_CAT2=Home_and_Kitchen
-    DATA_CATEGORY2=Home_and_Kitchen
+    MODEL_CAT2=Electronics
+    DATA_CATEGORY2=Electronics
     seed2=1
 
     for layer in {0,12}
@@ -281,6 +220,67 @@ do
           --svd_dim2 $SVD_DIM
       done
     done
+
+
+    # if (( $m == 10 )) ; then
+    #   epoch2=501
+    # elif (( $m == 25 )) ; then
+    #   epoch2=501
+    # elif (( $m == 50 )) ; then
+    #   if (( $d == 10 )) ; then
+    #     epoch2=501
+    #   elif (( $d == 50 )) ; then
+    #     epoch2=501
+    #   elif (( $d == 100 )) ; then
+    #     epoch2=501
+    #   else
+    #     epoch2=501
+    #   fi
+    # elif (( $m == 75 )) ; then
+    #   if (( $d == 10 )) ; then
+    #     epoch2=181
+    #   elif (( $d == 50 )) ; then
+    #     epoch2=361
+    #   elif (( $d == 100 )) ; then
+    #     epoch2=251
+    #   else
+    #     epoch2=211
+    #   fi
+    # else
+    #   if (( $d == 10 )) ; then
+    #     epoch2=101
+    #   elif (( $d == 50 )) ; then
+    #     epoch2=181
+    #   elif (( $d == 100 )) ; then
+    #     epoch2=151
+    #   else
+    #     epoch2=131
+    #   fi
+    # fi
+
+    # MODEL_CAT1=top5
+    # DATA_CATEGORY1=Home_and_Kitchen
+    # seed1=1
+
+    # MODEL_CAT2=Home_and_Kitchen
+    # DATA_CATEGORY2=Home_and_Kitchen
+    # seed2=1
+
+    # for layer in {0,12}
+    # do
+    #   for ((N=1;N<=${topN};N+=1))
+    #   do
+    #     echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}, and word mask ${mask_type} for top-${N}"
+    #     python analysis.py \
+    #       --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
+    #       --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
+    #       --do_svcca \
+    #       --use_mask \
+    #       --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}.top${N} \
+    #       --svd_dim1 $SVD_DIM \
+    #       --svd_dim2 $SVD_DIM
+    #   done
+    # done
 
 
     # if (( $m == 10 )) ; then
