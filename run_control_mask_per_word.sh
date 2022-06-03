@@ -100,6 +100,7 @@ do
     # done  
 
     # if (( $m == 10 )) ; then
+    #   SVD_DIM=68
     #   epoch2=501
     # elif (( $m == 25 )) ; then
     #   epoch2=501
@@ -283,10 +284,13 @@ do
 
 
     if (( $m == 10 )) ; then
+      SVD_DIM=68
       epoch2=501
     elif (( $m == 25 )) ; then
+      SVD_DIM=180
       epoch2=501
     elif (( $m == 50 )) ; then
+      SVD_DIM=365
       if (( $d == 10 )) ; then
         epoch2=501
       elif (( $d == 50 )) ; then
@@ -297,6 +301,7 @@ do
         epoch2=501
       fi
     elif (( $m == 75 )) ; then
+      SVD_DIM=535
       if (( $d == 10 )) ; then
         epoch2=181
       elif (( $d == 50 )) ; then
@@ -307,6 +312,7 @@ do
         epoch2=211
       fi
     else
+      SVD_DIM=700
       if (( $d == 10 )) ; then
         epoch2=101
       elif (( $d == 50 )) ; then
