@@ -20,67 +20,127 @@ do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
 
+    # if (( $m == 10 )) ; then
+    #   SVD_DIM=68
+    #   epoch1=501
+    #   epoch2=501
+    # elif (( $m == 25 )) ; then
+    #   SVD_DIM=180
+    #   epoch1=501
+    #   epoch2=501
+    # elif (( $m == 50 )) ; then
+    #   SVD_DIM=365
+    #   if (( $d == 10 )) ; then
+    #     epoch1=501
+    #     epoch2=501
+    #   elif (( $d == 50 )) ; then
+    #     epoch1=501
+    #     epoch2=501
+    #   elif (( $d == 100 )) ; then
+    #     epoch1=501
+    #     epoch2=501
+    #   else
+    #     epoch1=501
+    #     epoch2=501
+    #   fi
+    # elif (( $m == 75 )) ; then
+    #   SVD_DIM=535
+    #   if (( $d == 10 )) ; then
+    #     epoch1=501
+    #     epoch2=181
+    #   elif (( $d == 50 )) ; then
+    #     epoch1=201
+    #     epoch2=361
+    #   elif (( $d == 100 )) ; then
+    #     epoch1=201
+    #     epoch2=251
+    #   else
+    #     epoch1=201
+    #     epoch2=211
+    #   fi
+    # else
+    #   SVD_DIM=700
+    #   if (( $d == 10 )) ; then
+    #     epoch1=251
+    #     epoch2=101
+    #   elif (( $d == 50 )) ; then
+    #     epoch1=151
+    #     epoch2=231
+    #   elif (( $d == 100 )) ; then
+    #     epoch1=131
+    #     epoch2=181
+    #   else
+    #     epoch1=131
+    #     epoch2=151
+    #   fi
+    # fi
+
+    # MODEL_CAT1=top5
+    # DATA_CATEGORY1=Books
+    # seed1=1
+
+    # MODEL_CAT2=Books
+    # DATA_CATEGORY2=Books
+    # seed2=1
+
+    # for layer in {0,12}
+    # do
+    #   for ((N=1;N<=${topN};N+=1))
+    #   do
+    #     echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}, and word mask ${mask_type} for top-${N}"
+    #     python analysis.py \
+    #       --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
+    #       --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
+    #       --do_svcca \
+    #       --use_mask \
+    #       --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}.top${N} \
+    #       --svd_dim1 $SVD_DIM \
+    #       --svd_dim2 $SVD_DIM
+    #   done
+    # done  
+
     if (( $m == 10 )) ; then
-      SVD_DIM=68
-      epoch1=501
       epoch2=501
     elif (( $m == 25 )) ; then
-      SVD_DIM=180
-      epoch1=501
       epoch2=501
     elif (( $m == 50 )) ; then
-      SVD_DIM=365
       if (( $d == 10 )) ; then
-        epoch1=501
         epoch2=501
       elif (( $d == 50 )) ; then
-        epoch1=501
         epoch2=501
       elif (( $d == 100 )) ; then
-        epoch1=501
         epoch2=501
       else
-        epoch1=501
         epoch2=501
       fi
     elif (( $m == 75 )) ; then
-      SVD_DIM=535
       if (( $d == 10 )) ; then
-        epoch1=501
-        epoch2=181
+        epoch2=501
       elif (( $d == 50 )) ; then
-        epoch1=201
-        epoch2=361
+        epoch2=501
       elif (( $d == 100 )) ; then
-        epoch1=201
-        epoch2=251
+        epoch2=501
       else
-        epoch1=201
-        epoch2=211
+        epoch2=231
       fi
     else
-      SVD_DIM=700
       if (( $d == 10 )) ; then
-        epoch1=251
-        epoch2=101
+        epoch2=501
       elif (( $d == 50 )) ; then
-        epoch1=151
-        epoch2=231
+        epoch2=501
       elif (( $d == 100 )) ; then
-        epoch1=131
-        epoch2=181
+        epoch2=501
       else
-        epoch1=131
-        epoch2=151
+        epoch2=171
       fi
     fi
-
+      
     MODEL_CAT1=top5
-    DATA_CATEGORY1=Books
+    DATA_CATEGORY1=Clothing_Shoes_and_Jewelry
     seed1=1
 
-    MODEL_CAT2=Books
-    DATA_CATEGORY2=Books
+    MODEL_CAT2=Clothing_Shoes_and_Jewelry
+    DATA_CATEGORY2=Clothing_Shoes_and_Jewelry
     seed2=1
 
     for layer in {0,12}
@@ -97,67 +157,7 @@ do
           --svd_dim1 $SVD_DIM \
           --svd_dim2 $SVD_DIM
       done
-    done  
-
-# if (( $m == 10 )) ; then
-#   epoch2=501
-# elif (( $m == 25 )) ; then
-#   epoch2=501
-# elif (( $m == 50 )) ; then
-#   if (( $d == 10 )) ; then
-#     epoch2=501
-#   elif (( $d == 50 )) ; then
-#     epoch2=501
-#   elif (( $d == 100 )) ; then
-#     epoch2=501
-#   else
-#     epoch2=501
-#   fi
-# elif (( $m == 75 )) ; then
-#   if (( $d == 10 )) ; then
-#     epoch2=501
-#   elif (( $d == 50 )) ; then
-#     epoch2=501
-#   elif (( $d == 100 )) ; then
-#     epoch2=501
-#   else
-#     epoch2=231
-#   fi
-# else
-#   if (( $d == 10 )) ; then
-#     epoch2=501
-#   elif (( $d == 50 )) ; then
-#     epoch2=501
-#   elif (( $d == 100 )) ; then
-#     epoch2=501
-#   else
-#     epoch2=171
-#   fi
-# fi
-  
-# MODEL_CAT1=top5
-# DATA_CATEGORY1=Clothing_Shoes_and_Jewelry
-# seed1=1
-
-# MODEL_CAT2=Clothing_Shoes_and_Jewelry
-# DATA_CATEGORY2=Clothing_Shoes_and_Jewelry
-# seed2=1
-
-# for layer in {0,12}
-# do
-#   for ((N=1;N<=${topN};N+=1))
-#   do
-#     echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}, and word mask ${mask_type} for top-${N}"
-#     python analysis.py \
-#       --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
-#       --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
-#       --do_svcca \
-#       --use_mask \
-#       --mask_dir /disk/ocean/zheng/summarization_svcca/data/AmazonReviews/${DATA_CATEGORY1}/Test_2500_${DATA_CATEGORY1}.txt.${mask_type}.top${N} \
-#       --svd_dim1 $SVD_DIM \
-#       --svd_dim2 $SVD_DIM
-#   done
-# done
+    done
 
 
 # if (( $m == 10 )) ; then
