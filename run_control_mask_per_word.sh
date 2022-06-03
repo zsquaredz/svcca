@@ -20,60 +20,60 @@ do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
 
-    # if (( $m == 10 )) ; then
-    #   SVD_DIM=68
-    #   epoch1=501
-    #   epoch2=501
-    # elif (( $m == 25 )) ; then
-    #   SVD_DIM=180
-    #   epoch1=501
-    #   epoch2=501
-    # elif (( $m == 50 )) ; then
-    #   SVD_DIM=365
-    #   if (( $d == 10 )) ; then
-    #     epoch1=501
-    #     epoch2=501
-    #   elif (( $d == 50 )) ; then
-    #     epoch1=501
-    #     epoch2=501
-    #   elif (( $d == 100 )) ; then
-    #     epoch1=501
-    #     epoch2=501
-    #   else
-    #     epoch1=501
-    #     epoch2=501
-    #   fi
-    # elif (( $m == 75 )) ; then
-    #   SVD_DIM=535
-    #   if (( $d == 10 )) ; then
-    #     epoch1=501
-    #     epoch2=181
-    #   elif (( $d == 50 )) ; then
-    #     epoch1=201
-    #     epoch2=361
-    #   elif (( $d == 100 )) ; then
-    #     epoch1=201
-    #     epoch2=251
-    #   else
-    #     epoch1=201
-    #     epoch2=211
-    #   fi
-    # else
-    #   SVD_DIM=700
-    #   if (( $d == 10 )) ; then
-    #     epoch1=251
-    #     epoch2=101
-    #   elif (( $d == 50 )) ; then
-    #     epoch1=151
-    #     epoch2=231
-    #   elif (( $d == 100 )) ; then
-    #     epoch1=131
-    #     epoch2=181
-    #   else
-    #     epoch1=131
-    #     epoch2=151
-    #   fi
-    # fi
+    if (( $m == 10 )) ; then
+      SVD_DIM=68
+      epoch1=501
+      epoch2=501
+    elif (( $m == 25 )) ; then
+      SVD_DIM=180
+      epoch1=501
+      epoch2=501
+    elif (( $m == 50 )) ; then
+      SVD_DIM=365
+      if (( $d == 10 )) ; then
+        epoch1=501
+        epoch2=501
+      elif (( $d == 50 )) ; then
+        epoch1=501
+        epoch2=501
+      elif (( $d == 100 )) ; then
+        epoch1=501
+        epoch2=501
+      else
+        epoch1=501
+        epoch2=501
+      fi
+    elif (( $m == 75 )) ; then
+      SVD_DIM=535
+      if (( $d == 10 )) ; then
+        epoch1=501
+        epoch2=181
+      elif (( $d == 50 )) ; then
+        epoch1=201
+        epoch2=361
+      elif (( $d == 100 )) ; then
+        epoch1=201
+        epoch2=251
+      else
+        epoch1=201
+        epoch2=211
+      fi
+    else
+      SVD_DIM=700
+      if (( $d == 10 )) ; then
+        epoch1=251
+        epoch2=101
+      elif (( $d == 50 )) ; then
+        epoch1=151
+        epoch2=231
+      elif (( $d == 100 )) ; then
+        epoch1=131
+        epoch2=181
+      else
+        epoch1=131
+        epoch2=151
+      fi
+    fi
 
     # MODEL_CAT1=top5
     # DATA_CATEGORY1=Books
@@ -284,10 +284,8 @@ do
 
 
     if (( $m == 10 )) ; then
-      SVD_DIM=68
       epoch2=501
     elif (( $m == 25 )) ; then
-      SVD_DIM=180
       epoch2=501
     elif (( $m == 50 )) ; then
       SVD_DIM=365
@@ -301,7 +299,6 @@ do
         epoch2=501
       fi
     elif (( $m == 75 )) ; then
-      SVD_DIM=535
       if (( $d == 10 )) ; then
         epoch2=181
       elif (( $d == 50 )) ; then
@@ -312,7 +309,6 @@ do
         epoch2=211
       fi
     else
-      SVD_DIM=700
       if (( $d == 10 )) ; then
         epoch2=101
       elif (( $d == 50 )) ; then
