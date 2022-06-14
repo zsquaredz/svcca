@@ -51,19 +51,19 @@ for i in range(5):
                 marker=marker,
                 color=color,
                 alpha=0.5)
-    # if key == "char" and lang == "fr":
-    #     legend = ax.legend()
-    #     h, l = ax.get_legend_handles_labels()
-    #     l = [l[0], l[2], l[1]]
-    #     h = [h[0], h[2], h[1]]
-    #     legend = ax.legend(h,
-    #                        l,
-    #                        loc=9,
-    #                        fontsize=17.5,
-    #                        framealpha=0.6,
-    #                        markerscale=2)
-    #     for lh in legend.legendHandles:
-    #         lh.set_alpha(1)
+    if i==4:
+        legend = ax.legend()
+        h, l = ax.get_legend_handles_labels()
+        l = [l[0], l[2], l[1]]
+        h = [h[0], h[2], h[1]]
+        legend = ax.legend(h,
+                           l,
+                           loc='upper right',
+                           fontsize=17.5,
+                           framealpha=0.6,
+                           markerscale=2)
+        for lh in legend.legendHandles:
+            lh.set_alpha(1)
     ax.set_xticklabels([])
     ax.set_yticklabels([])
     # ax.axis('off')
