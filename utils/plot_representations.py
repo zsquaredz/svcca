@@ -23,7 +23,7 @@ for i in range(5):
     EXP_NAME2=exp_names2[i]
     MODEL_CAT2='Books'
     epoch2=epoch2s[i]
-    
+
     model_path1 = f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}-mlm/epoch{epoch1}'
     model_path2=f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}-mlm/epoch{epoch2}'
     model1 = AutoModelForMaskedLM.from_pretrained(model_path1)
@@ -67,7 +67,7 @@ for i in range(5):
     ax.set_xticklabels([])
     ax.set_yticklabels([])
     # ax.axis('off')
-    fig.savefig("trial.pdf",
+    fig.savefig("trial"+str(i)+".pdf",
                 format='pdf',
                 bbox_inches='tight',
                 dpi=1200,
