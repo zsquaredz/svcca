@@ -74,6 +74,75 @@ def plot_embedding_weights():
 
         plt.clf()
 
+def plot_final_layer_weights():
+    plt.figure(dpi=600)
+    exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
+    exp_names2 = ['new_control_10_model_100_data','new_control_25_model_100_data','new_control_50_model_100_data','new_control_75_model_100_data','new_control_100_model_100_data']
+    epoch1s = ['501','501','501','201','131']
+    epoch2s = ['501','501','501','251','181']
+    for i in range(5):
+        EXP_NAME1=exp_names1[i]
+        MODEL_CAT1='top5'
+        epoch1=epoch1s[i]
+
+        EXP_NAME2=exp_names2[i]
+        MODEL_CAT2='Books'
+        epoch2=epoch2s[i]
+
+        model_path1 = f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}-mlm/epoch{epoch1}'
+        model_path2 = f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}-mlm/epoch{epoch2}'
+        model1 = AutoModelForMaskedLM.from_pretrained(model_path1)
+        embeddings_1 = model1.bert.cls.predictions.decoder.weight.data
+        embedding1_numpy = np.array(embeddings_1)
+        embedding1_numpy = embedding1_numpy.T
+
+        model2 = AutoModelForMaskedLM.from_pretrained(model_path2)
+        embeddings_2 = model2.bert.cls.predictions.decoder.weight.data
+        embedding2_numpy = np.array(embeddings_2)
+        embedding2_numpy = embedding2_numpy.T
+        print(embedding1_numpy.shape)
+
+        X = np.concatenate((embedding1_numpy,embedding2_numpy),axis=0)
+
+        X_3d = PCA(n_components=2).fit_transform(X)
+        print(X_3d.shape)
+        data = {}
+        data["general"] = X_3d[:30522]
+        data["control"] = X_3d[30522:]
+
+        fig = plt.figure()
+        ax = fig.add_subplot(111)
+        for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "red"]):
+            X_temp = data[label]
+            ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
+                    label=label,
+                    marker=marker,
+                    color=color,
+                    alpha=0.5)
+        if i==4:
+            legend = ax.legend()
+            h, l = ax.get_legend_handles_labels()
+            l = [l[0], l[1]]
+            h = [h[0], h[1]]
+            legend = ax.legend(h,
+                            l,
+                            loc='upper right',
+                            fontsize=17.5,
+                            framealpha=0.6,
+                            markerscale=2)
+            for lh in legend.legendHandles:
+                lh.set_alpha(1)
+        ax.set_xticklabels([])
+        ax.set_yticklabels([])
+        # ax.axis('off')
+        fig.savefig("trial_cls_decoder"+str(i)+".pdf",
+                    format='pdf',
+                    bbox_inches='tight',
+                    dpi=1200,
+                    transparent=True)
+
+        plt.clf()
+
 def plot_final_layer_representation():
     random.seed(30)
     indices = (random.sample(range(0,430923),k=2500))
@@ -142,4 +211,5 @@ def plot_final_layer_representation():
 
 if __name__ == '__main__':
     # plot_embedding_weights()
-    plot_final_layer_representation()
+    plot_final_layer_weights()
+    # plot_final_layer_representation()
