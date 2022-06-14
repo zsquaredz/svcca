@@ -11,10 +11,10 @@ langs = ["en", "fr", "ru"]
 
 
 plt.figure(dpi=1200)
-EXP_NAME1='100_model_100_data'
+EXP_NAME1='10_model_100_data'
 MODEL_CAT1='top5'
 epoch1='131'
-EXP_NAME2='new_control_100_model_100_data'
+EXP_NAME2='new_control_10_model_100_data'
 MODEL_CAT2='Books'
 epoch2='181'
 model_path1 = f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}-mlm/epoch{epoch1}'
