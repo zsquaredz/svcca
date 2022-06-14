@@ -76,7 +76,7 @@ def plot_embedding_weights():
 
 def plot_final_layer_representation():
     random.seed(30)
-    indices = set(random.sample(range(0,430923),k=2500))
+    indices = (random.sample(range(0,430923),k=2500))
 
     plt.figure(dpi=600)
     exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
