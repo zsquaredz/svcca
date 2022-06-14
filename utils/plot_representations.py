@@ -5,7 +5,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.decomposition import PCA
-
+import random
 
 
 def plot_embedding_weights():
@@ -75,6 +75,9 @@ def plot_embedding_weights():
         plt.clf()
 
 def plot_final_layer_representation():
+    random.seed(30)
+    indices = set(random.sample(range(0,430923),k=2500))
+
     plt.figure(dpi=600)
     exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
     exp_names2 = ['new_control_10_model_100_data','new_control_25_model_100_data','new_control_50_model_100_data','new_control_75_model_100_data','new_control_100_model_100_data']
@@ -101,8 +104,8 @@ def plot_final_layer_representation():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = X_3d[:430923]
-        data["control"] = X_3d[430923   :]
+        data["general"] = np.take(X_3d[:430923], indices, axis=0)
+        data["control"] = np.take(X_3d[430923:], indices, axis=0)
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
