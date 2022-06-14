@@ -36,7 +36,7 @@ data["general"] = X_3d[:30522]
 data["control"] = X_3d[30522:]
 
 fig = plt.figure()
-ax = fig.add_subplot(11)
+ax = fig.add_subplot(111)
 for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "red"]):
     X_temp = data[label]
     ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
@@ -60,10 +60,10 @@ for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "
 ax.set_xticklabels([])
 ax.set_yticklabels([])
 # ax.axis('off')
-# fig.savefig(lang + "." + key + ".trial.dist.pdf",
-#             format='pdf',
-#             bbox_inches='tight',
-#             dpi=1200,
-#             transparent=True)
+fig.savefig("trial.pdf",
+            format='pdf',
+            bbox_inches='tight',
+            dpi=1200,
+            transparent=True)
 
 plt.clf()
