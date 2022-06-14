@@ -101,8 +101,8 @@ def plot_final_layer_representation():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = X_3d[:30522]
-        data["control"] = X_3d[30522:]
+        data["general"] = X_3d[:430923]
+        data["control"] = X_3d[430923   :]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
