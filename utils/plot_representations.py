@@ -26,16 +26,14 @@ model2 = AutoModelForMaskedLM.from_pretrained(model_path2)
 embeddings_2 = model2.bert.embeddings.word_embeddings.weight.data
 embedding2_numpy = np.array(embeddings_2)
 print(embedding1_numpy.shape)
-files = [embedding1_numpy, embedding2_numpy]
 
-X = []
-for file in files:
-    X += file
+X = np.concatenate((embedding1_numpy,embedding2_numpy),axis=0)
+
 X_3d = PCA(n_components=2).fit_transform(X)
 print(X_3d.shape)
 data = {}
-data["general"] = X_3d[:200]
-data["control"] = X_3d[200:]
+data["general"] = X_3d[:30522]
+data["control"] = X_3d[30522:]
 
 fig = plt.figure()
 ax = fig.add_subplot(11)
