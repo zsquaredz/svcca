@@ -94,13 +94,13 @@ def plot_final_layer_weights():
         model1 = AutoModelForMaskedLM.from_pretrained(model_path1)
         embeddings_1 = model1.cls.predictions.decoder.weight.data
         embedding1_numpy = np.array(embeddings_1)
-        embedding1_numpy = embedding1_numpy.T
+        # embedding1_numpy = embedding1_numpy.T
 
         model2 = AutoModelForMaskedLM.from_pretrained(model_path2)
         embeddings_2 = model2.cls.predictions.decoder.weight.data
         embedding2_numpy = np.array(embeddings_2)
-        embedding2_numpy = embedding2_numpy.T
-        print(embedding1_numpy.shape)
+        # embedding2_numpy = embedding2_numpy.T
+        print(embedding2_numpy.shape)
 
         X = np.concatenate((embedding1_numpy,embedding2_numpy),axis=0)
 
