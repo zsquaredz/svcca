@@ -54,8 +54,8 @@ for i in range(5):
     if i==4:
         legend = ax.legend()
         h, l = ax.get_legend_handles_labels()
-        l = [l[0], l[2], l[1]]
-        h = [h[0], h[2], h[1]]
+        l = [l[0], l[1]]
+        h = [h[0], h[1]]
         legend = ax.legend(h,
                            l,
                            loc='upper right',
