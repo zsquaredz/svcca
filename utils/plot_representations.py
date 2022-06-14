@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.decomposition import PCA
 import random
+from sklearn.preprocessing import StandardScaler
 
 
 def plot_embedding_weights():
@@ -169,7 +170,7 @@ def plot_final_layer_representation():
         print(acts1.shape)
 
         X = np.concatenate((acts1, acts2),axis=0)
-
+        X = StandardScaler().fit_transform(X)
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
@@ -211,5 +212,5 @@ def plot_final_layer_representation():
 
 if __name__ == '__main__':
     # plot_embedding_weights()
-    plot_final_layer_weights()
-    # plot_final_layer_representation()
+    # plot_final_layer_weights()
+    plot_final_layer_representation()
