@@ -371,7 +371,7 @@ def plot_embedding_layer_representation_with_mask_data():
     exp_names1 = ['100_model_10_data','100_model_50_data','100_model_100_data','100_model_200_data']
     exp_names2 = ['new_control_100_model_10_data','new_control_100_model_50_data','new_control_100_model_100_data','new_control_100_model_200_data']
     epoch1s = ['251','151','131','131']
-    epoch2s = ['101','231','181','251'] # books
+    epoch2s = ['101','231','181','151'] # books
     # epoch2s = ['501','501','501','501','501'] # clothing
     for i in range(4):
         EXP_NAME1=exp_names1[i]
@@ -561,10 +561,10 @@ def plot_final_layer_representation():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        # data["general"] = np.take(X_3d[:430923], indices, axis=0)
-        # data["control"] = np.take(X_3d[430923:], indices, axis=0)
-        data["general"] = X_3d[:430923]
-        data["control"] = X_3d[430923:]
+        data["general"] = np.take(X_3d[:430923], indices, axis=0)
+        data["control"] = np.take(X_3d[430923:], indices, axis=0)
+        # data["general"] = X_3d[:430923]
+        # data["control"] = X_3d[430923:]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
@@ -656,7 +656,7 @@ def plot_final_layer_representation_with_mask():
         control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=2000))
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
         data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
