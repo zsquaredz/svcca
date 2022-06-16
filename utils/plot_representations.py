@@ -462,8 +462,10 @@ def plot_final_layer_representation():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = np.take(X_3d[:430923], indices, axis=0)
-        data["control"] = np.take(X_3d[430923:], indices, axis=0)
+        # data["general"] = np.take(X_3d[:430923], indices, axis=0)
+        # data["control"] = np.take(X_3d[430923:], indices, axis=0)
+        data["general"] = X_3d[:430923]
+        data["control"] = X_3d[430923:]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
@@ -603,5 +605,5 @@ if __name__ == '__main__':
     # plot_embedding_layer_representation_with_mask()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
-    # plot_final_layer_representation()
-    plot_final_layer_representation_with_mask()
+    plot_final_layer_representation()
+    # plot_final_layer_representation_with_mask()
