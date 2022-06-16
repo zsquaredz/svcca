@@ -37,7 +37,7 @@ def plot_embedding_weights():
         print(embedding1_numpy.shape)
 
         X = np.concatenate((embedding1_numpy,embedding2_numpy),axis=0)
-
+        X = StandardScaler().fit_transform(X)
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
