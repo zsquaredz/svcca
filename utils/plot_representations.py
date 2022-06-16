@@ -313,22 +313,26 @@ def plot_embedding_layer_representation_with_mask():
         assert len(word_mask_spe) == acts1.shape[0] # sanity check
 
         general_data = X_3d[:size]
-        general_data = general_data[word_mask_gen]
+        general_data_gen = general_data[word_mask_gen]
+        general_data_spe = general_data[word_mask_spe]
 
         control_data = X_3d[size:]
-        control_data = control_data[word_mask_gen]
+        control_data_gen = control_data[word_mask_gen]
+        control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data.shape[0]), k=2500))
-        indices_spe = (random.sample(range(0,general_data.shape[0]), k=2500))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=2500))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=2500))
         data = {}
-        data["general-gen"] = np.take(general_data, indices_gen, axis=0) # books: 430923 clothing: 117499
-        data["control-gen"] = np.take(control_data, indices_gen, axis=0)
+        data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control-gen"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["general-spe"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
+        data["control-spe"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general-gen', 'control-gen'], ['3', (5,2)], ["blue", "red"]):
+        for label, marker, color in zip(['general-gen', 'control-gen', 'general-spe', 'control-spe'], ['3', (5,2), '+', '1'], ["blue", 'cyan', 'yellow', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -338,8 +342,8 @@ def plot_embedding_layer_representation_with_mask():
         if i==4:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
-            l = [l[0], l[1]]
-            h = [h[0], h[1]]
+            l = [l[0], l[1], l[2], l[3]]
+            h = [h[0], h[1], h[2], h[3]]
             legend = ax.legend(h,
                             l,
                             loc='upper right',
