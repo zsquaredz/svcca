@@ -272,8 +272,8 @@ def plot_embedding_layer_representation_with_mask():
     exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
     exp_names2 = ['new_control_10_model_100_data','new_control_25_model_100_data','new_control_50_model_100_data','new_control_75_model_100_data','new_control_100_model_100_data']
     epoch1s = ['501','501','501','201','131']
-    # epoch2s = ['501','501','501','251','181'] # books
-    epoch2s = ['501','501','501','501','501'] # clothing
+    epoch2s = ['501','501','501','251','181'] # books
+    # epoch2s = ['501','501','501','501','501'] # clothing
     for i in range(5):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
