@@ -195,18 +195,19 @@ def plot_embedding_layer_representation():
     exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
     exp_names2 = ['new_control_10_model_100_data','new_control_25_model_100_data','new_control_50_model_100_data','new_control_75_model_100_data','new_control_100_model_100_data']
     epoch1s = ['501','501','501','201','131']
-    epoch2s = ['501','501','501','251','181']
+    # epoch2s = ['501','501','501','251','181']
+    epoch2s = ['501','501','501','201','131']
     for i in range(5):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
         epoch1=epoch1s[i]
 
         EXP_NAME2=exp_names2[i]
-        MODEL_CAT2='Books'
+        MODEL_CAT2='top5'
         epoch2=epoch2s[i]
 
         model_path1 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}/epoch{epoch1}/Books_layer_0_hidden_state.npy'
-        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}/epoch{epoch2}/Books_layer_0_hidden_state.npy'
+        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}/epoch{epoch2}/Clothing_Shoes_and_Jewelry_layer_0_hidden_state.npy'
         
         acts1 = np.load(model_path1) # data points x number of hidden dimension 
         acts2 = np.load(model_path2)
