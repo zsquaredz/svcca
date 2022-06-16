@@ -299,16 +299,23 @@ def plot_embedding_layer_representation_with_mask():
         general_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.general'
         specific_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.specific'
         with open(general_mask_file) as f:
-            word_mask_list = []
+            word_mask_list_gen = []
             for line in f.readlines():
-                word_mask_list += [int(x) for x in line.strip().split()]
-        assert len(word_mask_list) == acts1.shape[0] # sanity check
+                word_mask_list_gen += [int(x) for x in line.strip().split()]
+        word_mask_gen = np.array(word_mask_list_gen, dtype=bool)
+        assert len(word_mask_gen) == acts1.shape[0] # sanity check
 
+        general_data = X_3d[:size]
+        general_data = general_data[word_mask_gen]
+
+        control_data = X_3d[size:]
+        control_data = control_data[word_mask_gen]
+        
         random.seed(30)
-        indices = (random.sample(word_mask_list,k=2500))
+        indices_gen = (random.sample(range(0,len(word_mask_gen)), k=2500))
         data = {}
-        data["general-gen"] = np.take(X_3d[:size], indices, axis=0) # books: 430923 clothing: 117499
-        data["control-gen"] = np.take(X_3d[size:], indices, axis=0)
+        data["general-gen"] = np.take(general_data, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control-gen"] = np.take(control_data, indices_gen, axis=0)
 
 
         fig = plt.figure()
