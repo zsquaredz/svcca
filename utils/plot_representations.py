@@ -101,7 +101,7 @@ def plot_embedding_layer_representation():
         print(acts1.shape)
 
         X = np.concatenate((acts1, acts2),axis=0)
-        X = StandardScaler().fit_transform(X)
+        # X = StandardScaler().fit_transform(X)
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
