@@ -218,8 +218,8 @@ def plot_embedding_layer_representation():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = np.take(X_3d[:430923], indices, axis=0)
-        data["control"] = np.take(X_3d[430923:], indices, axis=0)
+        data["general"] = np.take(X_3d[:117499], indices, axis=0) # books: 430923 clothing: 117499
+        data["control"] = np.take(X_3d[117499:], indices, axis=0)
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
