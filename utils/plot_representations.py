@@ -322,7 +322,7 @@ def plot_embedding_layer_representation_with_mask():
         
         random.seed(30)
         indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=2500))
-        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=2500))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=100))
         data = {}
         data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
         data["control-gen"] = np.take(control_data_gen, indices_gen, axis=0)
