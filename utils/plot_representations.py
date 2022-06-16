@@ -207,7 +207,7 @@ def plot_embedding_layer_representation():
         epoch2=epoch2s[i]
 
         model_path1 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}/epoch{epoch1}/Books_layer_0_hidden_state.npy'
-        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}/epoch{epoch2}/Clothing_Shoes_and_Jewelry_layer_0_hidden_state.npy'
+        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT2}/epoch{epoch2}/Clothing_Shoes_and_Jewelry_layer_0_hidden_state.npy'
         
         acts1 = np.load(model_path1) # data points x number of hidden dimension 
         acts2 = np.load(model_path2)
