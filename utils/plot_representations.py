@@ -305,6 +305,13 @@ def plot_embedding_layer_representation_with_mask():
         word_mask_gen = np.array(word_mask_list_gen, dtype=bool)
         assert len(word_mask_gen) == acts1.shape[0] # sanity check
 
+        with open(specific_mask_file) as f:
+            word_mask_list_spe = []
+            for line in f.readlines():
+                word_mask_list_spe += [int(x) for x in line.strip().split()]
+        word_mask_spe = np.array(word_mask_list_spe, dtype=bool)
+        assert len(word_mask_spe) == acts1.shape[0] # sanity check
+
         general_data = X_3d[:size]
         general_data = general_data[word_mask_gen]
 
@@ -312,7 +319,8 @@ def plot_embedding_layer_representation_with_mask():
         control_data = control_data[word_mask_gen]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,len(word_mask_gen)), k=2500))
+        indices_gen = (random.sample(range(0,general_data.shape[0]), k=2500))
+        indices_spe = (random.sample(range(0,general_data.shape[0]), k=2500))
         data = {}
         data["general-gen"] = np.take(general_data, indices_gen, axis=0) # books: 430923 clothing: 117499
         data["control-gen"] = np.take(control_data, indices_gen, axis=0)
