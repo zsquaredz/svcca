@@ -313,7 +313,7 @@ def plot_embedding_layer_representation_with_mask():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "red"]):
+        for label, marker, color in zip(['general-general', 'control-general'], ['3', (5,2)], ["blue", "red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -328,15 +328,15 @@ def plot_embedding_layer_representation_with_mask():
             legend = ax.legend(h,
                             l,
                             loc='upper right',
-                            fontsize=17.5,
+                            fontsize=12.5,
                             framealpha=0.6,
-                            markerscale=2)
+                            markerscale=1)
             for lh in legend.legendHandles:
                 lh.set_alpha(1)
         ax.set_xticklabels([])
         ax.set_yticklabels([])
         # ax.axis('off')
-        fig.savefig("trial_embedding_layer_representation"+str(i)+".pdf",
+        fig.savefig("trial_embedding_layer_representation_mask"+str(i)+".pdf",
                     format='pdf',
                     bbox_inches='tight',
                     dpi=600,
