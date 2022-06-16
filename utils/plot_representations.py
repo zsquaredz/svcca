@@ -321,8 +321,8 @@ def plot_embedding_layer_representation_with_mask():
         control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=2500))
-        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=100))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
         data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
         data["control-gen"] = np.take(control_data_gen, indices_gen, axis=0)
@@ -332,7 +332,7 @@ def plot_embedding_layer_representation_with_mask():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general-gen', 'control-gen', 'general-spe', 'control-spe'], ['3', (5,2), '+', '1'], ["blue", 'cyan', 'yellow', 'magenta']):
+        for label, marker, color in zip(['general-gen', 'control-gen', 'general-spe', 'control-spe'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
