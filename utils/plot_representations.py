@@ -390,8 +390,8 @@ def plot_final_layer_representation():
         plt.clf()
 
 if __name__ == '__main__':
-    plot_embedding_weights()
-    # plot_embedding_layer_representation()
+    # plot_embedding_weights()
+    plot_embedding_layer_representation()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
