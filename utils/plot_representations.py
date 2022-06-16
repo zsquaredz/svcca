@@ -307,13 +307,13 @@ def plot_embedding_layer_representation_with_mask():
         random.seed(30)
         indices = (random.sample(word_mask_list,k=2500))
         data = {}
-        data["general"] = np.take(X_3d[:size], indices, axis=0) # books: 430923 clothing: 117499
-        data["control"] = np.take(X_3d[size:], indices, axis=0)
+        data["general-gen"] = np.take(X_3d[:size], indices, axis=0) # books: 430923 clothing: 117499
+        data["control-gen"] = np.take(X_3d[size:], indices, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general-general', 'control-general'], ['3', (5,2)], ["blue", "red"]):
+        for label, marker, color in zip(['general-gen', 'control-gen'], ['3', (5,2)], ["blue", "red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
