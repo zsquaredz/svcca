@@ -369,7 +369,7 @@ def plot_embedding_layer_representation_with_mask_data():
 
     plt.figure(dpi=600)
     exp_names1 = ['100_model_10_data','100_model_50_data','100_model_100_data','100_model_200_data']
-    exp_names2 = ['new_control_100_model_100_data','new_control_100_model_50_data','new_control_100_model_100_data','new_control_100_model_200_data']
+    exp_names2 = ['new_control_100_model_10_data','new_control_100_model_50_data','new_control_100_model_100_data','new_control_100_model_200_data']
     epoch1s = ['251','151','131','131']
     epoch2s = ['101','231','181','251'] # books
     # epoch2s = ['501','501','501','501','501'] # clothing
