@@ -141,7 +141,7 @@ def plot_five_embedding_weights():
         print(embedding1_numpy.shape)
 
         X = np.concatenate((embedding1_numpy,embedding2_numpy,embedding3_numpy,embedding4_numpy,embedding5_numpy,embedding6_numpy),axis=0)
-
+        X = StandardScaler().fit_transform(X)
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
@@ -164,8 +164,8 @@ def plot_five_embedding_weights():
         if i==4:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
-            l = [l[0], l[1]]
-            h = [h[0], h[1]]
+            l = [l[0], l[1], l[2], l[3], l[4], l[5]]
+            h = [h[0], h[1], h[2], h[3], h[4], h[5]]
             legend = ax.legend(h,
                             l,
                             loc='upper right',
