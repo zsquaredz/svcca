@@ -14,16 +14,16 @@ def plot_embedding_weights():
     exp_names1 = ['10_model_100_data','25_model_100_data','50_model_100_data','75_model_100_data','100_model_100_data']
     exp_names2 = ['new_control_10_model_100_data','new_control_25_model_100_data','new_control_50_model_100_data','new_control_75_model_100_data','new_control_100_model_100_data']
     epoch1s = ['501','501','501','201','131']
-    # epoch2s = ['501','501','501','251','181'] # books
-    epoch2s = ['501','501','501','501','501'] # clothing
+    epoch2s = ['501','501','501','251','181'] # books
+    # epoch2s = ['501','501','501','501','501'] # clothing
     for i in range(5):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
         epoch1=epoch1s[i]
 
         EXP_NAME2=exp_names2[i]
-        # MODEL_CAT2='Books'
-        MODEL_CAT2='Clothing_Shoes_and_Jewelry'
+        MODEL_CAT2='Books'
+        # MODEL_CAT2='Clothing_Shoes_and_Jewelry'
         epoch2=epoch2s[i]
 
         model_path1 = f'/disk/ocean/zheng/summarization_svcca/checkpoints/bert_base_uncased/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}-mlm/epoch{epoch1}'
