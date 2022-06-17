@@ -120,7 +120,7 @@ def plot_embedding_weights1():
                     marker=marker,
                     color=color,
                     alpha=0.5)
-        if i==4:
+        if i==3:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
             l = [l[0], l[1]]
@@ -128,9 +128,9 @@ def plot_embedding_weights1():
             legend = ax.legend(h,
                             l,
                             loc='upper right',
-                            fontsize=17.5,
+                            fontsize=15,
                             framealpha=0.6,
-                            markerscale=2)
+                            markerscale=1)
             for lh in legend.legendHandles:
                 lh.set_alpha(1)
         ax.set_xticklabels([])
