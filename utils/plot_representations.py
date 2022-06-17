@@ -126,7 +126,7 @@ def plot_embedding_weights1():
             if label == 'general':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='cyan') for idx,word in specific_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='magenta') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='lime') for idx,word in specific_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -400,15 +400,15 @@ def plot_embedding_layer_representation_with_mask1():
         indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
-        data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
-        data["control-gen"] = np.take(control_data_gen, indices_gen, axis=0)
-        data["general-spe"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
-        data["control-spe"] = np.take(control_data_spe, indices_spe, axis=0)
+        data["general-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control-general"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["general-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
+        data["control-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general-gen', 'control-gen', 'general-spe', 'control-spe'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+        for label, marker, color in zip(['general-general', 'control-general', 'general-specific', 'control-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -423,7 +423,7 @@ def plot_embedding_layer_representation_with_mask1():
             legend = ax.legend(h,
                             l,
                             loc='upper right',
-                            fontsize=12.5,
+                            fontsize=12,
                             framealpha=0.6,
                             markerscale=1)
             for lh in legend.legendHandles:
