@@ -775,7 +775,7 @@ def plot_final_layer_representation_with_mask1():
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
     # epoch2s = ['501','501','501','501','501'] # clothing
-    for i in range(5):
+    for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
         epoch1=epoch1s[i]
@@ -840,7 +840,7 @@ def plot_final_layer_representation_with_mask1():
                     marker=marker,
                     color=color,
                     alpha=0.5)
-        if i==4:
+        if i==3:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
             l = [l[0], l[1], l[2], l[3]]
