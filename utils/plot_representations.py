@@ -872,4 +872,4 @@ if __name__ == '__main__':
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
-    plot_final_layer_representation_with_mask()
+    plot_final_layer_representation_with_mask1()
