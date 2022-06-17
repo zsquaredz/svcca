@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.decomposition import PCA
 import random
 from sklearn.preprocessing import StandardScaler
+from adjustText import adjust_text
 
 
 def plot_embedding_weights():
@@ -83,6 +84,7 @@ def plot_embedding_weights1():
     exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
+    specific_words = [(7592, 'hello'), (2646, 'toward'), (8401, 'harsh'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone')]
     for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
@@ -120,6 +122,8 @@ def plot_embedding_weights1():
                     marker=marker,
                     color=color,
                     alpha=0.5)
+            texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5) for idx,word in specific_words]
+            adjust_text(texts)
         if i==3:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
@@ -135,6 +139,7 @@ def plot_embedding_weights1():
                 lh.set_alpha(1)
         ax.set_xticklabels([])
         ax.set_yticklabels([])
+        
         # ax.axis('off')
         fig.savefig("trial-"+str(i)+".pdf",
                     format='pdf',
@@ -865,11 +870,11 @@ def plot_final_layer_representation_with_mask1():
         plt.clf()
 
 if __name__ == '__main__':
-    # plot_embedding_weights1()
+    plot_embedding_weights1()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask()
     # plot_embedding_layer_representation_with_mask_data()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
-    plot_final_layer_representation_with_mask1()
+    # plot_final_layer_representation_with_mask1()
