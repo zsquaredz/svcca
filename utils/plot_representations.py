@@ -84,7 +84,8 @@ def plot_embedding_weights1():
     exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
-    specific_words = [(7592, 'hello'), (2646, 'toward'), (8401, 'harsh'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone')]
+    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone'), 
+    (22524, 'appendix'), (8544,'publishers'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical')]
     for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
