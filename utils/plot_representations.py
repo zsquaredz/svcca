@@ -126,7 +126,7 @@ def plot_embedding_weights1():
             if label == 'general':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='cyan') for idx,word in specific_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='black') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='magenta') for idx,word in specific_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -333,6 +333,105 @@ def plot_embedding_layer_representation():
         ax.set_yticklabels([])
         # ax.axis('off')
         fig.savefig("trial_embedding_layer_representation"+str(i)+".pdf",
+                    format='pdf',
+                    bbox_inches='tight',
+                    dpi=600,
+                    transparent=True)
+
+        plt.clf()
+
+def plot_embedding_layer_representation_with_mask1():
+    # random.seed(30)
+    # indices = (random.sample(range(0,117499),k=2500)) # books: 430923 clothing: 117499
+
+    plt.figure(dpi=600)
+    exp_names1 = ['10_model_10_data','10_model_100_data','100_model_10_data','100_model_100_data']
+    exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
+    epoch1s = ['501','501','251','131']
+    epoch2s = ['501','501','101','181'] # books
+    # epoch2s = ['501','501','501','501','501'] # clothing
+    for i in range(4):
+        EXP_NAME1=exp_names1[i]
+        MODEL_CAT1='top5'
+        epoch1=epoch1s[i]
+
+        EXP_NAME2=exp_names2[i]
+        MODEL_CAT2='Books'
+        epoch2=epoch2s[i]
+
+        model_path1 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}/epoch{epoch1}/Books_layer_0_hidden_state.npy'
+        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}/epoch{epoch2}/Books_layer_0_hidden_state.npy'
+        
+        acts1 = np.load(model_path1) # data points x number of hidden dimension 
+        acts2 = np.load(model_path2)
+        print(acts1.shape)
+
+        X = np.concatenate((acts1, acts2),axis=0)
+        X = StandardScaler().fit_transform(X)
+        X_3d = PCA(n_components=2).fit_transform(X)
+        print(X_3d.shape)
+        size = X_3d.shape[0]//2
+
+        general_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.general'
+        specific_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.specific'
+        with open(general_mask_file) as f:
+            word_mask_list_gen = []
+            for line in f.readlines():
+                word_mask_list_gen += [int(x) for x in line.strip().split()]
+        word_mask_gen = np.array(word_mask_list_gen, dtype=bool)
+        assert len(word_mask_gen) == acts1.shape[0] # sanity check
+
+        with open(specific_mask_file) as f:
+            word_mask_list_spe = []
+            for line in f.readlines():
+                word_mask_list_spe += [int(x) for x in line.strip().split()]
+        word_mask_spe = np.array(word_mask_list_spe, dtype=bool)
+        assert len(word_mask_spe) == acts1.shape[0] # sanity check
+
+        general_data = X_3d[:size]
+        general_data_gen = general_data[word_mask_gen]
+        general_data_spe = general_data[word_mask_spe]
+
+        control_data = X_3d[size:]
+        control_data_gen = control_data[word_mask_gen]
+        control_data_spe = control_data[word_mask_spe]
+        
+        random.seed(30)
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
+        data = {}
+        data["general-gen"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control-gen"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["general-spe"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
+        data["control-spe"] = np.take(control_data_spe, indices_spe, axis=0)
+
+
+        fig = plt.figure()
+        ax = fig.add_subplot(111)
+        for label, marker, color in zip(['general-gen', 'control-gen', 'general-spe', 'control-spe'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+            X_temp = data[label]
+            ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
+                    label=label,
+                    marker=marker,
+                    color=color,
+                    alpha=0.5)
+        if i==3:
+            legend = ax.legend()
+            h, l = ax.get_legend_handles_labels()
+            l = [l[0], l[1], l[2], l[3]]
+            h = [h[0], h[1], h[2], h[3]]
+            legend = ax.legend(h,
+                            l,
+                            loc='upper right',
+                            fontsize=12.5,
+                            framealpha=0.6,
+                            markerscale=1)
+            for lh in legend.legendHandles:
+                lh.set_alpha(1)
+        ax.set_xticklabels([])
+        ax.set_yticklabels([])
+        # ax.axis('off')
+        fig.savefig("trial_embedding_layer_representation_mask-"+str(i)+".pdf",
                     format='pdf',
                     bbox_inches='tight',
                     dpi=600,
@@ -876,7 +975,7 @@ def plot_final_layer_representation_with_mask1():
 if __name__ == '__main__':
     plot_embedding_weights1()
     # plot_embedding_layer_representation()
-    # plot_embedding_layer_representation_with_mask()
+    plot_embedding_layer_representation_with_mask1()
     # plot_embedding_layer_representation_with_mask_data()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
