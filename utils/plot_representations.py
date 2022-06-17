@@ -123,7 +123,10 @@ def plot_embedding_weights1():
                     marker=marker,
                     color=color,
                     alpha=0.5)
-            texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5) for idx,word in specific_words]
+            if label == 'general':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='cyan') for idx,word in specific_words]
+            else:
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='black') for idx,word in specific_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -133,7 +136,7 @@ def plot_embedding_weights1():
             legend = ax.legend(h,
                             l,
                             loc='upper right',
-                            fontsize=15,
+                            fontsize=12,
                             framealpha=0.6,
                             markerscale=1)
             for lh in legend.legendHandles:
