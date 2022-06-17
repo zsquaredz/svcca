@@ -126,7 +126,7 @@ def plot_embedding_weights1():
             if label == 'general':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='cyan') for idx,word in specific_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='lime') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='green') for idx,word in specific_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -975,7 +975,7 @@ def plot_final_layer_representation_with_mask1():
 if __name__ == '__main__':
     plot_embedding_weights1()
     # plot_embedding_layer_representation()
-    plot_embedding_layer_representation_with_mask1()
+    # plot_embedding_layer_representation_with_mask1()
     # plot_embedding_layer_representation_with_mask_data()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
