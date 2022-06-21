@@ -193,8 +193,8 @@ def plot_embedding_weights2():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        # for label, marker, color in zip(['general'], ['3'], ["blue"]):
-        for label, marker, color in zip(['control'], [(5,2)], ["red"]):
+        for label, marker, color in zip(['general'], ['3'], ["blue"]):
+        # for label, marker, color in zip(['control'], [(5,2)], ["red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -225,7 +225,7 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-c-"+str(i)+".pdf",
+        fig.savefig("trial-g-"+str(i)+".pdf",
                     format='pdf',
                     bbox_inches='tight',
                     dpi=1200,
