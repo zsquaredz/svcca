@@ -7,7 +7,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=100 # 10, 25, 50, 75, 100
 # SVD_DIM=700 # 68, 180, 365, 535, 700
-mask_type=freq001 # can be either general or specific for the mask file freq001/infreq50
+mask_type=infreq50 # can be either general or specific for the mask file freq001/infreq50
 for m in {10,25,50,75,100}
 do
   for d in {10,50,100,200}
