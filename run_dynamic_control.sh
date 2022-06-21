@@ -7,9 +7,9 @@ cd /disk/ocean/zheng/svcca/
 
 # m=100 # 10, 25, 50, 75, 100
 # SVD_DIM=700 # 68, 180, 365, 535, 700
-for m in {10,25,50,75,100}
+for m in {50,}
 do
-  for d in {10,50,100,200}
+  for d in {100,}
     do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
@@ -100,7 +100,7 @@ do
     fi
 
     #layer=8
-    for layer in {0,12}
+    for layer in {0,1,2,3,4,5,6,7,8,9,10,11,12}
     do
       epoch1=0
       epoch2=${epoch2_best}
