@@ -147,8 +147,8 @@ def plot_embedding_weights1():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-"+str(i)+".pdf",
-                    format='pdf',
+        fig.savefig("trial-"+str(i)+".png",
+                    format='png',
                     bbox_inches='tight',
                     dpi=1200,
                     transparent=True)
@@ -225,8 +225,8 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-g-"+str(i)+".pdf",
-                    format='pdf',
+        fig.savefig("trial-g-"+str(i)+".png",
+                    format='png',
                     bbox_inches='tight',
                     dpi=1200,
                     transparent=True)
@@ -1053,6 +1053,7 @@ def plot_final_layer_representation_with_mask1():
         plt.clf()
 
 if __name__ == '__main__':
+    plot_embedding_weights1()
     plot_embedding_weights2()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask1()
