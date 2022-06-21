@@ -225,7 +225,7 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-g-"+str(i)+".pdf",
+        fig.savefig("trial-c-"+str(i)+".pdf",
                     format='pdf',
                     bbox_inches='tight',
                     dpi=1200,
