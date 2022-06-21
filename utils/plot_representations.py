@@ -124,11 +124,11 @@ def plot_embedding_weights1():
                     color=color,
                     alpha=0.5)
             if label == 'general':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'S', fontsize=12.5, color='cyan') for idx,word in specific_words]
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'G', fontsize=12.5, color='cyan') for idx,word in general_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g*', fontsize=12.5, color='black') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx,word in general_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'S', fontsize=12.5, color='black') for idx,word in specific_words]
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'G', fontsize=12.5, color='black') for idx,word in general_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'c*', fontsize=12.5, color='black') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'c', fontsize=12.5, color='black') for idx,word in general_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
