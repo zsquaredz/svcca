@@ -84,8 +84,8 @@ def plot_embedding_weights1():
     exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
-    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone'), 
-    (22524, 'appendix'), (8544,'publishers'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical')]
+    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone')] 
+    general_words = [(22524, 'appendix'), (8544,'publishers'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical')]
     for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
@@ -124,9 +124,11 @@ def plot_embedding_weights1():
                     color=color,
                     alpha=0.5)
             if label == 'general':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='cyan') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'S', fontsize=12.5, color='cyan') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'G', fontsize=12.5, color='cyan') for idx,word in general_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='green') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'S', fontsize=12.5, color='black') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'G', fontsize=12.5, color='black') for idx,word in general_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -935,13 +937,13 @@ def plot_final_layer_representation_with_mask1():
         data = {}
         data["general-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
         data["control-general"] = np.take(control_data_gen, indices_gen, axis=0)
-        data["general-special"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
-        data["control-special"] = np.take(control_data_spe, indices_spe, axis=0)
+        data["general-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
+        data["control-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general-general', 'control-general', 'general-special', 'control-special'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+        for label, marker, color in zip(['general-general', 'control-general', 'general-specific', 'control-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
