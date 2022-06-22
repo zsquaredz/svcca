@@ -193,8 +193,8 @@ def plot_embedding_weights2():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['experimental'], ['3'], ["blue"]):
-        # for label, marker, color in zip(['control'], [(5,2)], ["red"]):
+        # for label, marker, color in zip(['experimental'], ['3'], ["blue"]):
+        for label, marker, color in zip(['control'], [(5,2)], ["red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -205,8 +205,8 @@ def plot_embedding_weights2():
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx,word in specific_words]
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx,word in general_words]
             else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx,word in specific_words]
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx,word in general_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='black') for idx,word in specific_words]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], word, fontsize=12.5, color='black') for idx,word in general_words]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -225,7 +225,7 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-g-"+str(i)+".png",
+        fig.savefig("trial-s-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
@@ -1053,8 +1053,8 @@ def plot_final_layer_representation_with_mask1():
         plt.clf()
 
 if __name__ == '__main__':
-    plot_embedding_weights1()
-    # plot_embedding_weights2()
+    # plot_embedding_weights1()
+    plot_embedding_weights2()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask1()
     # plot_embedding_layer_representation_with_mask_data()
