@@ -7356,14 +7356,11 @@ Fraction of variance explained by 535 singular vectors for input2 0.98946995
 top36 mask has been applied, SVD done
 result 0.742479383850239
 currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-37
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 535 singular vectors for input1 0.9912613
 Fraction of variance explained by 535 singular vectors for input2 0.98946995
 top37 mask has been applied, SVD done
+result 0.701177723282638
 currently doing 75_model_10_data epoch 501, new_control_75_model_10_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-38
 starting to perform SVD
 Fraction of variance explained by 535 singular vectors for input1 0.9912613
@@ -8447,12 +8444,11 @@ Fraction of variance explained by 535 singular vectors for input2 0.99203485
 top20 mask has been applied, SVD done
 result 0.851383850982874
 currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-21
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 535 singular vectors for input1 0.9929878
 Fraction of variance explained by 535 singular vectors for input2 0.99203485
 top21 mask has been applied, SVD done
+result 0.811383850982874
 currently doing 75_model_100_data epoch 201, new_control_75_model_100_data epoch 251, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-22
 starting to perform SVD
 Fraction of variance explained by 535 singular vectors for input1 0.9929878
@@ -9746,14 +9742,11 @@ Fraction of variance explained by 700 singular vectors for input2 0.98924965
 top39 mask has been applied, SVD done
 result 0.4968960409704838
 currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-40
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9902264
 Fraction of variance explained by 700 singular vectors for input2 0.98924965
 top40 mask has been applied, SVD done
+result 0.4868960409704838
 currently doing 100_model_10_data epoch 251, new_control_100_model_10_data epoch 101, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-41
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9902264
@@ -10193,6 +10186,7 @@ starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99087536
 Fraction of variance explained by 700 singular vectors for input2 0.99028987
 top15 mask has been applied, SVD done
+result 0.7089618297521682
 currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-16
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99087536
@@ -10348,14 +10342,11 @@ Fraction of variance explained by 700 singular vectors for input2 0.99028987
 top41 mask has been applied, SVD done
 result 0.6120928341893224
 currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-42
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99087536
 Fraction of variance explained by 700 singular vectors for input2 0.99028987
 top42 mask has been applied, SVD done
+result 0.5720928341893224
 currently doing 100_model_50_data epoch 151, new_control_100_model_50_data epoch 231, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-43
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99087536
@@ -10825,14 +10816,11 @@ Fraction of variance explained by 700 singular vectors for input2 0.9903747
 top22 mask has been applied, SVD done
 result 0.6921801855454376
 currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-23
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9909823
 Fraction of variance explained by 700 singular vectors for input2 0.9903747
 top23 mask has been applied, SVD done
+result 0.6821801855454376
 currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-24
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9909823
@@ -10930,14 +10918,11 @@ Fraction of variance explained by 700 singular vectors for input2 0.9903747
 top39 mask has been applied, SVD done
 result 0.4975865563256687
 currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-40
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
-
-Intel MKL ERROR: Parameter 4 was incorrect on entry to DLASCL.
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9909823
 Fraction of variance explained by 700 singular vectors for input2 0.9903747
 top40 mask has been applied, SVD done
+result 0.4875865563256687
 currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-41
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.9909823
@@ -11341,6 +11326,7 @@ starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736
 Fraction of variance explained by 700 singular vectors for input2 0.9909751
 top9 mask has been applied, SVD done
+result 0.833367109619277
 currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-10
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736
@@ -11382,6 +11368,7 @@ starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736
 Fraction of variance explained by 700 singular vectors for input2 0.9909751
 top16 mask has been applied, SVD done
+result 0.6986238661525308
 currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-17
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736
@@ -11464,6 +11451,7 @@ starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736
 Fraction of variance explained by 700 singular vectors for input2 0.9909751
 top30 mask has been applied, SVD done
+result 0.5969009030190131
 currently doing 100_model_200_data epoch 131, new_control_100_model_200_data epoch 151, seed-1-Model-top5-layer-0, seed-1-Model-Books-layer-0, and word mask freq for top-31
 starting to perform SVD
 Fraction of variance explained by 700 singular vectors for input1 0.99146736

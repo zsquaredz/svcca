@@ -1,0 +1,258 @@
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-1
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top1 mask has been applied, SVD done
+result 0.3670802160457866
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-3
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top3 mask has been applied, SVD done
+result 0.3966697918764874
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-4
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top4 mask has been applied, SVD done
+result 0.4123966590895031
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-5
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top5 mask has been applied, SVD done
+result 0.4098163331652913
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-6
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top6 mask has been applied, SVD done
+result 0.47891129999734056
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-7
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top7 mask has been applied, SVD done
+result 0.48275993826798674
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-8
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top8 mask has been applied, SVD done
+result 0.40975467821057954
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-9
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top9 mask has been applied, SVD done
+result 0.451744827263836
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-10
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top10 mask has been applied, SVD done
+result 0.5676075547953131
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-11
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top11 mask has been applied, SVD done
+result 0.4610085791681878
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-12
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top12 mask has been applied, SVD done
+result 0.5418543596747127
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-13
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top13 mask has been applied, SVD done
+result 0.5736473523996052
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-14
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top14 mask has been applied, SVD done
+result 0.47396276960112055
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-15
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top15 mask has been applied, SVD done
+result 0.5149812156397181
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-17
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top17 mask has been applied, SVD done
+result 0.5813992342809156
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-18
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top18 mask has been applied, SVD done
+result 0.5812263472544164
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-19
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top19 mask has been applied, SVD done
+result 0.6171634643866187
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-20
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top20 mask has been applied, SVD done
+result 0.8338520889796621
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-22
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top22 mask has been applied, SVD done
+result 0.7440010669112864
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-23
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top23 mask has been applied, SVD done
+result 0.6439882503429427
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-24
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top24 mask has been applied, SVD done
+result 0.5919522851552347
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-25
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top25 mask has been applied, SVD done
+result 0.642582052528607
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-26
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top26 mask has been applied, SVD done
+result 0.7334587472223592
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-27
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top27 mask has been applied, SVD done
+result 0.6199057639741795
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-28
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top28 mask has been applied, SVD done
+result 0.8207250547203726
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-29
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top29 mask has been applied, SVD done
+result 0.737494387688133
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-30
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top30 mask has been applied, SVD done
+result 0.7442374883055668
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-31
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top31 mask has been applied, SVD done
+result 0.7456907381714339
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-32
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top32 mask has been applied, SVD done
+result 0.7431900228513273
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-33
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top33 mask has been applied, SVD done
+result 0.8535845475011846
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-34
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top34 mask has been applied, SVD done
+result 0.803837286162952
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-35
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top35 mask has been applied, SVD done
+result 0.9324042293419588
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-36
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top36 mask has been applied, SVD done
+result 0.7179193380347636
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-37
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top37 mask has been applied, SVD done
+result 0.8873698889555174
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-38
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top38 mask has been applied, SVD done
+result 0.7689598850938052
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-39
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top39 mask has been applied, SVD done
+result 0.8954954711685426
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-40
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top40 mask has been applied, SVD done
+result 0.9602471860111836
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-41
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top41 mask has been applied, SVD done
+result 0.9236403059118901
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-42
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top42 mask has been applied, SVD done
+result 0.6668602438777501
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-44
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top44 mask has been applied, SVD done
+result 0.76907353168483
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-46
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top46 mask has been applied, SVD done
+result 0.8005157390580817
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-48
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top48 mask has been applied, SVD done
+result 0.8984194773411189
+currently doing 100_model_100_data epoch 131, new_control_100_model_100_data epoch 181, seed-1-Model-top5-layer-12, seed-1-Model-Books-layer-12, and word mask freq for top-49
+starting to perform SVD
+Fraction of variance explained by 700 singular vectors for input1 0.9895287
+Fraction of variance explained by 700 singular vectors for input2 0.99318653
+top49 mask has been applied, SVD done
+result 0.951101878482041
