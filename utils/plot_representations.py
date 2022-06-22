@@ -150,7 +150,7 @@ def plot_embedding_weights1():
         fig.savefig("trial-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
-                    dpi=1200,
+                    dpi=600,
                     transparent=True)
 
         plt.clf()
@@ -228,7 +228,7 @@ def plot_embedding_weights2():
         fig.savefig("trial-g-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
-                    dpi=1200,
+                    dpi=600,
                     transparent=True)
 
         plt.clf()
