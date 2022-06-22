@@ -161,8 +161,8 @@ def plot_embedding_weights2():
     exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
-    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone')] 
-    general_words = [(22524, 'appendix'), (8544,'publishers'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical')]
+    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone'), (6135, 'totally'), (3465, 'cost'), (2691, 'common'), (2767, 'friend'), (4863, 'explain')] 
+    general_words = [(22524, 'appendix'), (8544,'publishers'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical'), (7672, 'democrat'), (5640, 'arabic'), (14671, 'diabetes'), (9672, 'gripped'), (16926, 'academia')]
     for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
@@ -1053,7 +1053,7 @@ def plot_final_layer_representation_with_mask1():
         plt.clf()
 
 if __name__ == '__main__':
-    plot_embedding_weights1()
+    # plot_embedding_weights1()
     plot_embedding_weights2()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask1()
