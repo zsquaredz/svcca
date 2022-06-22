@@ -1053,8 +1053,8 @@ def plot_final_layer_representation_with_mask1():
         plt.clf()
 
 if __name__ == '__main__':
-    # plot_embedding_weights1()
-    plot_embedding_weights2()
+    plot_embedding_weights1()
+    # plot_embedding_weights2()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask1()
     # plot_embedding_layer_representation_with_mask_data()
