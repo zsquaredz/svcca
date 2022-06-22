@@ -42,12 +42,12 @@ def plot_embedding_weights():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = X_3d[:30522]
+        data["experimental"] = X_3d[:30522]
         data["control"] = X_3d[30522:]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "red"]):
+        for label, marker, color in zip(['experimental', 'control'], ['3', (5,2)], ["blue", "red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -111,19 +111,19 @@ def plot_embedding_weights1():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = X_3d[:30522]
+        data["experimental"] = X_3d[:30522]
         data["control"] = X_3d[30522:]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general', 'control'], ['3', (5,2)], ["blue", "red"]):
+        for label, marker, color in zip(['experimental', 'control'], ['3', (5,2)], ["blue", "red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
                     marker=marker,
                     color=color,
                     alpha=0.5)
-            # if label == 'general':
+            # if label == 'experimental':
             #     texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g*', fontsize=12.5, color='black') for idx,word in specific_words]
             #     texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx,word in general_words]
             # else:
@@ -188,20 +188,20 @@ def plot_embedding_weights2():
         X_3d = PCA(n_components=2).fit_transform(X)
         print(X_3d.shape)
         data = {}
-        data["general"] = X_3d[:30522]
+        data["experimental"] = X_3d[:30522]
         data["control"] = X_3d[30522:]
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['general'], ['3'], ["blue"]):
-        # for label, marker, color in zip(['control'], [(5,2)], ["red"]):
+        # for label, marker, color in zip(['experimental'], ['3'], ["blue"]):
+        for label, marker, color in zip(['control'], [(5,2)], ["red"]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
                     marker=marker,
                     color=color,
                     alpha=0.5)
-            if label == 'general':
+            if label == 'experimental':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx,word in specific_words]
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx,word in general_words]
             else:
@@ -225,7 +225,7 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-g-"+str(i)+".png",
+        fig.savefig("trial-c-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
