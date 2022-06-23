@@ -576,31 +576,36 @@ def plot_embedding_layer_representation_with_mask2():
         control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=10))
-        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=10))
-        indices_exp = (random.sample(range(0,general_data.shape[0]), k=5000))
-        indices_con = (random.sample(range(0,control_data.shape[0]), k=5000))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
-        data["experimental"] = np.take(general_data, indices_exp, axis=0) # books: 430923 clothing: 117499
-        data["control"] = np.take(control_data, indices_con, axis=0)
+        data["experimental-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control-general"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["experimental-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
+        data["control-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['experimental'], ['3'], ["blue"]):
-        # for label, marker, color in zip(['control'], [ (5,2)], ['red']):
+        for label, marker, color in zip(['experimental-general', 'experimental-specific'], ['3'], ["blue"]):
+        # for label, marker, color in zip(['control-general', 'control-specific], [ (5,2)], ['red']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
                     marker=marker,
                     color=color,
                     alpha=0.5)
-            if label == 'experimental':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe]
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen]
-            else:
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe]
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen]
+            random.seed(30)
+            indices_gen1 = (random.sample(range(0,1000), k=10))
+            indices_spe1 = (random.sample(range(0,1000), k=10))
+            if label == 'experimental-general':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
+            elif label == 'experimental-specific':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
+            elif label == 'control-general':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
+            elif label == 'control-specific':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
