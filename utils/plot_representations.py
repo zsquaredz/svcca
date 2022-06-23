@@ -579,15 +579,15 @@ def plot_embedding_layer_representation_with_mask2():
         indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
-        data["experimental-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
-        data["control-general"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["experimental"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
+        data["control"] = np.take(control_data_gen, indices_gen, axis=0)
         data["experimental-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
         data["control-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['experimental-general', 'experimental-specific'], ['3'], ["blue"]):
+        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3'], ["blue"]):
         # for label, marker, color in zip(['control-general', 'control-specific], [ (5,2)], ['red']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
@@ -595,14 +595,15 @@ def plot_embedding_layer_representation_with_mask2():
                     marker=marker,
                     color=color,
                     alpha=0.5)
-            random.seed(30)
+            random.seed(31)
             indices_gen1 = (random.sample(range(0,1000), k=10))
+            random.seed(35)
             indices_spe1 = (random.sample(range(0,1000), k=10))
-            if label == 'experimental-general':
+            if label == 'experimental':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
             elif label == 'experimental-specific':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
-            elif label == 'control-general':
+            elif label == 'control':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
             elif label == 'control-specific':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
