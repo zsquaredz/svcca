@@ -576,10 +576,10 @@ def plot_embedding_layer_representation_with_mask2():
         control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
-        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
-        indices_exp = (random.sample(range(0,general_data.shape[0]), k=1000))
-        indices_con = (random.sample(range(0,control_data.shape[0]), k=1000))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=10))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=10))
+        indices_exp = (random.sample(range(0,general_data.shape[0]), k=5000))
+        indices_con = (random.sample(range(0,control_data.shape[0]), k=5000))
         data = {}
         data["experimental"] = np.take(general_data, indices_exp, axis=0) # books: 430923 clothing: 117499
         data["control"] = np.take(control_data, indices_con, axis=0)
@@ -595,6 +595,13 @@ def plot_embedding_layer_representation_with_mask2():
                     marker=marker,
                     color=color,
                     alpha=0.5)
+            if label == 'experimental':
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen]
+            else:
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen]
+            adjust_text(texts)
         if i==3:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
