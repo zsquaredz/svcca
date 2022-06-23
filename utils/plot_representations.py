@@ -597,8 +597,10 @@ def plot_embedding_layer_representation_with_mask2():
                     alpha=0.5)
             random.seed(31)
             indices_gen1 = (random.sample(range(0,5000), k=10))
+            print(indices_gen1)
             random.seed(35)
             indices_spe1 = (random.sample(range(0,1000), k=10))
+            print(indices_spe1)
             if label == 'experimental':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
             elif label == 'experimental-specific':
