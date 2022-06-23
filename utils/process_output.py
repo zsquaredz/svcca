@@ -359,19 +359,19 @@ if __name__ == '__main__':
     #                      title='SVCCA correlation between gereral and control model with freq mask for layer ',
     #                      file_name='general_vs_control_with_general_words')
 
-    # read_out_file_domain('out_new/books_movies_all_model_all_data_with_freq001_mask_top5_control_layers_0_12.txt',
+    # read_out_file_domain('out_new/books_movies_all_model_all_data_with_freq2030_mask_top5_control_layers_0_12.txt',
     #                      '',
     #                      domains=['Books', 'Movies_and_TV'],
     #                      layers=[0,12],
     #                      title='SVCCA correlation between gereral and control model with freq mask for layer ',
-    #                      file_name='general_vs_control_with_freq001_words')
+    #                      file_name='general_vs_control_with_freq2030_words')
 
-    # read_out_file_domain('out_new/books_all_model_all_data_with_freq001_mask_top5_control_layers_0_12.txt',
+    # read_out_file_domain('out_new/books_all_model_all_data_with_bookSinfreq_mask_top5_control_layers_0_12.txt',
     #                      '',
     #                      domains=['Books'],
     #                      layers=[0,12],
     #                      title='SVCCA correlation between gereral and control model with freq mask for layer ',
-    #                      file_name='general_vs_control_with_freq001_words')
+    #                      file_name='general_vs_control_with_bookSinfreq_words')
 
     # read_out_file_new_domain('out/all_model_all_data_top5sports_oracle.txt',
     #                      '',
@@ -388,18 +388,18 @@ if __name__ == '__main__':
     # read_attention_out_file('out/corr_top5_seed1_book_seed1_all_attentions.txt')
 
 
-    with open('out_new/books_dynamic_all_model_all_data_top5_control_layers_0_12.txt.pkl','rb') as f:
-        data = pickle.load(f)
-    # print(data)
-    with open('out_new/books_dynamic_all_model_all_data_with_general_mask_top5_control_layers_0_12_new.txt.pkl','rb') as f:
-        data_general = pickle.load(f)
-    with open('out_new/books_dynamic_all_model_all_data_with_specific_mask_top5_control_layers_0_12_new.txt.pkl','rb') as f:
-        data_specific = pickle.load(f)
+    # with open('out_new/books_dynamic_all_model_all_data_top5_control_layers_0_12.txt.pkl','rb') as f:
+    #     data = pickle.load(f)
+    # # print(data)
+    # with open('out_new/books_dynamic_all_model_all_data_with_general_mask_top5_control_layers_0_12_new.txt.pkl','rb') as f:
+    #     data_general = pickle.load(f)
+    # with open('out_new/books_dynamic_all_model_all_data_with_specific_mask_top5_control_layers_0_12_new.txt.pkl','rb') as f:
+    #     data_specific = pickle.load(f)
 
-    # # # a = [0.83,0.833,0.863,0.905,0.935,0.954,0.958,0.955,0.952,0.948,0.942,0.933,0.924,0.916,0.909,0.902,0.896,0.889,0.883,0.877,0.872,0.867,0.862,0.857,0.853,0.848,0.844,0.84,0.837,0.833,0.83,0.827,0.824,0.821,0.819,0.816,0.815,0.813,0.811,0.81,0.808,0.807,0.806,0.805,0.804,0.804,0.803,0.803,0.802,0.802,0.802,0.802]
-    # # # b = [0.834,0.836,0.864,0.9,0.93,0.952,0.958,0.958,0.953,0.946,0.94,0.935,0.928,0.922,0.915,0.906,0.898,0.889,0.882,0.874,0.871,0.864,0.859,0.854,0.849,0.845,0.841,0.837,0.834,0.831,0.828,0.824,0.821,0.819,0.817,0.814,0.812,0.81,0.809,0.807,0.806,0.804,0.803,0.802,0.801,0.8,0.799,0.799,0.799,0.798,0.798,0.798]
-    ms = [10,25,50,75,100]
-    ds = [10,50,100,200]
+    # # # # a = [0.83,0.833,0.863,0.905,0.935,0.954,0.958,0.955,0.952,0.948,0.942,0.933,0.924,0.916,0.909,0.902,0.896,0.889,0.883,0.877,0.872,0.867,0.862,0.857,0.853,0.848,0.844,0.84,0.837,0.833,0.83,0.827,0.824,0.821,0.819,0.816,0.815,0.813,0.811,0.81,0.808,0.807,0.806,0.805,0.804,0.804,0.803,0.803,0.802,0.802,0.802,0.802]
+    # # # # b = [0.834,0.836,0.864,0.9,0.93,0.952,0.958,0.958,0.953,0.946,0.94,0.935,0.928,0.922,0.915,0.906,0.898,0.889,0.882,0.874,0.871,0.864,0.859,0.854,0.849,0.845,0.841,0.837,0.834,0.831,0.828,0.824,0.821,0.819,0.817,0.814,0.812,0.81,0.809,0.807,0.806,0.804,0.803,0.802,0.801,0.8,0.799,0.799,0.799,0.798,0.798,0.798]
+    # ms = [10,25,50,75,100]
+    # ds = [10,50,100,200]
 
     # # portrait full 
     # fig, ax = plt.subplots(nrows=5, ncols=4, figsize=(10,10))
@@ -428,33 +428,33 @@ if __name__ == '__main__':
     # # plt.show() 
     # plt.savefig('figures/books_training_dynamics_full.pdf') 
 
-    # portrait partial (without m=10 row and no all-lexicon) 
-    ms = [25,50,75,100]
-    fig, ax = plt.subplots(nrows=4, ncols=4, figsize=(10,8))
-    for i, row in enumerate(ax):
-        for j, col in enumerate(row):
-            idx = i * len(ds) + j
-            idx += 4 # inflating since we skip m=10 row (4 plots)
-            idx0 = idx * 2 # for layer 0
-            idx12 = idx * 2 + 1 # for layer 12
-            # col.plot(data[idx0],color='r',ls='-', label='layer0')
-            # col.plot(data[idx12],color='r',ls='--', label='layer12')
-            col.plot(data_general[idx0],color='b',ls='-', label='layer0')
-            col.plot(data_general[idx12],color='b',ls='--', label='layer12')
-            col.plot(data_specific[idx0],color='r',ls='-', label='layer0')
-            col.plot(data_specific[idx12],color='r',ls='--', label='layer12')
-            if len(data[idx0]) < 20:
-                col.set_xticks(np.arange(0,len(data[idx0]), step=5), [z*10 for z in range(0,len(data[idx0]),5)])
-            else:
-                col.set_xticks(np.arange(0,len(data[idx0]), step=10), [z*10 for z in range(0,len(data[idx0]),10)])
-            # if i == len(ax)-1 and j == 3:
-            #     col.legend(['embedding-all', 'embedding-general', 'embedding-specific', 'layer12-all', 'layer12-general', 'layer12-specific'], loc='upper left', bbox_to_anchor=(-1., -0.1))
-            title = 'm='+str(ms[i])+'%'+' d='+str(ds[j])+'%'
-            col.set_title(title)
-    fig.legend(['embedding-general-lexicon', 'layer12-general-lexicon', 'embedding-specific-lexicon', 'layer12-specific-lexicon'], loc='lower left', bbox_to_anchor=(0.02, 0.), ncol=4)
-    plt.tight_layout(rect=[0,0.06,1,1])
-    # plt.show() 
-    plt.savefig('figures/books_training_dynamics_partial.pdf') 
+    # # portrait partial (without m=10 row and no all-lexicon) 
+    # ms = [25,50,75,100]
+    # fig, ax = plt.subplots(nrows=4, ncols=4, figsize=(10,8))
+    # for i, row in enumerate(ax):
+    #     for j, col in enumerate(row):
+    #         idx = i * len(ds) + j
+    #         idx += 4 # inflating since we skip m=10 row (4 plots)
+    #         idx0 = idx * 2 # for layer 0
+    #         idx12 = idx * 2 + 1 # for layer 12
+    #         # col.plot(data[idx0],color='r',ls='-', label='layer0')
+    #         # col.plot(data[idx12],color='r',ls='--', label='layer12')
+    #         col.plot(data_general[idx0],color='b',ls='-', label='layer0')
+    #         col.plot(data_general[idx12],color='b',ls='--', label='layer12')
+    #         col.plot(data_specific[idx0],color='r',ls='-', label='layer0')
+    #         col.plot(data_specific[idx12],color='r',ls='--', label='layer12')
+    #         if len(data[idx0]) < 20:
+    #             col.set_xticks(np.arange(0,len(data[idx0]), step=5), [z*10 for z in range(0,len(data[idx0]),5)])
+    #         else:
+    #             col.set_xticks(np.arange(0,len(data[idx0]), step=10), [z*10 for z in range(0,len(data[idx0]),10)])
+    #         # if i == len(ax)-1 and j == 3:
+    #         #     col.legend(['embedding-all', 'embedding-general', 'embedding-specific', 'layer12-all', 'layer12-general', 'layer12-specific'], loc='upper left', bbox_to_anchor=(-1., -0.1))
+    #         title = 'm='+str(ms[i])+'%'+' d='+str(ds[j])+'%'
+    #         col.set_title(title)
+    # fig.legend(['embedding-general-lexicon', 'layer12-general-lexicon', 'embedding-specific-lexicon', 'layer12-specific-lexicon'], loc='lower left', bbox_to_anchor=(0.02, 0.), ncol=4)
+    # plt.tight_layout(rect=[0,0.06,1,1])
+    # # plt.show() 
+    # plt.savefig('figures/books_training_dynamics_partial.pdf') 
 
     # # portrait partial (only d=100 and d=200)
     # fig, ax = plt.subplots(nrows=5, ncols=2, figsize=(10,12))
@@ -583,7 +583,7 @@ if __name__ == '__main__':
     #     [0.999999947,0.916968167,0.510020091,0.451122451,0.436232362,0.428247489,0.421026695,0.416444893,0.411817453,0.40776041,0.403974535,0.399896254,0.396703481,0.393354937,0.390045149,0.386474242,0.383497042,0.380341999,0.37821414,0.375764723,0.373481591,0.371313022],
     #     [0.999999943,0.901710548,0.496470081,0.443762949,0.429554194,0.421087247,0.413476786,0.408230629,0.402775892,0.398381624,0.39344249,0.389100236,0.385353937,0.381756643,0.378092226,0.373823815,0.370538343,0.367046754,0.364121142,0.361614237,0.358819223,0.35647856]
     # ]
-    # data = [
+    # home_data = [
     #     [0.999999986,0.999228311,0.986518604,0.967869773,0.955217328,0.944224119,0.934006353,0.92396311,0.914365823,0.905242299,0.896435118,0.888062979,0.87990779,0.871911907,0.864544632,0.857709062,0.851002257,0.844749206,0.838965834,0.833318072,0.828080851,0.82310756],
     #     [0.999999983,0.998468988,0.978550368,0.945478432,0.927522334,0.912177175,0.898034161,0.884569209,0.871788344,0.85997632,0.848040309,0.836858441,0.826221014,0.815676869,0.806283724,0.797181112,0.788575231,0.780435739,0.772676902,0.765594508,0.758919926,0.753018396],
     #     [0.999999981,0.997885241,0.964047851,0.909048923,0.884857027,0.864814905,0.84620037,0.829562549,0.813976779,0.798998508,0.784293368,0.770625924,0.758114828,0.746050832,0.735068883,0.723946623,0.715224263,0.704839921,0.696435974,0.689035731,0.681452411,0.67544011],
@@ -613,27 +613,43 @@ if __name__ == '__main__':
     #     [0.999999952,0.947750884,0.690050422,0.484448041,0.460202212,0.449558871,0.441162785,0.436239133,0.432740982,0.428768639,0.425868708,0.422289473,0.419386998,0.416381745,0.413930226,0.410994042,0.40819769,0.405204743,0.402642179,0.400486753,0.397522787,0.395872351],
     #     [0.999999948,0.937557883,0.672880431,0.47747967,0.4540817,0.442585863,0.434096915,0.428655885,0.424090709,0.419434077,0.415808778,0.411788122,0.408299758,0.40481376,0.401938503,0.398180889,0.395008581,0.391722108,0.388703578,0.386336793,0.3829508,0.381241651]
     # ]
-    # plt.rc('font', size=12)
-    # plt.figure(figsize=(7,4))
-    # plt.plot(data[0], label='embedding')
-    # plt.plot(data[1], label='layer1')
-    # plt.plot(data[2], label='layer2')
-    # plt.plot(data[3], label='layer3')
-    # plt.plot(data[4], label='layer4')
-    # plt.plot(data[5], label='layer5')
-    # plt.plot(data[6], label='layer6')
-    # plt.plot(data[7], label='layer7')
-    # plt.plot(data[8], label='layer8')
-    # plt.plot(data[9], label='layer9')
-    # plt.plot(data[10], label='layer10', color='fuchsia')
-    # plt.plot(data[11], label='layer11', color='lime')
-    # plt.plot(data[12], label='layer12', color='blue')
-    # plt.xlabel('epoch')
-    # plt.xticks(np.arange(0,21,step=5), [0,50,100,150,200])
-    # plt.ylabel('SVCCA similarity')
-    # plt.legend(loc='upper left', bbox_to_anchor=(1., 1.))
-    # plt.tight_layout()
-    # # plt.show()
-    # plt.savefig('figures/home_training_dynamics_all_layers.pdf') 
+
+    data = [
+        [0.999999986,0.999228311,0.986518604,0.967869773,0.955217328,0.944224119,0.934006353,0.92396311,0.914365823,0.905242299,0.896435118,0.888062979,0.87990779,0.871911907,0.864544632,0.857709062,0.851002257,0.844749206,0.838965834,0.833318072,0.828080851,0.82310756],
+        [0.999999983,0.998468988,0.982550368,0.945478432,0.927522334,0.912177175,0.898034161,0.884569209,0.871788344,0.85997632,0.848040309,0.836858441,0.826221014,0.815676869,0.806283724,0.797181112,0.788575231,0.780435739,0.772676902,0.765594508,0.758919926,0.753018396],
+        [0.999999981,0.997885241,0.964047851,0.909048923,0.884857027,0.864814905,0.84620037,0.829562549,0.813976779,0.798998508,0.784293368,0.770625924,0.758114828,0.746050832,0.735068883,0.723946623,0.715224263,0.704839921,0.696435974,0.689035731,0.681452411,0.67544011],
+        [0.999999978,0.995937599,0.953406956,0.852856537,0.819721765,0.793497822,0.771311182,0.752653888,0.736490947,0.72039384,0.705568433,0.692668022,0.680486024,0.669266285,0.65885219,0.648680155,0.641360506,0.631263593,0.624149876,0.617796878,0.611177264,0.605954663],
+        [0.999999975,0.994439533,0.947487633,0.797767066,0.760627737,0.731796695,0.707458145,0.686870017,0.669578135,0.653115192,0.638631881,0.626494435,0.615381174,0.60517853,0.596032752,0.58669509,0.578815725,0.571036542,0.565183629,0.559929027,0.554229263,0.549838571],
+        [0.999999972,0.991449434,0.923141633,0.738739524,0.701197513,0.672861816,0.648915508,0.628849335,0.611806368,0.596749566,0.583816125,0.573034037,0.563032946,0.553994688,0.546469869,0.538408288,0.53012804,0.524993735,0.520466086,0.515721808,0.511149622,0.507399952],
+        [0.999999968,0.987122328,0.860266995,0.6992702,0.634048054,0.618059411,0.595667088,0.577648292,0.562598812,0.550510339,0.539634793,0.531056766,0.523033179,0.515552212,0.509838662,0.50340448,0.498297268,0.492836152,0.489609491,0.485541982,0.481990852,0.478823189],
+        [0.999999965,0.981261733,0.807502228,0.654512167,0.581748167,0.559358746,0.541161871,0.52807672,0.517424811,0.509039966,0.50158888,0.495979865,0.490556838,0.485465853,0.48144502,0.476997379,0.472708246,0.469494139,0.467265788,0.464071581,0.461440361,0.459014362],
+        [0.999999961,0.97546904,0.757484396,0.603054928,0.534995204,0.517506577,0.504068202,0.494875866,0.487958281,0.482409164,0.477449364,0.473528144,0.469853167,0.466275073,0.463183397,0.459954922,0.457027876,0.454268196,0.452150957,0.449585373,0.447040755,0.444916878],
+        [0.999999957,0.966300878,0.71866954,0.576437,0.499750749,0.485448073,0.475432426,0.468629081,0.463687125,0.459709091,0.455600985,0.452326051,0.449575778,0.446828062,0.443869644,0.441487807,0.437508259,0.43651238,0.434564683,0.43224898,0.429773076,0.42789756],
+        [0.999999955,0.957671154,0.694421721,0.55014332,0.475754374,0.462980569,0.454969277,0.449866382,0.445586912,0.442457758,0.438824994,0.435792614,0.433390793,0.430699041,0.427916807,0.425487102,0.423291011,0.420517662,0.41835157,0.416051112,0.413538825,0.411322439],
+        [0.999999951,0.947854319,0.666635511,0.533741572,0.460772995,0.448783699,0.441073235,0.43612545,0.431301144,0.428242056,0.424237255,0.421101779,0.41820529,0.415374674,0.412488714,0.409667167,0.407246636,0.404312441,0.401677127,0.399321601,0.396626726,0.394069679],
+        [0.999999947,0.936788948,0.658074177,0.515168894,0.453356274,0.441103633,0.433190408,0.427702681,0.422622239,0.419145494,0.414221317,0.41046949,0.407124094,0.403843398,0.400636957,0.397138911,0.394326119,0.391017227,0.387822315,0.385348031,0.38206662,0.379279015]
+    ]
+    plt.rc('font', size=12)
+    plt.figure(figsize=(7,4))
+    plt.plot(data[0], label='embedding')
+    plt.plot(data[1], label='layer1')
+    plt.plot(data[2], label='layer2')
+    plt.plot(data[3], label='layer3')
+    plt.plot(data[4], label='layer4')
+    plt.plot(data[5], label='layer5')
+    plt.plot(data[6], label='layer6')
+    plt.plot(data[7], label='layer7')
+    plt.plot(data[8], label='layer8')
+    plt.plot(data[9], label='layer9')
+    plt.plot(data[10], label='layer10', color='fuchsia')
+    plt.plot(data[11], label='layer11', color='lime')
+    plt.plot(data[12], label='layer12', color='blue')
+    plt.xlabel('epoch')
+    plt.xticks(np.arange(0,21,step=5), [0,50,100,150,200])
+    plt.ylabel('SVCCA similarity')
+    plt.legend(loc='upper left', bbox_to_anchor=(1., 1.))
+    plt.tight_layout()
+    # plt.show()
+    plt.savefig('figures/movie_training_dynamics_all_layers.pdf') 
 
 

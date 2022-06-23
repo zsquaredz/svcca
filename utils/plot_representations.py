@@ -161,8 +161,8 @@ def plot_embedding_weights2():
     exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
     epoch1s = ['501','501','251','131']
     epoch2s = ['501','501','101','181'] # books
-    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone'), (6135, 'totally'), (7672, 'democrat'), (2691, 'common'), (2767, 'friend'), (8544,'publishers')] 
-    general_words = [(22524, 'appendix'), (4863, 'explain'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical'), (3465, 'cost'), (5640, 'arabic'), (14671, 'diabetes'), (9672, 'gripped'), (16926, 'academia')]
+    specific_words = [(7592, 'hello'), (2646, 'toward'), (7615, 'comment'), (4952, 'listen'), (3071, 'everyone'), (6135, 'totally'), (4863, 'explain'), (2691, 'common'), (2767, 'friend'), (3465, 'cost')] 
+    general_words = [(22524, 'appendix'), (7672, 'democrat'), (8882, 'curriculum'), (24402, 'grammatical'), (18534, 'autobiographical'), (8544,'publishers'), (5640, 'arabic'), (14671, 'diabetes'), (9672, 'gripped'), (16926, 'academia')]
     for i in range(4):
         EXP_NAME1=exp_names1[i]
         MODEL_CAT1='top5'
@@ -225,7 +225,7 @@ def plot_embedding_weights2():
         ax.set_yticklabels([])
         
         # ax.axis('off')
-        fig.savefig("trial-s-"+str(i)+".png",
+        fig.savefig("trial-c-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
@@ -518,6 +518,107 @@ def plot_embedding_layer_representation_with_mask1():
                     transparent=True)
 
         plt.clf()
+
+def plot_embedding_layer_representation_with_mask2():
+    # random.seed(30)
+    # indices = (random.sample(range(0,117499),k=2500)) # books: 430923 clothing: 117499
+
+    plt.figure(dpi=600)
+    exp_names1 = ['10_model_10_data','10_model_100_data','100_model_10_data','100_model_100_data']
+    exp_names2 = ['new_control_10_model_10_data','new_control_10_model_100_data','new_control_100_model_10_data','new_control_100_model_100_data']
+    epoch1s = ['501','501','251','131']
+    epoch2s = ['501','501','101','181'] # books
+    # epoch2s = ['501','501','501','501','501'] # clothing
+    for i in range(4):
+        EXP_NAME1=exp_names1[i]
+        MODEL_CAT1='top5'
+        epoch1=epoch1s[i]
+
+        EXP_NAME2=exp_names2[i]
+        MODEL_CAT2='Books'
+        epoch2=epoch2s[i]
+
+        model_path1 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME1}/{MODEL_CAT1}/epoch{epoch1}/Books_layer_0_hidden_state.npy'
+        model_path2 = f'/disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed1/{EXP_NAME2}/{MODEL_CAT2}/epoch{epoch2}/Books_layer_0_hidden_state.npy'
+        
+        acts1 = np.load(model_path1) # data points x number of hidden dimension 
+        acts2 = np.load(model_path2)
+        print(acts1.shape)
+
+        X = np.concatenate((acts1, acts2),axis=0)
+        X = StandardScaler().fit_transform(X)
+        X_3d = PCA(n_components=2).fit_transform(X)
+        print(X_3d.shape)
+        size = X_3d.shape[0]//2
+
+        general_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.general'
+        specific_mask_file = f'/disk/ocean/zheng/summarization_svcca/data/AmazonReviews/{MODEL_CAT2}/Test_2500_{MODEL_CAT2}.txt.specific'
+        with open(general_mask_file) as f:
+            word_mask_list_gen = []
+            for line in f.readlines():
+                word_mask_list_gen += [int(x) for x in line.strip().split()]
+        word_mask_gen = np.array(word_mask_list_gen, dtype=bool)
+        assert len(word_mask_gen) == acts1.shape[0] # sanity check
+
+        with open(specific_mask_file) as f:
+            word_mask_list_spe = []
+            for line in f.readlines():
+                word_mask_list_spe += [int(x) for x in line.strip().split()]
+        word_mask_spe = np.array(word_mask_list_spe, dtype=bool)
+        assert len(word_mask_spe) == acts1.shape[0] # sanity check
+
+        general_data = X_3d[:size]
+        general_data_gen = general_data[word_mask_gen]
+        general_data_spe = general_data[word_mask_spe]
+
+        control_data = X_3d[size:]
+        control_data_gen = control_data[word_mask_gen]
+        control_data_spe = control_data[word_mask_spe]
+        
+        random.seed(30)
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
+        indices_exp = (random.sample(range(0,general_data.shape[0]), k=1000))
+        indices_con = (random.sample(range(0,control_data.shape[0]), k=1000))
+        data = {}
+        data["experimental"] = np.take(general_data, indices_exp, axis=0) # books: 430923 clothing: 117499
+        data["control"] = np.take(control_data, indices_con, axis=0)
+
+
+        fig = plt.figure()
+        ax = fig.add_subplot(111)
+        for label, marker, color in zip(['experimental'], ['3'], ["blue"]):
+        # for label, marker, color in zip(['control'], [ (5,2)], ['red']):
+            X_temp = data[label]
+            ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
+                    label=label,
+                    marker=marker,
+                    color=color,
+                    alpha=0.5)
+        if i==3:
+            legend = ax.legend()
+            h, l = ax.get_legend_handles_labels()
+            l = [l[0]]
+            h = [h[0]]
+            legend = ax.legend(h,
+                            l,
+                            loc='upper right',
+                            fontsize=12,
+                            framealpha=0.6,
+                            markerscale=1)
+            for lh in legend.legendHandles:
+                lh.set_alpha(1)
+        ax.set_xticklabels([])
+        ax.set_yticklabels([])
+        # ax.axis('off')
+        fig.savefig("trial_embedding_layer_exp_representation_mask-"+str(i)+".png",
+                    format='png',
+                    bbox_inches='tight',
+                    dpi=600,
+                    transparent=True)
+
+        plt.clf()
+
 
 def plot_embedding_layer_representation_with_mask_model():
     # random.seed(30)
@@ -1054,9 +1155,10 @@ def plot_final_layer_representation_with_mask1():
 
 if __name__ == '__main__':
     # plot_embedding_weights1()
-    plot_embedding_weights2()
+    # plot_embedding_weights2()
     # plot_embedding_layer_representation()
     # plot_embedding_layer_representation_with_mask1()
+    plot_embedding_layer_representation_with_mask2()
     # plot_embedding_layer_representation_with_mask_data()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
