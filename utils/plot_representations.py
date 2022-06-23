@@ -587,7 +587,7 @@ def plot_embedding_layer_representation_with_mask2():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3', '3'], ["blue", 'blue']):
+        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3', '3'], ["cyan", 'cyan']):
         # for label, marker, color in zip(['control', 'control-specific'], [ (5,2), (5,2)], ['red', 'red']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
@@ -597,14 +597,14 @@ def plot_embedding_layer_representation_with_mask2():
                     alpha=0.5)
             random.seed(31)
             indices_gen1 = (random.sample(range(0,5000), k=10))
-            print(indices_gen1)
+            # print(indices_gen1)
             random.seed(35)
             indices_spe1 = (random.sample(range(0,1000), k=10))
-            print(indices_spe1)
+            # print(indices_spe1)
             aa = [100, 3846, 920, 3218, 1153, 354, 1136, 921, 4384, 1898]
             bb = [561, 343, 768, 134, 765, 348, 885, 157, 292, 442]
             if label == 'experimental':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in [100, 1, 202, 3218, 1153, 354, 1136, 921, 4384, 1898]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=14, color='black') for idx in [100, 1, 202, 3218, 1153, 354, 1136, 921, 4384, 1898]]
 
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='black') for idx in [indices_gen1[0]]]
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '2', fontsize=12.5, color='black') for idx in [indices_gen1[1]]]
@@ -621,7 +621,7 @@ def plot_embedding_layer_representation_with_mask2():
                 # texts=[ax.text(X_temp[202,0], X_temp[202,1], 'e', fontsize=12.5, color='black')]
                 # texts=[ax.text(X_temp[4055,0], X_temp[4055,1], 'e', fontsize=12.5, color='black') ]
             elif label == 'experimental-specific':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in [561, 343, 0, 134, 101, 348, 885, 157, 292, 442]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=14, color='black') for idx in [561, 343, 0, 134, 101, 348, 885, 157, 292, 442]]
 
 
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='red') for idx in [indices_spe1[0]]]
@@ -638,9 +638,9 @@ def plot_embedding_layer_representation_with_mask2():
                 # texts=[ax.text(X_temp[101,0], X_temp[101,1], 'c', fontsize=12.5, color='red') ]
                 # texts=[ax.text(X_temp[303,0], X_temp[303,1], 'c', fontsize=12.5, color='red') ]
             elif label == 'control':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=14, color='black') for idx in indices_gen1]
             elif label == 'control-specific':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=14, color='black') for idx in indices_spe1]
             adjust_text(texts)
         if i==3:
             legend = ax.legend()
@@ -650,7 +650,7 @@ def plot_embedding_layer_representation_with_mask2():
             legend = ax.legend(h,
                             l,
                             loc='upper right',
-                            fontsize=12,
+                            fontsize=15,
                             framealpha=0.6,
                             markerscale=1)
             for lh in legend.legendHandles:
