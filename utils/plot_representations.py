@@ -621,7 +621,7 @@ def plot_embedding_layer_representation_with_mask2():
                 # texts=[ax.text(X_temp[202,0], X_temp[202,1], 'e', fontsize=12.5, color='black')]
                 # texts=[ax.text(X_temp[4055,0], X_temp[4055,1], 'e', fontsize=12.5, color='black') ]
             elif label == 'experimental-specific':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in [561, 343, 303, 134, 101, 348, 885, 157, 292, 442]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in [561, 343, 0, 134, 101, 348, 885, 157, 292, 442]]
 
 
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='red') for idx in [indices_spe1[0]]]
