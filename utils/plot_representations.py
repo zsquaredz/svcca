@@ -601,10 +601,42 @@ def plot_embedding_layer_representation_with_mask2():
             random.seed(35)
             indices_spe1 = (random.sample(range(0,1000), k=10))
             print(indices_spe1)
+            aa = [100, 3846, 920, 3218, 1153, 354, 1136, 921, 4384, 1898]
+            bb = [561, 343, 768, 134, 765, 348, 885, 157, 292, 442]
             if label == 'experimental':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
+                # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
+
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='black') for idx in indices_gen1[0]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '2', fontsize=12.5, color='black') for idx in indices_gen1[1]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '3', fontsize=12.5, color='black') for idx in indices_gen1[2]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '4', fontsize=12.5, color='black') for idx in indices_gen1[3]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '5', fontsize=12.5, color='black') for idx in indices_gen1[4]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '6', fontsize=12.5, color='black') for idx in indices_gen1[5]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '7', fontsize=12.5, color='black') for idx in indices_gen1[6]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '8', fontsize=12.5, color='black') for idx in indices_gen1[7]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '9', fontsize=12.5, color='black') for idx in indices_gen1[8]]
+
+
+                texts=[ax.text(X_temp[1,0], X_temp[1,1], 'e', fontsize=12.5, color='black') ]
+                texts=[ax.text(X_temp[202,0], X_temp[202,1], 'e', fontsize=12.5, color='black')]
+                texts=[ax.text(X_temp[5055,0], X_temp[5055,1], 'e', fontsize=12.5, color='black') ]
             elif label == 'experimental-specific':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
+                # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=12.5, color='black') for idx in indices_spe1]
+
+
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='red') for idx in indices_spe1[0]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '2', fontsize=12.5, color='red') for idx in indices_spe1[1]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '3', fontsize=12.5, color='red') for idx in indices_spe1[2]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '4', fontsize=12.5, color='red') for idx in indices_spe1[3]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '5', fontsize=12.5, color='red') for idx in indices_spe1[4]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '6', fontsize=12.5, color='red') for idx in indices_spe1[5]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '7', fontsize=12.5, color='red') for idx in indices_spe1[6]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '8', fontsize=12.5, color='red') for idx in indices_spe1[7]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '9', fontsize=12.5, color='red') for idx in indices_spe1[8]]
+
+                texts=[ax.text(X_temp[0,0], X_temp[0,1], 'c', fontsize=12.5, color='red') ]
+                texts=[ax.text(X_temp[101,0], X_temp[101,1], 'c', fontsize=12.5, color='red') ]
+                texts=[ax.text(X_temp[303,0], X_temp[303,1], 'c', fontsize=12.5, color='red') ]
             elif label == 'control':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 'g', fontsize=12.5, color='black') for idx in indices_gen1]
             elif label == 'control-specific':
