@@ -576,7 +576,7 @@ def plot_embedding_layer_representation_with_mask2():
         control_data_spe = control_data[word_mask_spe]
         
         random.seed(30)
-        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=1000))
+        indices_gen = (random.sample(range(0,general_data_gen.shape[0]), k=5000))
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
         data["experimental"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
@@ -596,7 +596,7 @@ def plot_embedding_layer_representation_with_mask2():
                     color=color,
                     alpha=0.5)
             random.seed(31)
-            indices_gen1 = (random.sample(range(0,1000), k=10))
+            indices_gen1 = (random.sample(range(0,5000), k=10))
             random.seed(35)
             indices_spe1 = (random.sample(range(0,1000), k=10))
             if label == 'experimental':
