@@ -587,8 +587,8 @@ def plot_embedding_layer_representation_with_mask2():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3'], ["blue"]):
-        # for label, marker, color in zip(['control-general', 'control-specific], [ (5,2)], ['red']):
+        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3', '3'], ["blue", 'blue']):
+        # for label, marker, color in zip(['control-general', 'control-specific], [ (5,2), (5,2)], ['red', 'red]):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
