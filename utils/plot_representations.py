@@ -889,7 +889,7 @@ def plot_embedding_layer_representation_with_mask_model():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['E-general', 'C-Books-general', 'E-specific', 'C-Book-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+        for label, marker, color in zip(['E-general', 'C-Books-general', 'E-specific', 'C-Books-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
