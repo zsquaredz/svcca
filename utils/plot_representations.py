@@ -759,7 +759,7 @@ def plot_embedding_layer_representation_with_mask2():
             aa = [100, 3846, 920, 3218, 1153, 354, 1136, 921, 4384, 1898]
             bb = [561, 343, 768, 134, 765, 348, 885, 157, 292, 442]
             if label == 'experimental':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '◻', fontsize=14, color='black') for idx in [100, 1, 202, 3218, 1153, 354, 1136, 921, 4384, 1898]]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '◼', fontsize=14, color='black') for idx in [100, 1, 202, 3218, 1153, 354, 1136, 921, 4384, 1898]]
 
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '1', fontsize=12.5, color='black') for idx in [indices_gen1[0]]]
                 # texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '2', fontsize=12.5, color='black') for idx in [indices_gen1[1]]]
@@ -793,7 +793,7 @@ def plot_embedding_layer_representation_with_mask2():
                 # texts=[ax.text(X_temp[101,0], X_temp[101,1], 'c', fontsize=12.5, color='red') ]
                 # texts=[ax.text(X_temp[303,0], X_temp[303,1], 'c', fontsize=12.5, color='red') ]
             elif label == 'control':
-                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '◻', fontsize=14, color='black') for idx in indices_gen1]
+                texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '◼', fontsize=14, color='black') for idx in indices_gen1]
             elif label == 'control-specific':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], '▲', fontsize=14, color='black') for idx in indices_spe1]
             adjust_text(texts)
