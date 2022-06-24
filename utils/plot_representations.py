@@ -882,9 +882,9 @@ def plot_embedding_layer_representation_with_mask_model():
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
         data["E-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
-        data["Ci-general"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["C-Books-general"] = np.take(control_data_gen, indices_gen, axis=0)
         data["E-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
-        data["Ci-specific"] = np.take(control_data_spe, indices_spe, axis=0)
+        data["C-Books-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
@@ -1571,9 +1571,9 @@ def plot_final_layer_representation_with_mask_model():
         indices_spe = (random.sample(range(0,general_data_spe.shape[0]), k=1000))
         data = {}
         data["E-general"] = np.take(general_data_gen, indices_gen, axis=0) # books: 430923 clothing: 117499
-        data["Ci-general"] = np.take(control_data_gen, indices_gen, axis=0)
+        data["C-Books-general"] = np.take(control_data_gen, indices_gen, axis=0)
         data["E-specific"] = np.take(general_data_spe, indices_spe, axis=0) # books: 430923 clothing: 117499
-        data["Ci-specific"] = np.take(control_data_spe, indices_spe, axis=0)
+        data["C-Books-specific"] = np.take(control_data_spe, indices_spe, axis=0)
 
 
         fig = plt.figure()
