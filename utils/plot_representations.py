@@ -797,7 +797,7 @@ def plot_embedding_layer_representation_with_mask2():
             elif label == 'control-specific':
                 texts=[ax.text(X_temp[idx,0], X_temp[idx,1], 's', fontsize=14, color='black') for idx in indices_spe1]
             adjust_text(texts)
-        if i==3:
+        if i==33:
             legend = ax.legend()
             h, l = ax.get_legend_handles_labels()
             l = [l[0]]
@@ -889,7 +889,7 @@ def plot_embedding_layer_representation_with_mask_model():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['E-general', 'Ci-general', 'E-specific', 'Ci-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+        for label, marker, color in zip(['E-general', 'C-Books-general', 'E-specific', 'C-Book-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -1578,7 +1578,7 @@ def plot_final_layer_representation_with_mask_model():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        for label, marker, color in zip(['E-general', 'Ci-general', 'E-specific', 'Ci-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
+        for label, marker, color in zip(['E-general', 'C-Books-general', 'E-specific', 'C-Books-specific'], ['3', (5,2), '+', '1'], ["blue", 'red', 'cyan', 'magenta']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -1618,11 +1618,11 @@ if __name__ == '__main__':
     # plot_embedding_layer_representation_with_mask1()
     plot_embedding_layer_representation_with_mask2()
     # plot_embedding_layer_representation_with_mask_data()
-    # plot_embedding_layer_representation_with_mask_model()
+    plot_embedding_layer_representation_with_mask_model()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
     # plot_final_layer_representation_1()
     # plot_final_layer_representation_model()
     # plot_final_layer_representation_with_mask1()
-    # plot_final_layer_representation_with_mask_model()
+    plot_final_layer_representation_with_mask_model()
