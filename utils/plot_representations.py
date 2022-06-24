@@ -490,7 +490,7 @@ def plot_embedding_layer_representation_1():
         ax.set_xticklabels([])
         ax.set_yticklabels([])
         # ax.axis('off')
-        fig.savefig("trial_embedding_layer_representation_mask-"+str(i)+".png",
+        fig.savefig("trial_embedding_layer_representation-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
@@ -742,8 +742,8 @@ def plot_embedding_layer_representation_with_mask2():
 
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        # for label, marker, color in zip(['experimental', 'experimental-specific'], ['3', '3'], ["cyan", 'cyan']):
-        for label, marker, color in zip(['control', 'control-specific'], [ (5,2), (5,2)], ['red', 'red']):
+        for label, marker, color in zip(['experimental', 'experimental-specific'], ['3', '3'], ["tab:blue", 'tab:blue']):
+        # for label, marker, color in zip(['control', 'control-specific'], [ (5,2), (5,2)], ['red', 'red']):
             X_temp = data[label]
             ax.scatter(x=X_temp[:, 0], y=X_temp[:, 1],
                     label=label,
@@ -813,7 +813,7 @@ def plot_embedding_layer_representation_with_mask2():
         ax.set_xticklabels([])
         ax.set_yticklabels([])
         # ax.axis('off')
-        fig.savefig("trial_embedding_layer_con_representation_mask-"+str(i)+".png",
+        fig.savefig("trial_embedding_layer_exp_representation_mask-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
@@ -1226,7 +1226,7 @@ def plot_final_layer_representation_1():
         ax.set_xticklabels([])
         ax.set_yticklabels([])
         # ax.axis('off')
-        fig.savefig("trial_final_layer_representation_mask-"+str(i)+".png",
+        fig.savefig("trial_final_layer_representation-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
                     dpi=600,
@@ -1616,13 +1616,13 @@ if __name__ == '__main__':
     # plot_embedding_layer_representation_1()
     # plot_embedding_layer_representation_model()
     # plot_embedding_layer_representation_with_mask1()
-    # plot_embedding_layer_representation_with_mask2()
+    plot_embedding_layer_representation_with_mask2()
     # plot_embedding_layer_representation_with_mask_data()
-    plot_embedding_layer_representation_with_mask_model()
+    # plot_embedding_layer_representation_with_mask_model()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
     # plot_final_layer_representation_1()
     # plot_final_layer_representation_model()
     # plot_final_layer_representation_with_mask1()
-    plot_final_layer_representation_with_mask_model()
+    # plot_final_layer_representation_with_mask_model()
