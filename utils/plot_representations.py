@@ -816,7 +816,7 @@ def plot_embedding_layer_representation_with_mask2():
         fig.savefig("trial_embedding_layer_con_representation_mask-"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
-                    dpi=600,
+                    dpi=300,
                     transparent=True)
 
         plt.clf()
@@ -915,7 +915,7 @@ def plot_embedding_layer_representation_with_mask_model():
         fig.savefig("trial_embedding_layer_representation_mask_model"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
-                    dpi=600,
+                    dpi=300,
                     transparent=True)
 
         plt.clf()
@@ -1604,7 +1604,7 @@ def plot_final_layer_representation_with_mask_model():
         fig.savefig("trial_final_layer_representation_mask_model"+str(i)+".png",
                     format='png',
                     bbox_inches='tight',
-                    dpi=600,
+                    dpi=300,
                     transparent=True)
 
         plt.clf()
@@ -1618,11 +1618,11 @@ if __name__ == '__main__':
     # plot_embedding_layer_representation_with_mask1()
     plot_embedding_layer_representation_with_mask2()
     # plot_embedding_layer_representation_with_mask_data()
-    # plot_embedding_layer_representation_with_mask_model()
+    plot_embedding_layer_representation_with_mask_model()
     # plot_five_embedding_weights()
     # plot_final_layer_weights()
     # plot_final_layer_representation()
     # plot_final_layer_representation_1()
     # plot_final_layer_representation_model()
     # plot_final_layer_representation_with_mask1()
-    # plot_final_layer_representation_with_mask_model()
+    plot_final_layer_representation_with_mask_model()
