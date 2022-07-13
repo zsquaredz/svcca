@@ -103,7 +103,8 @@ do
     for layer in {0,1,2,3,4,5,6,7,8,9,10,11,12}
     do
       epoch1=0
-      epoch2=${epoch2_best}
+      # epoch2=${epoch2_best}
+      epoch2=0
       echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
       python analysis.py \
         --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
@@ -115,7 +116,8 @@ do
       for ((epoch=1;epoch<=${epoch1_end};epoch+=10))
       do
         epoch1=${epoch}
-        epoch2=${epoch2_best}
+        # epoch2=${epoch2_best}
+        epoch2=${epoch}
         echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
         python analysis.py \
           --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
