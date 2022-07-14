@@ -7,7 +7,7 @@ cd /disk/ocean/zheng/svcca/
 
 # m=100 # 10, 25, 50, 75, 100
 # SVD_DIM=700 # 68, 180, 365, 535, 700
-for m in {50,}
+for m in {100,}
 do
   for d in {100,}
     do
