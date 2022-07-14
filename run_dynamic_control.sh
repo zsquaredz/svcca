@@ -11,7 +11,7 @@ for m in {100,}
 do
   for d in {100,}
     do
-    EXP_NAME1=${m}_model_${d}_data
+    EXP_NAME1=new_control_${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
 
     MODEL_CAT1=Clothing_Shoes_and_Jewelry
