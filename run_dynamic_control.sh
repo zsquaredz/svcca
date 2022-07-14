@@ -14,8 +14,8 @@ do
     EXP_NAME1=${m}_model_${d}_data
     EXP_NAME2=new_control_${m}_model_${d}_data
 
-    MODEL_CAT1=top5
-    DATA_CATEGORY1=Books
+    MODEL_CAT1=Clothing_Shoes_and_Jewelry
+    DATA_CATEGORY1=Clothing_Shoes_and_Jewelry
     seed1=1
 
     MODEL_CAT2=Books
