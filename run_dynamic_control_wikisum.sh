@@ -18,11 +18,11 @@ for s1; do
     EXP_NAME2=new_control_${m}_model_${d}_data
 
     MODEL_CAT1=top5
-    DATA_CATEGORY1=Health
+    DATA_CATEGORY1=Books
     seed1=${s1}
 
-    MODEL_CAT2=Health
-    DATA_CATEGORY2=Health
+    MODEL_CAT2=Books
+    DATA_CATEGORY2=Books
     seed2=${s2}
     # epoch2=171
     if (( $m == 10 )) ; then
@@ -110,8 +110,8 @@ for s1; do
       epoch2=0
       echo "currently doing ${EXP_NAME1} epoch ${epoch1}, ${EXP_NAME2} epoch ${epoch2}, seed-${seed1}-Model-${MODEL_CAT1}-layer-${layer}, and seed-${seed2}-Model-${MODEL_CAT2}-layer-${layer}"
       python analysis.py \
-        --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/wikisum/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
-        --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/wikisum/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
+        --data_dir1 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed1}/${EXP_NAME1}/${MODEL_CAT1}/epoch${epoch1}/${DATA_CATEGORY1}_layer_${layer}_hidden_state.npy \
+        --data_dir2 /disk/ocean/zheng/summarization_svcca/out/activations/amazon_reviews/seed${seed2}/${EXP_NAME2}/${MODEL_CAT2}/epoch${epoch2}/${DATA_CATEGORY2}_layer_${layer}_hidden_state.npy \
         --do_svcca \
         --svd_dim1 $SVD_DIM \
         --svd_dim2 $SVD_DIM
